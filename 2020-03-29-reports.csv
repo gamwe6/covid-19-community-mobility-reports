@@ -1,183 +1,3745 @@
-code,retail-and-recreation,grocery-and-pharmacy,parks,transit-stations,workplaces,residential
-ae,-55%,-26%,-53%,-69%,-45%,+26%
-af,-38%,-21%,-13%,-34%,-33%,+10%
-ag,-46%,-21%,-30%,-67%,-48%,+17%
-ao,-61%,-40%,-39%,-57%,-11%,+22%
-ar,-86%,-61%,-89%,-80%,-57%,+27%
-at,-87%,-64%,-43%,-71%,-51%,+14%
-au,-45%,-19%,-35%,-58%,-33%,+13%
-aw,-88%,-66%,-80%,-88%,-72%,+20%
-ba,-76%,-50%,-22%,-59%,-50%,+13%
-bb,-70%,-47%,-60%,-77%,-52%,+15%
-bd,-68%,-46%,-26%,-66%,-60%,+24%
-be,-84%,-53%,-66%,-76%,-52%,+17%
-bf,-34%,-25%,-22%,-53%,-3%,+15%
-bg,-66%,-36%,-32%,-58%,-29%,+11%
-bh,-45%,-22%,-40%,-38%,-25%,+16%
-bj,-16%,+0%,+10%,-14%,+2%,+5%
-bo,-93%,-94%,-89%,-92%,-72%,+35%
-br,-71%,-35%,-70%,-62%,-34%,+17%
-bs,-67%,-34%,-48%,-87%,-52%,+19%
-bw,-12%,-2%,+7%,-20%,-3%,+13%
-by,-14%,+5%,+41%,-7%,+3%,-2%
-bz,-63%,-49%,-38%,-68%,-42%,+13%
-ca,-59%,-35%,-16%,-66%,-44%,+14%
-ch,-81%,-51%,-41%,-68%,-46%,+15%
-ci,-35%,-21%,-21%,-33%,-9%,+14%
-cl,-73%,-55%,-72%,-64%,-42%,+24%
-cm,-26%,-20%,-19%,-23%,-3%,+9%
-co,-86%,-68%,-80%,-82%,-58%,+26%
-cr,-68%,-41%,-71%,-68%,-39%,+21%
-cv,-60%,-48%,-57%,-88%,-40%,+19%
-cz,-73%,-26%,-24%,-61%,-31%,+11%
-de,-77%,-51%,-49%,-68%,-39%,+11%
-dk,-37%,-22%,+35%,-60%,-28%,+9%
-do,-80%,-63%,-73%,-84%,-56%,+23%
-ec,-84%,-66%,-80%,-80%,-61%,+26%
-ee,-60%,-28%,+4%,-51%,-32%,+10%
-eg,-50%,-24%,-40%,-52%,-35%,+15%
-es,-94%,-76%,-89%,-88%,-64%,+22%
-fi,-52%,-21%,+48%,-59%,-25%,+9%
-fj,-39%,-25%,-13%,-59%,-6%,+12%
-fr,-88%,-72%,-82%,-87%,-56%,+18%
-ga,-39%,-24%,-25%,-47%,-15%,+15%
-gb,-85%,-46%,-52%,-75%,-55%,+15%
-ge,-67%,-36%,-24%,-53%,-38%,+12%
-gh,-15%,+8%,-15%,-15%,+3%,+9%
-gr,-80%,-41%,-55%,-76%,-53%,+20%
-gt,-67%,-39%,-53%,-69%,-39%,+19%
-gw,-50%,-11%,-25%,,-27%,
-hk,-35%,-7%,-43%,-45%,-24%,+16%
-hn,-81%,-64%,-59%,-74%,-46%,+20%
-hr,-82%,-57%,-45%,-74%,-50%,+15%
-ht,-34%,-31%,-19%,-48%,-14%,+7%
-hu,-66%,-43%,-7%,-53%,-32%,+10%
-id,-47%,-27%,-52%,-54%,-15%,+15%
-ie,-83%,-37%,-59%,-78%,-52%,+19%
-il,-67%,-13%,-56%,-61%,-59%,+30%
-in,-77%,-65%,-57%,-71%,-47%,+22%
-iq,-64%,-42%,-48%,-61%,-55%,+21%
-it,-94%,-85%,-90%,-87%,-63%,+24%
-jm,-53%,-36%,-50%,-50%,-29%,+12%
-jo,-74%,-52%,-59%,-89%,-73%,+27%
-jp,-26%,-7%,-25%,-41%,-9%,+7%
-ke,-45%,-33%,-20%,-39%,-22%,+17%
-kg,-74%,-64%,-32%,-70%,-43%,+15%
-kh,-43%,-29%,-31%,-57%,-15%,+12%
-kr,-19%,+11%,+51%,-17%,-12%,+6%
-kw,-56%,-30%,-48%,-49%,-42%,+23%
-kz,-45%,-24%,-20%,-32%,-17%,+9%
-la,-45%,-23%,-18%,-47%,-9%,+11%
-lb,-73%,-48%,-59%,-84%,-41%,+15%
-li,-90%,-22%,,-58%,-37%,
-lk,-86%,-87%,-57%,-78%,-50%,+32%
-lt,-72%,-38%,-28%,-63%,-33%,+11%
-lu,-90%,-70%,-66%,-78%,-60%,+23%
-lv,-50%,-22%,-18%,-48%,-25%,+7%
-ly,-49%,-28%,-32%,-52%,-36%,+21%
-md,-67%,-44%,-43%,-68%,-37%,+12%
-mk,-74%,-41%,-44%,-69%,-51%,+18%
-ml,-25%,-18%,-12%,-36%,+0%,+9%
-mm,-46%,-29%,-19%,-35%,-10%,+12%
-mn,-16%,+5%,+5%,-16%,-2%,+2%
-mt,-76%,-38%,-45%,-57%,-49%,+19%
-mu,-89%,-86%,-88%,-89%,-69%,+24%
-mx,-45%,-19%,-46%,-47%,-20%,+11%
-my,-81%,-58%,-68%,-83%,-52%,+31%
-mz,-26%,-13%,-22%,-29%,+1%,+10%
-na,-56%,-42%,-39%,-74%,-28%,+16%
-ne,-23%,-15%,-19%,-25%,-1%,+9%
-ng,-39%,-25%,-24%,-34%,-11%,+15%
-ni,-45%,-25%,-31%,-38%,-17%,+11%
-nl,-65%,-29%,-30%,-68%,-35%,+11%
-no,-65%,-32%,-5%,-57%,-34%,+11%
-np,-78%,-69%,-55%,-74%,-72%,+28%
-nz,-91%,-54%,-78%,-84%,-59%,+22%
-om,-52%,-35%,-41%,-64%,-34%,+17%
-pa,-84%,-61%,-78%,-77%,-59%,+31%
-pe,-82%,-57%,-76%,-83%,-55%,+29%
-pg,-20%,-9%,-12%,-46%,+11%,+12%
-ph,-81%,-59%,-59%,-82%,-54%,+26%
-pk,-70%,-55%,-45%,-62%,-41%,+18%
-pl,-78%,-59%,-59%,-71%,-36%,+13%
-pr,-77%,-51%,-75%,-79%,-48%,+21%
-pt,-83%,-59%,-80%,-78%,-53%,+22%
-py,-68%,-52%,-71%,-76%,-30%,+23%
-qa,-51%,-25%,-34%,-52%,-31%,+22%
-re,-96%,-88%,-92%,-82%,-53%,
-ro,-81%,-53%,-60%,-72%,-39%,+15%
-rw,-56%,-57%,-18%,-75%,-31%,+22%
-sa,-54%,-24%,-49%,-75%,-45%,+23%
-se,-24%,-10%,+43%,-36%,-18%,+5%
-sg,-28%,-6%,-12%,-40%,-15%,+15%
-si,-88%,-92%,-43%,-54%,-45%,+13%
-sk,-82%,-89%,-9%,-61%,-38%,+10%
-sn,-44%,-31%,-28%,-50%,-10%,+12%
-sv,-81%,-62%,-72%,-73%,-50%,+23%
-tg,-37%,-25%,-21%,-41%,-9%,+16%
-th,-55%,-27%,-54%,-61%,-21%,+16%
-tj,-8%,-8%,+4%,-17%,+10%,-3%
-tr,-75%,-39%,-58%,-71%,-45%,+17%
-tt,-29%,+10%,-40%,-70%,-17%,+9%
-tw,-9%,+3%,+17%,-24%,-1%,+4%
-tz,-16%,-8%,-7%,-11%,-9%,+3%
-ug,-50%,-36%,-16%,-59%,-23%,+19%
-us_alabama,-41%,-13%,+19%,-30%,-32%,+9%
-us_alaska,-48%,-27%,+18%,-55%,-33%,+10%
-us_arizona,-40%,-17%,-7%,-41%,-33%,+10%
-us_arkansas,-29%,-7%,+81%,-22%,-27%,+7%
-us_california,-50%,-24%,-38%,-54%,-39%,+15%
-us_colorado,-51%,-27%,-12%,-60%,-40%,+13%
-us_connecticut,-56%,-32%,-52%,-64%,-38%,+15%
-us_delaware,-47%,-28%,-6%,-57%,-37%,+12%
-us_district_of_columbia,-64%,-30%,-41%,-68%,-47%,+14%
-us_florida,-50%,-26%,-48%,-63%,-41%,+13%
-us_georgia,-42%,-17%,-2%,-52%,-37%,+11%
-us_hawaii,-56%,-36%,-65%,-72%,-45%,+16%
-us_idaho,-42%,-18%,+25%,-34%,-38%,+10%
-us_illinois,-53%,-24%,-29%,-55%,-39%,+13%
-us_indiana,-48%,-25%,+24%,-34%,-36%,+11%
-us_iowa,-43%,-10%,+41%,-28%,-29%,+10%
-us_kansas,-36%,-14%,+72%,-20%,-30%,+9%
-us_kentucky,-37%,-11%,+68%,-34%,-34%,+9%
-us_louisiana,-45%,-16%,-18%,-49%,-35%,+11%
-us_maine,-50%,-22%,-24%,-56%,-31%,+10%
-us_maryland,-45%,-25%,+29%,-51%,-39%,+13%
-us_massachusetts,-59%,-36%,-56%,-73%,-42%,+16%
-us_michigan,-58%,-28%,+15%,-55%,-43%,+12%
-us_minnesota,-58%,-35%,-16%,-64%,-38%,+14%
-us_mississippi,-32%,-7%,+27%,-29%,-30%,+9%
-us_missouri,-38%,-12%,+73%,-34%,-32%,+9%
-us,-47%,-22%,-19%,-51%,-38%,+12%
-us_montana,-51%,-25%,+28%,-37%,-37%,+10%
-us_nebraska,-34%,-9%,+109%,-18%,-24%,+8%
-us_nevada,-47%,-23%,-38%,-62%,-52%,+14%
-us_new_hampshire,-58%,-35%,-63%,-63%,-38%,+13%
-us_new_jersey,-59%,-33%,-36%,-70%,-44%,+16%
-us_new_mexico,-44%,-18%,-12%,-31%,-34%,+11%
-us_new_york,-62%,-32%,-47%,-68%,-46%,+16%
-us_north_carolina,-40%,-15%,+13%,-51%,-35%,+10%
-us_north_dakota,-44%,-13%,+73%,-36%,-24%,+9%
-us_ohio,-43%,-19%,+117%,-33%,-35%,+10%
-us_oklahoma,-36%,-12%,+29%,-23%,-32%,+9%
-us_oregon,-51%,-25%,-22%,-47%,-38%,+12%
-us_pennsylvania,-50%,-27%,+7%,-52%,-38%,+12%
-us_rhode_island,-55%,-30%,-50%,-67%,-37%,+14%
-us_south_carolina,-38%,-11%,-4%,-34%,-34%,+9%
-us_south_dakota,-35%,-3%,+126%,-31%,-25%,+8%
-us_tennessee,-35%,-9%,+35%,-35%,-34%,+8%
-us_texas,-45%,-23%,-27%,-47%,-36%,+13%
-us_utah,-41%,-14%,+26%,-44%,-40%,+10%
-us_vermont,-62%,-42%,-55%,-71%,-43%,+13%
-us_virginia,-39%,-16%,+46%,-50%,-36%,+11%
-us_washington,-48%,-26%,-11%,-56%,-41%,+13%
-us_west_virginia,-38%,-16%,+52%,-31%,-33%,+8%
-us_wisconsin,-55%,-30%,-12%,-50%,-34%,+13%
-us_wyoming,-37%,-13%,+29%,-14%,-29%,+8%
-uy,-75%,-45%,-79%,-71%,-35%,+22%
-ve,-62%,-44%,-57%,-62%,-25%,+16%
-vn,-52%,-29%,-33%,-49%,-20%,+16%
-ye,-8%,-1%,-9%,-9%,-5%,+5%
-za,-79%,-60%,-55%,-80%,-49%,+24%
-zm,-21%,-8%,-6%,-24%,+0%,+10%
-zw,-2%,+24%,-4%,-6%,+14%,+13%
+country,region,sub-region,retail-and-recreation,grocery-and-pharmacy,parks,transit-stations,workplaces,residential
+AE,,,-55,-26,-53,-69,-45,26
+AF,,,-38,-21,-13,-34,-33,10
+AG,,,-46,-21,-30,-67,-48,17
+AO,,,-61,-40,-39,-57,-11,22
+AR,,,-86,-61,-89,-80,-57,27
+AR,,Buenos Aires Province,-88,-60,-91,-79,-60,26
+AR,,Buenos Aires,-90,-48,-91,-82,-69,31
+AR,,Catamarca Province,-71,-46,-78,-81,-35,29
+AR,,Chaco Province,-79,-63,-83,-92,-48,24
+AR,,Chubut Province,-92,-91,-94,-93,-62,28
+AR,,Cordoba,-88,-66,-90,-91,-57,30
+AR,,Corrientes,-80,-63,-88,-89,-47,25
+AR,,Entre Rios,-87,-65,-93,-90,-54,29
+AR,,Formosa Province,-76,-53,-82,-71,-37,21
+AR,,Jujuy,-80,-55,-83,-92,-44,27
+AR,,La Pampa,-88,-72,-88,-87,-56,28
+AR,,La Rioja Province,-70,-46,-84,-86,-40,26
+AR,,Mendoza Province,-81,-56,-84,-72,-49,29
+AR,,Misiones Province,-83,-66,-85,-92,-51,27
+AR,,Neuquen,-96,-95,-95,-92,-72,33
+AR,,Río Negro,-90,-72,-92,-96,-55,29
+AR,,Salta Province,-82,-55,-84,-76,-47,26
+AR,,San Juan Province,-76,-50,-80,-87,-46,28
+AR,,San Luis Province,-85,-60,-89,-91,-56,29
+AR,,Santa Cruz Province,-83,-62,-88,-91,-56,24
+AR,,Santa Fe Province,-87,-63,-89,-77,-57,29
+AR,,Santiago del Estero Province,-75,-49,-75,-90,-46,25
+AR,,Tierra del Fuego Province,-87,-63,-89,-92,-59,24
+AR,,Tucumán,-81,-53,-78,-90,-51,28
+AT,,,-87,-64,-43,-71,-51,14
+AT,,Burgenland,-83,-36,19,-43,-49,16
+AT,,Carinthia,-85,-62,-45,-59,-48,13
+AT,,Lower Austria,-82,-36,8,-74,-45,13
+AT,,Salzburg,-93,-86,-73,-81,-59,15
+AT,,Styria,-86,-61,-42,-71,-47,13
+AT,,Tyrol,-95,-86,-82,-85,-65,16
+AT,,Upper Austria,-86,-44,-19,-67,-47,13
+AT,,Vienna,-85,-52,-44,-71,-52,15
+AT,,Vorarlberg,-90,-70,-68,-79,-54,14
+AU,,,-45,-19,-35,-58,-33,13
+AU,,Australian Capital Territory,-40,-3,38,-52,-31,11
+AU,,New South Wales,-44,-13,-27,-57,-35,14
+AU,,Northern Territory,-35,-13,-20,-55,-23,12
+AU,,Queensland,-40,-19,-33,-57,-30,12
+AU,,South Australia,-43,-15,-33,-55,-28,12
+AU,,Tasmania,-50,-30,-70,-62,-28,13
+AU,,Victoria,-51,-26,-55,-68,-37,16
+AU,,Western Australia,-40,-16,-37,-55,-26,13
+AW,,,-88,-66,-80,-88,-72,20
+BA,,,-76,-50,-22,-59,-50,13
+BB,,,-70,-47,-60,-77,-52,15
+BB,,Christ Church,-81,-57,,-83,-51,17
+BB,,Saint George,-35,,-53,,-29,
+BB,,Saint James,-76,-50,,,-56,
+BB,,Saint John,,,,,-36,
+BB,,Saint Michael,-70,-48,-70,-73,-55,14
+BB,,Saint Peter,-74,-18,,,-31,
+BB,,Saint Philip,-72,-49,,,-49,
+BB,,Saint Thomas,-13,,,,-29,
+BD,,,-68,-46,-26,-66,-60,24
+BE,,,-84,-53,-66,-76,-52,17
+BE,,Brussels,-89,-65,-64,-82,-62,19
+BE,,Flanders,-82,-46,-65,-74,-50,17
+BE,,Wallonia,-84,-62,-72,-77,-52,16
+BF,,,-34,-25,-22,-53,-3,15
+BG,,,-66,-36,-32,-58,-29,11
+BG,,Blagoevgrad Province,-74,-47,-32,-55,-43,10
+BG,,Burgas,-65,-38,-40,-51,-35,11
+BG,,Dobrich Province,-61,-33,-38,,-19,18
+BG,,Gabrovo,-61,-34,-16,,-17,17
+BG,,Haskovo Province,-66,-43,-14,-67,-27,13
+BG,,Jambol,-58,-44,-42,,-20,14
+BG,,Kardzhali Province,-71,-48,-27,-76,-39,12
+BG,,Kyustendil Province,-57,-39,-35,-46,-24,19
+BG,,Lovec,-64,-32,-16,,-21,18
+BG,,Montana Province,-41,-37,-18,-58,-13,11
+BG,,Pazardzhik,-68,-38,-29,-69,-32,13
+BG,,Pernik,-58,-31,-37,,-21,21
+BG,,Pleven Province,-64,-37,-16,,-22,14
+BG,,Plovdiv Province,-68,-38,-33,-54,-29,12
+BG,,Razgrad,-48,-66,,,-10,11
+BG,,Ruse,-58,-36,-14,-43,-25,11
+BG,,Shumen Province,-63,-29,-26,-70,-20,20
+BG,,Silistra,-37,-23,,,-12,-3
+BG,,Sliven Province,-61,-36,-40,-51,-25,19
+BG,,Smoljan,-66,-59,-42,,-41,2
+BG,,Sofia City Province,-70,-35,-42,-62,-34,15
+BG,,Sofia Province,-60,-35,-28,,-31,14
+BG,,Stara Zagora,-63,-38,-27,-10,-29,10
+BG,,Targovishte Province,-63,-31,,,-19,2
+BG,,Varna,-72,-36,-54,-76,-34,12
+BG,,Veliko Tarnovo Province,-68,-37,-24,-56,-28,13
+BG,,Vidin,-59,-29,,,-25,
+BG,,Vraca,-53,-31,-3,-49,-18,21
+BH,,,-45,-22,-40,-38,-25,16
+BJ,,,-16,0,10,-14,2,5
+BO,,,-93,-94,-89,-92,-72,35
+BR,,,-71,-35,-70,-62,-34,17
+BR,,Federal District,-68,-28,-63,-56,-36,20
+BR,,State of Acre,-68,-20,-56,-75,-22,11
+BR,,State of Alagoas,-77,-43,-79,-76,-35,17
+BR,,State of Amapá,-71,-27,-51,-73,-28,11
+BR,,State of Amazonas,-64,-28,-62,-46,-26,13
+BR,,State of Bahia,-73,-42,-71,-73,-33,17
+BR,,State of Ceará,-76,-34,-71,-68,-33,16
+BR,,State of Espírito Santo,-68,-35,-69,-69,-31,16
+BR,,State of Goiás,-67,-27,-44,-50,-28,15
+BR,,State of Maranhão,-63,-27,-48,-66,-20,11
+BR,,State of Mato Grosso do Sul,-68,-33,-56,-68,-26,14
+BR,,State of Mato Grosso,-63,-30,-44,-59,-22,11
+BR,,State of Minas Gerais,-66,-29,-46,-57,-30,15
+BR,,State of Paraná,-75,-42,-70,-64,-34,17
+BR,,State of Paraíba,-76,-36,-73,-64,-33,17
+BR,,State of Pará,-61,-25,-53,-64,-19,12
+BR,,State of Pernambuco,-74,-35,-72,-59,-35,17
+BR,,State of Piauí,-71,-39,-49,-76,-27,18
+BR,,State of Rio de Janeiro,-72,-32,-74,-61,-37,17
+BR,,State of Rio Grande do Norte,-74,-36,-74,-66,-33,19
+BR,,State of Rio Grande do Sul,-75,-39,-73,-67,-36,20
+BR,,State of Rondônia,-63,-27,-42,-71,-23,12
+BR,,State of Roraima,-68,-25,-51,-72,-24,12
+BR,,State of Santa Catarina,-80,-49,-84,-76,-40,20
+BR,,State of Sergipe,-78,-46,-77,-83,-36,18
+BR,,State of São Paulo,-72,-36,-71,-62,-37,17
+BR,,State of Tocantins,-61,-31,-35,-71,-19,11
+BS,,,-67,-34,-48,-87,-52,19
+BW,,,-12,-2,7,-20,-3,13
+BY,,,-14,5,41,-7,3,-2
+BZ,,,-63,-49,-38,-68,-42,13
+CA,,,-59,-35,-16,-66,-44,14
+CA,,Alberta,-55,-29,-23,-63,-41,13
+CA,,British Columbia,-54,-28,27,-59,-47,13
+CA,,Manitoba,-49,-21,-9,-56,-36,11
+CA,,New Brunswick,-42,-20,101,-47,-35,8
+CA,,Newfoundland and Labrador,-54,-38,-18,-60,-35,9
+CA,,Northwest Territories,-59,-44,,-59,-32,
+CA,,Nova Scotia,-33,-7,95,-45,-32,5
+CA,,Nunavut,-47,,,,-32,
+CA,,Ontario,-59,-33,-14,-66,-46,14
+CA,,Prince Edward Island,-43,-19,-51,,-34,25
+CA,,Quebec,-70,-44,-68,-75,-45,15
+CA,,Saskatchewan,-53,-24,45,-52,-37,11
+CA,,Yukon,-43,-28,,,-31,
+CH,,,-81,-51,-41,-68,-46,15
+CH,,Aargau,-75,-35,-14,-56,-41,13
+CH,,Appenzell Ausserrhoden,-77,3,,-60,-29,
+CH,,Appenzell Innerrhoden,-57,,,,-29,
+CH,,Basel City,-89,-41,-65,-76,-48,25
+CH,,Basel-Landschaft,-77,-21,-25,-61,-40,23
+CH,,Canton of Bern,-80,-53,-36,-68,-43,14
+CH,,Canton of Zug,-75,-2,,-67,-45,27
+CH,,Fribourg,-82,-44,-41,-62,-42,20
+CH,,Geneva,-82,-60,-40,-84,-54,21
+CH,,Glarus,-92,-19,,-48,-33,
+CH,,Grisons,-89,-78,-59,-78,-57,20
+CH,,Jura,-91,-32,,-64,-43,14
+CH,,Lucerne,-82,-38,-50,-66,-40,16
+CH,,Neuchâtel,-78,-48,-18,-58,-46,28
+CH,,Nidwalden,-74,-2,-73,-78,-46,
+CH,,Obwalden,-63,-16,-49,-79,-40,
+CH,,Schaffhausen,-90,-50,,-61,-41,2
+CH,,Schwyz,-72,-55,-45,-66,-44,23
+CH,,Solothurn,-77,-35,-13,-63,-38,15
+CH,,St. Gallen,-80,-44,-29,-58,-42,14
+CH,,Thurgau,-79,-30,-44,-61,-40,15
+CH,,Ticino,-85,-69,-51,-64,-49,21
+CH,,Uri,-89,-13,,-78,-44,
+CH,,Valais,-87,-67,-61,-75,-57,17
+CH,,Vaud,-79,-49,-42,-68,-50,17
+CH,,Zurich,-82,-44,-53,-73,-47,16
+CI,,,-35,-21,-21,-33,-9,14
+CL,,,-73,-55,-72,-64,-42,24
+CM,,,-26,-20,-19,-23,-3,9
+CO,,,-86,-68,-80,-82,-58,26
+CR,,,-68,-41,-71,-68,-39,21
+CV,,,-60,-48,-57,-88,-40,19
+CZ,,,-73,-26,-24,-61,-31,11
+CZ,,Central Bohemian Region,-67,-20,9,-37,-29,11
+CZ,,Hradec Králové Region,-78,-30,-33,-69,-32,11
+CZ,,Karlovy Vary Region,-75,-38,-53,-70,-36,10
+CZ,,Liberec Region,-75,-24,-45,-66,-36,10
+CZ,,Moravian-Silesian Region,-72,-21,-14,-63,-27,10
+CZ,,Olomouc Region,-72,-27,-15,-74,-27,10
+CZ,,Pardubice Region,-74,-27,-1,-73,-28,10
+CZ,,Plzeň Region,-74,-29,-8,-55,-30,10
+CZ,,Prague,-77,-30,-58,-71,-38,15
+CZ,,South Bohemian Region,-72,-27,-17,-60,-29,9
+CZ,,South Moravian Region,-70,-24,5,-50,-28,11
+CZ,,Vysocina Region,-74,-21,27,-55,-28,10
+CZ,,Zlin Region,-71,-25,1,-65,-29,9
+CZ,,Ústí nad Labem Region,-71,-25,-28,-56,-26,9
+DE,,,-77,-51,-49,-68,-39,11
+DE,,Baden-Württemberg,-79,-49,-55,-71,-43,12
+DE,,Bavaria,-80,-49,-50,-73,-43,12
+DE,,Berlin,-83,-55,-63,-70,-44,12
+DE,,Brandenburg,-75,-52,-53,-63,-31,9
+DE,,Bremen,-79,-54,-22,-74,-40,10
+DE,,Hamburg,-80,-50,-34,-72,-42,12
+DE,,Hesse,-74,-40,-26,-72,-41,10
+DE,,Lower Saxony,-76,-52,-42,-64,-36,10
+DE,,Mecklenburg-Vorpommern,-74,-48,-50,-64,-32,8
+DE,,North Rhine-Westphalia,-77,-51,-50,-70,-38,11
+DE,,Rhineland-Palatinate,-74,-40,-38,-71,-39,10
+DE,,Saarland,-77,-56,-29,-71,-39,10
+DE,,Saxony,-78,-51,-50,-66,-34,10
+DE,,Saxony-Anhalt,-74,-48,-56,-65,-27,8
+DE,,Schleswig-Holstein,-70,-53,-27,-58,-36,10
+DE,,Thuringia,-75,-44,-50,-63,-32,8
+DK,,,-37,-22,35,-60,-28,9
+DK,,Capital Region of Denmark,-48,-24,13,-67,-33,10
+DK,,Central Denmark Region,-34,-23,71,-55,-26,9
+DK,,North Denmark Region,-34,-16,32,-54,-26,8
+DK,,Region of Southern Denmark,-30,-22,23,-59,-28,9
+DK,,Region Zealand,-28,-17,54,-55,-25,8
+DO,,,-80,-63,-73,-84,-56,23
+EC,,,-84,-66,-80,-80,-61,26
+EE,,,-60,-28,4,-51,-32,10
+EE,,Harju County,-61,-29,2,-57,-34,11
+EE,,Hiiu County,,,,,-68,
+EE,,Ida-Viru County,-50,-22,-23,-35,-28,12
+EE,,Järva County,-41,-23,,,-39,
+EE,,Jõgeva County,-45,-24,,,-42,
+EE,,Lääne County,-53,-32,,,-47,
+EE,,Lääne-Viru County,-55,-20,,-41,-20,5
+EE,,Pärnu County,-67,-31,-17,-53,-36,20
+EE,,Põlva County,-77,-24,,,-48,
+EE,,Rapla County,-72,-23,,,-47,
+EE,,Saare County,-80,-40,,-80,-57,
+EE,,Tartu County,-65,-30,-13,-54,-35,23
+EE,,Valga County,-58,-30,,,-40,
+EE,,Viljandi County,-58,-26,,-42,-13,
+EE,,Võru County,-82,-20,,,-46,
+EG,,,-50,-24,-40,-52,-35,15
+ES,,,-94,-76,-89,-88,-64,22
+ES,,Andalusia,-94,-81,-88,-90,-65,21
+ES,,Aragon,-92,-75,-87,-90,-64,20
+ES,,Asturias,-94,-78,-88,-80,-63,23
+ES,,Balearic Islands,-92,-68,-90,-88,-61,22
+ES,,Basque Country,-94,-77,-93,-88,-63,22
+ES,,Canary Islands,-94,-75,-92,-87,-66,20
+ES,,Cantabria,-94,-76,-92,-89,-61,23
+ES,,Castile and León,-94,-78,-84,-89,-62,22
+ES,,Castile-La Mancha,-93,-77,-84,-89,-63,21
+ES,,Catalonia,-94,-75,-90,-88,-64,21
+ES,,Ceuta,-89,-78,-91,,-64,4
+ES,,Community of Madrid,-94,-72,-92,-89,-65,22
+ES,,Extremadura,-93,-75,-79,-87,-60,22
+ES,,Galicia,-92,-77,-84,-88,-59,24
+ES,,La Rioja,-94,-75,-90,-90,-65,23
+ES,,Melilla,-92,-86,-90,-87,-59,-2
+ES,,Navarre,-93,-77,-88,-90,-61,23
+ES,,Region of Murcia,-94,-85,-90,-86,-63,24
+ES,,Valencian Community,-95,-84,-92,-90,-66,22
+FI,,,-52,-21,48,-59,-25,9
+FI,,Central Finland,-48,-22,60,-70,-23,8
+FI,,Central Ostrobothnia,-44,-13,,-63,-21,15
+FI,,Kainuu,-54,-24,44,-64,-21,13
+FI,,Kymenlaakso,-52,-21,65,-64,-17,8
+FI,,Lapland,-62,-30,40,-71,-31,7
+FI,,North Karelia,-54,-20,61,-54,-24,14
+FI,,Northern Ostrobothnia,-51,-24,73,-55,-24,8
+FI,,Northern Savonia,-56,-20,47,-53,-22,7
+FI,,Ostrobothnia,-44,-16,70,-50,-21,8
+FI,,Pirkanmaa,-53,-21,42,-53,-26,9
+FI,,Päijänne Tavastia,-56,-22,84,-54,-25,8
+FI,,Satakunta,-49,-22,34,-48,-19,8
+FI,,South Karelia,-55,-26,46,-64,-25,15
+FI,,Southern Ostrobothnia,-49,-20,50,-51,-20,9
+FI,,Southern Savonia,-55,-18,59,-66,-23,14
+FI,,Southwest Finland,-54,-22,15,-51,-25,9
+FI,,Tavastia Proper,-53,-24,43,-62,-22,9
+FI,,Uusimaa,-50,-20,39,-64,-28,10
+FJ,,,-39,-25,-13,-59,-6,12
+FR,,,-88,-72,-82,-87,-56,18
+FR,,Auvergne-Rhône-Alpes,-87,-74,-80,-89,-56,19
+FR,,Bourgogne-Franche-Comté,-87,-77,-77,-88,-54,18
+FR,,Brittany,-87,-76,-83,-88,-53,18
+FR,,Centre-Val de Loire,-86,-75,-79,-88,-53,17
+FR,,Corsica,-84,-67,-74,-83,-54,21
+FR,,Grand Est,-89,-77,-81,-89,-59,17
+FR,,Hauts-de-France,-88,-72,-84,-87,-56,17
+FR,,Normandy,-86,-73,-78,-88,-53,17
+FR,,Nouvelle-Aquitaine,-86,-76,-80,-86,-53,18
+FR,,Occitanie,-86,-72,-73,-86,-53,18
+FR,,Pays de la Loire,-88,-78,-80,-90,-54,18
+FR,,Provence-Alpes-Côte d'Azur,-87,-68,-83,-85,-55,18
+FR,,Île-de-France,-91,-69,-89,-87,-63,20
+GA,,,-39,-24,-25,-47,-15,15
+GB,,,-85,-46,-52,-75,-55,15
+GB,,Aberdeen City,-86,-41,-46,-73,-58,30
+GB,,Aberdeenshire,-80,-46,-45,-58,-52,27
+GB,,Angus council,-80,-44,-28,-51,-48,20
+GB,,Antrim And Newtownabbey,-81,-46,-61,-89,-52,29
+GB,,Ards And North Down,-78,-39,-57,-57,-56,28
+GB,,Argyll and Bute Council,-88,-45,-34,-57,-52,8
+GB,,Armagh City and Banbridge And Craigavon,-82,-45,-66,-65,-47,27
+GB,,Bath and North East Somerset,-91,-48,-54,-75,-66,30
+GB,,Bedford,-86,-47,-51,-72,-49,28
+GB,,Belfast,-85,-42,-47,-76,-59,17
+GB,,Blackburn with Darwen,-85,-42,,-71,-50,25
+GB,,Blackpool,-88,-43,-64,-65,-54,22
+GB,,Blaenau Gwent,-75,-46,,-57,-46,12
+GB,,Borough of Halton,-78,-43,-46,-60,-48,25
+GB,,Bracknell Forest,-83,-41,-56,-69,-58,31
+GB,,Bridgend County Borough,-85,-43,-48,-59,-50,25
+GB,,Brighton and Hove,-89,-48,-59,-77,-64,30
+GB,,Buckinghamshire,-85,-45,-43,-74,-57,16
+GB,,Caerphilly County Borough,-78,-41,-52,-54,-47,25
+GB,,Cambridgeshire,-87,-48,-51,-79,-54,16
+GB,,Cardiff,-86,-45,-48,-79,-59,17
+GB,,Carmarthenshire,-81,-46,-57,-60,-49,24
+GB,,Causeway Coast and Glens,-87,-41,-66,-64,-55,26
+GB,,Central Bedfordshire,-82,-45,-41,-74,-54,20
+GB,,Ceredigion,-84,-54,-60,-69,-57,6
+GB,,Cheshire East,-84,-47,-63,-75,-53,15
+GB,,Cheshire West and Chester,-88,-47,-58,-77,-55,15
+GB,,City of Bristol,-87,-47,-25,-81,-57,18
+GB,,Clackmannanshire,-89,-39,,-53,-49,6
+GB,,Conwy Principal Area,-86,-48,-70,-63,-58,22
+GB,,Cornwall,-85,-53,-54,-66,-56,14
+GB,,County Durham,-83,-42,-56,-68,-55,14
+GB,,Cumbria,-84,-50,-54,-73,-58,15
+GB,,Darlington,-86,-47,-57,-75,-51,26
+GB,,Denbighshire,-84,-43,-59,-70,-52,14
+GB,,Derby,-85,-46,-55,-81,-55,19
+GB,,Derbyshire,-86,-43,-55,-66,-55,15
+GB,,Derry And Strabane,-80,-39,-63,-60,-54,25
+GB,,Devon,-87,-51,-54,-73,-54,15
+GB,,Dorset,-87,-47,-57,-70,-57,15
+GB,,Dumfries and Galloway,-80,-42,-48,-75,-49,22
+GB,,Dundee City Council,-83,-52,-10,-71,-56,26
+GB,,East Ayrshire Council,-83,-39,,-55,-51,26
+GB,,East Dunbartonshire Council,-75,-35,,-54,-56,19
+GB,,East Lothian Council,-81,-37,-34,-57,-56,17
+GB,,East Renfrewshire Council,-63,-29,-54,-51,-56,19
+GB,,East Riding of Yorkshire,-85,-45,-61,-51,-52,14
+GB,,East Sussex,-87,-46,-60,-68,-57,14
+GB,,Edinburgh,-86,-44,-42,-83,-67,18
+GB,,Essex,-84,-49,-58,-85,-56,16
+GB,,Falkirk,-78,-38,-26,-56,-47,27
+GB,,Fermanagh And Omagh,-86,-47,-55,-54,-52,27
+GB,,Fife,-79,-38,-32,-56,-51,14
+GB,,Flintshire,-80,-44,-48,-60,-54,26
+GB,,Glasgow City,-84,-44,-37,-81,-60,16
+GB,,Gloucestershire,-86,-48,-49,-73,-55,15
+GB,,Greater London,-87,-48,-59,-80,-62,19
+GB,,Greater Manchester,-84,-46,-44,-80,-54,16
+GB,,Gwynedd,-87,-55,-62,-65,-56,18
+GB,,Hampshire,-85,-45,-48,-74,-54,15
+GB,,Hartlepool,-86,-44,-64,-70,-51,19
+GB,,Herefordshire,-86,-50,-42,-64,-46,24
+GB,,Hertfordshire,-85,-47,-46,-73,-56,16
+GB,,Highland Council,-83,-47,-48,-70,-53,24
+GB,,Inverclyde,-83,-37,,-58,-52,15
+GB,,Isle of Anglesey,-84,-48,-65,-63,-46,7
+GB,,Isle of Wight,-88,-47,-57,-76,-54,22
+GB,,Kent,-86,-49,-62,-68,-53,15
+GB,,Kingston upon Hull,-82,-45,-49,-71,-51,14
+GB,,Lancashire,-84,-44,-39,-71,-52,14
+GB,,Leicester,-84,-47,-45,-80,-51,15
+GB,,Leicestershire,-83,-45,-54,-72,-55,15
+GB,,Lincolnshire,-84,-45,-63,-67,-47,13
+GB,,Lisburn and Castlereagh,-87,-45,-79,-61,-56,30
+GB,,Luton,-79,-39,-41,-90,-49,19
+GB,,Medway,-85,-40,-67,-71,-51,15
+GB,,Merseyside,-83,-42,-53,-74,-54,15
+GB,,Merthyr Tydfil County Borough,-89,-50,,-54,-52,8
+GB,,Mid And East Antrim,-81,-37,-52,-56,-56,27
+GB,,Mid Ulster,-81,-43,,-51,-42,28
+GB,,Middlesbrough,-84,-43,-63,-73,-51,24
+GB,,Midlothian,-90,-43,-20,-50,-53,25
+GB,,Milton Keynes,-85,-49,-53,-79,-55,19
+GB,,Monmouthshire,-85,-56,-61,-58,-47,16
+GB,,Moray,-88,-45,-42,-63,-54,12
+GB,,Na h-Eileanan an Iar,-77,-31,,-54,-51,
+GB,,Neath Port Talbot Principle Area,-74,-38,-46,-60,-46,23
+GB,,Newport,-83,-47,-49,-66,-52,26
+GB,,Newry and Mourne And Down,-87,-45,-65,-55,-52,29
+GB,,Norfolk,-87,-52,-69,-68,-53,14
+GB,,North Ayrshire Council,-79,-37,-12,-59,-51,25
+GB,,North East Lincolnshire,-85,-46,-72,-68,-46,22
+GB,,North Lanarkshire,-78,-37,,-56,-50,13
+GB,,North Lincolnshire,-79,-41,-56,-58,-46,23
+GB,,North Somerset,-84,-50,-52,-88,-54,27
+GB,,North Yorkshire,-88,-48,-65,-74,-55,15
+GB,,Northamptonshire,-84,-42,-59,-71,-47,14
+GB,,Northumberland,-84,-42,-66,-61,-54,14
+GB,,Nottinghamshire,-90,-45,-58,-80,-56,15
+GB,,Orkney,-85,-40,,,-61,
+GB,,Oxfordshire,-87,-45,-48,-79,-58,17
+GB,,Pembrokeshire,-87,-49,-62,-61,-47,18
+GB,,Perth and Kinross,-86,-46,-39,-65,-54,27
+GB,,Peterborough,-80,-45,-36,-77,-43,17
+GB,,Plymouth,-87,-50,-43,-70,-54,18
+GB,,Portsmouth,-88,-43,-46,-71,-54,19
+GB,,Powys,-88,-50,-56,-63,-51,23
+GB,,Reading,-89,-50,-41,-84,-55,32
+GB,,Redcar and Cleveland,-88,-44,-63,-62,-50,23
+GB,,Renfrewshire,-86,-39,14,-84,-58,29
+GB,,Rhondda Cynon Taff,-80,-41,-47,-52,-50,19
+GB,,Rutland,-100,-37,-70,,-57,
+GB,,Scottish Borders,-88,-46,-39,-44,-51,20
+GB,,Shetland Islands,-85,-49,,-54,-60,
+GB,,Shropshire,-85,-49,-56,-70,-50,14
+GB,,Slough,-80,-45,-45,-78,-54,29
+GB,,Somerset,-86,-48,-56,-73,-49,14
+GB,,South Ayrshire Council,-88,-42,-35,-62,-56,20
+GB,,South Gloucestershire,-81,-45,-30,-64,-52,20
+GB,,South Lanarkshire,-78,-38,-6,-57,-54,14
+GB,,South Yorkshire,-86,-43,-47,-71,-53,15
+GB,,Southampton,-87,-41,-57,-71,-54,19
+GB,,Southend-on-Sea,-89,-39,-63,-79,-57,28
+GB,,Staffordshire,-85,-44,-54,-73,-54,14
+GB,,Stirling,-85,-49,-49,-76,-62,11
+GB,,Stockton-on-Tees,-84,-47,-60,-69,-52,25
+GB,,Stoke-on-Trent,-84,-44,-41,-70,-49,14
+GB,,Suffolk,-87,-51,-67,-69,-54,15
+GB,,Surrey,-85,-44,-57,-74,-59,17
+GB,,Swansea,-84,-50,-51,-67,-54,19
+GB,,Swindon,-83,-44,-30,-69,-52,28
+GB,,Thurrock,-88,-53,-51,-59,-50,29
+GB,,Torbay,-86,-44,-58,-68,-55,24
+GB,,Torfaen Principal Area,-82,-37,,-54,-53,24
+GB,,Tyne and Wear,-85,-47,-58,-74,-57,15
+GB,,Vale of Glamorgan,-84,-49,-59,-70,-54,27
+GB,,Warrington,-86,-42,-29,-68,-52,27
+GB,,Warwickshire,-86,-44,-56,-72,-54,15
+GB,,West Berkshire,-88,-49,-41,-82,-58,29
+GB,,West Dunbartonshire Council,-75,-43,,-54,-51,23
+GB,,West Lothian,-74,-29,-29,-52,-50,27
+GB,,West Midlands,-84,-45,-45,-78,-57,15
+GB,,West Sussex,-85,-46,-53,-85,-56,15
+GB,,West Yorkshire,-84,-44,-49,-74,-55,15
+GB,,Wiltshire,-84,-45,-56,-70,-54,15
+GB,,Windsor and Maidenhead,-88,-42,-74,-79,-63,31
+GB,,Wokingham,-81,-52,-26,-66,-61,32
+GB,,Worcestershire,-86,-47,-44,-71,-55,14
+GB,,Wrexham Principal Area,-83,-43,-45,-64,-48,24
+GB,,York,-90,-50,-64,-84,-65,29
+GE,,,-67,-36,-24,-53,-38,12
+GH,,,-15,8,-15,-15,3,9
+GR,,,-80,-41,-55,-76,-53,20
+GT,,,-67,-39,-53,-69,-39,19
+GW,,,-50,-11,-25,,-27,
+HK,,,-35,-7,-43,-45,-24,16
+HN,,,-81,-64,-59,-74,-46,20
+HR,,,-82,-57,-45,-74,-50,15
+HR,,Bjelovar-Bilogora County,-85,-58,-23,-70,-46,20
+HR,,Brod-Posavina County,-81,-59,,-83,-51,23
+HR,,City of Zagreb,-85,-61,-51,-76,-51,16
+HR,,Dubrovnik-Neretva County,-78,-54,-29,-66,-52,22
+HR,,Istria County,-74,-55,-35,-76,-45,15
+HR,,Karlovac County,-83,-56,-16,-66,-48,30
+HR,,Koprivnica-Križevci County,-81,-58,,,-44,25
+HR,,Krapina-Zagorje County,-87,-63,,-72,-48,34
+HR,,Lika-Senj County,-73,-44,-58,-83,-46,
+HR,,Međimurje County,-86,-64,,-84,-54,27
+HR,,Osijek-Baranja County,-83,-54,-14,-73,-47,17
+HR,,Požega-Slavonia County,-83,-58,,-75,-49,0
+HR,,Primorje-Gorski Kotar County,-82,-58,-47,-81,-48,15
+HR,,Sisak-Moslavina County,-76,-61,-51,-71,-43,27
+HR,,Split-Dalmatia County,-83,-52,-33,-76,-55,17
+HR,,Varaždin County,-86,-61,-62,-83,-50,30
+HR,,Virovitica-Podravina County,-80,-53,,-79,-46,1
+HR,,Vukovar-Srijem County,-81,-52,,-70,-48,24
+HR,,Zadar County,-77,-51,-19,-75,-47,25
+HR,,Zagreb County,-85,-59,-64,-72,-53,15
+HR,,Šibenik-Knin County,-78,-47,-12,-67,-48,15
+HT,,,-34,-31,-19,-48,-14,7
+HU,,,-66,-43,-7,-53,-32,10
+HU,,Baranya,-70,-45,27,-45,-30,9
+HU,,Borsod-Abaúj-Zemplén,-59,-47,19,-38,-28,8
+HU,,Budapest,-74,-40,-38,-67,-39,12
+HU,,Bács-Kiskun,-62,-42,10,-47,-27,9
+HU,,Békés County,-54,-39,15,-43,-23,7
+HU,,Csongrád,-66,-40,-12,-39,-28,10
+HU,,Fejér,-58,-43,24,-48,-30,9
+HU,,Gyor-Moson-Sopron,-71,-48,-6,-51,-42,11
+HU,,Hajdú-Bihar,-63,-46,34,-52,-28,9
+HU,,Heves County,-62,-48,-35,-48,-34,12
+HU,,Jász-Nagykun-Szolnok,-52,-38,32,-49,-25,8
+HU,,Komárom-Esztergom,-57,-40,51,-46,-28,9
+HU,,Nógrád County,-51,-40,-29,-30,-24,15
+HU,,Pest County,-56,-42,57,-34,-31,10
+HU,,Somogy County,-58,-44,1,-44,-30,10
+HU,,Szabolcs-Szatmár-Bereg,-57,-52,4,-43,-25,7
+HU,,Tolna County,-50,-44,,-44,-28,18
+HU,,Vas County,-68,-50,19,-55,-38,13
+HU,,Veszprém,-57,-44,5,-43,-33,9
+HU,,Zala County,-66,-52,-25,-48,-35,11
+ID,,,-47,-27,-52,-54,-15,15
+IE,,,-83,-37,-59,-78,-52,19
+IE,,County Carlow,-83,-35,-52,-64,-48,9
+IE,,County Cavan,-81,-39,-41,-57,-45,21
+IE,,County Clare,-78,-30,-54,-74,-49,25
+IE,,County Cork,-81,-40,-54,-73,-51,19
+IE,,County Donegal,-81,-39,-49,-56,-47,21
+IE,,County Dublin,-85,-35,-64,-82,-58,21
+IE,,County Galway,-82,-36,-60,-68,-51,21
+IE,,County Kerry,-83,-44,-54,-76,-53,22
+IE,,County Kildare,-84,-36,-66,-71,-51,21
+IE,,County Kilkenny,-82,-37,-65,-77,-47,23
+IE,,County Laois,-79,-40,,-77,-48,22
+IE,,County Leitrim,-93,-41,,,-50,
+IE,,County Limerick,-82,-35,-57,-74,-46,21
+IE,,County Longford,-77,-40,,,-45,
+IE,,County Louth,-84,-39,-67,-84,-49,24
+IE,,County Mayo,-85,-44,-31,-78,-47,22
+IE,,County Meath,-80,-33,-54,-59,-49,21
+IE,,County Monaghan,-80,-43,,-58,-49,18
+IE,,County Offaly,-79,-38,-40,-65,-47,22
+IE,,County Roscommon,-86,-38,,,-43,18
+IE,,County Sligo,-89,-44,-48,-69,-44,9
+IE,,County Tipperary,-80,-36,-61,-73,-46,21
+IE,,County Waterford,-87,-45,-75,-77,-46,20
+IE,,County Westmeath,-85,-48,-45,-75,-52,24
+IE,,County Wexford,-83,-42,-70,-71,-52,22
+IE,,County Wicklow,-89,-40,-79,-76,-53,27
+IL,,,-67,-13,-56,-61,-59,30
+IN,,,-77,-65,-57,-71,-47,22
+IQ,,,-64,-42,-48,-61,-55,21
+IT,,,-94,-85,-90,-87,-63,24
+IT,,Abruzzo,-94,-84,-89,-90,-63,24
+IT,,Aosta,-95,-88,-91,-86,-67,36
+IT,,Apulia,-94,-85,-88,-88,-64,25
+IT,,Basilicata,-91,-84,-77,-86,-58,22
+IT,,Calabria,-94,-92,-85,-90,-63,22
+IT,,Campania,-94,-78,-91,-89,-67,23
+IT,,Emilia-Romagna,-96,-94,-88,-88,-65,24
+IT,,Friuli-Venezia Giulia,-95,-94,-90,-83,-59,24
+IT,,Lazio,-94,-76,-90,-88,-62,24
+IT,,Liguria,-94,-80,-91,-85,-60,23
+IT,,Lombardy,-95,-81,-91,-89,-65,24
+IT,,Marche,-95,-88,-91,-86,-64,26
+IT,,Molise,-91,-82,-84,-80,-60,29
+IT,,Piedmont,-94,-82,-89,-85,-59,23
+IT,,Sardinia,-94,-92,-87,-81,-56,22
+IT,,Sicily,-95,-93,-91,-89,-68,25
+IT,,Trentino-South Tyrol,-96,-94,-93,-86,-65,25
+IT,,Tuscany,-94,-84,-91,-85,-62,25
+IT,,Umbria,-95,-89,-86,-81,-61,25
+IT,,Veneto,-96,-95,-91,-89,-62,25
+JM,,,-53,-36,-50,-50,-29,12
+JO,,,-74,-52,-59,-89,-73,27
+JP,,,-26,-7,-25,-41,-9,7
+JP,,Aichi,-14,1,-11,-35,-5,6
+JP,,Akita,-1,5,19,-20,0,3
+JP,,Aomori,-11,1,11,-20,0,3
+JP,,Chiba,-43,-21,-61,-53,-15,11
+JP,,Ehime,-5,5,29,-12,0,3
+JP,,Fukui,-13,5,-18,-19,-2,6
+JP,,Fukuoka,-13,6,34,-34,-3,4
+JP,,Fukushima,-21,-7,-51,-35,-4,7
+JP,,Gifu,-14,3,-25,-32,-4,6
+JP,,Gunma,-33,-15,-55,-49,-8,9
+JP,,Hiroshima,-7,7,15,-24,-1,3
+JP,,Hokkaido,-7,3,-2,-27,-5,3
+JP,,Hyogo,-12,5,-10,-31,-4,5
+JP,,Ibaraki,-31,-16,-60,-51,-10,10
+JP,,Ishikawa,-8,8,-23,-30,-1,4
+JP,,Iwate,-5,5,6,-19,1,3
+JP,,Kagawa,-7,4,19,-22,-1,3
+JP,,Kagoshima,-5,4,16,-15,4,2
+JP,,Kanagawa,-55,-31,-66,-55,-23,13
+JP,,Kochi,-3,3,23,-7,0,2
+JP,,Kumamoto,-13,4,36,-14,-1,4
+JP,,Kyoto,-10,7,12,-32,-3,4
+JP,,Mie,-9,4,-20,-33,-1,5
+JP,,Miyagi,-14,0,-37,-35,-2,5
+JP,,Miyazaki,-7,7,4,-15,2,3
+JP,,Nagano,-31,-11,-56,-44,-4,8
+JP,,Nagasaki,-3,8,30,-12,3,2
+JP,,Nara,-7,11,10,-27,-5,4
+JP,,Niigata,-11,3,-22,-35,-3,5
+JP,,Oita,-8,5,22,-17,-1,3
+JP,,Okayama,-7,7,17,-18,0,3
+JP,,Okinawa,-9,0,-14,-27,1,3
+JP,,Osaka,-21,3,-8,-39,-7,6
+JP,,Saga,-4,6,48,-19,0,3
+JP,,Saitama,-51,-28,-61,-53,-20,12
+JP,,Shiga,-6,7,-8,-25,-2,4
+JP,,Shimane,1,6,45,4,5,1
+JP,,Shizuoka,-17,-4,-47,-38,-6,7
+JP,,Tochigi,-33,-16,-61,-46,-9,10
+JP,,Tokushima,-4,3,27,-13,0,3
+JP,,Tokyo,-63,-32,-66,-59,-27,14
+JP,,Tottori,1,9,15,-13,2,2
+JP,,Toyama,-6,7,-19,-26,0,4
+JP,,Wakayama,-6,8,16,-21,-2,4
+JP,,Yamagata,-3,6,-12,-27,-1,3
+JP,,Yamaguchi,-4,9,49,-6,1,3
+JP,,Yamanashi,-29,-13,-56,-51,-9,8
+KE,,,-45,-33,-20,-39,-22,17
+KG,,,-74,-64,-32,-70,-43,15
+KH,,,-43,-29,-31,-57,-15,12
+KR,,,-19,11,51,-17,-12,6
+KW,,,-56,-30,-48,-49,-42,23
+KW,,Al Ahmadi Governorate,-52,-28,-40,-37,-34,20
+KW,,Al Asimah Governate,-65,-34,-56,-53,-50,21
+KW,,Al Farwaniyah Governorate,-50,-31,-47,-55,-37,24
+KW,,Al Jahra Governorate,-46,-30,-38,-18,-32,19
+KW,,Hawalli Governorate,-61,-28,-53,-40,-52,26
+KW,,Mubarak Al-Kabeer Governorate,-56,-34,-51,-42,-52,21
+KZ,,,-45,-24,-20,-32,-17,9
+LA,,,-45,-23,-18,-47,-9,11
+LB,,,-73,-48,-59,-84,-41,15
+LI,,,-90,-22,,-58,-37,
+LK,,,-86,-87,-57,-78,-50,32
+LT,,,-72,-38,-28,-63,-33,11
+LT,,Alytus County,-71,-36,0,-70,-32,17
+LT,,Kaunas County,-74,-40,-48,-68,-33,11
+LT,,Klaipėda County,-73,-31,-43,-59,-36,11
+LT,,Marijampolė County,-64,-39,-35,-41,-27,18
+LT,,Panevėžys County,-70,-36,-32,-63,-26,7
+LT,,Tauragė County,-60,-31,,-46,-23,15
+LT,,Telšiai County,-67,-40,-18,-44,-24,17
+LT,,Utena County,-63,-22,1,-35,-23,16
+LT,,Vilnius County,-74,-41,-22,-67,-40,12
+LT,,Šiauliai County,-73,-39,-41,-38,-30,7
+LU,,,-90,-70,-66,-78,-60,23
+LV,,,-50,-22,-18,-48,-25,7
+LY,,,-49,-28,-32,-52,-36,21
+MD,,,-67,-44,-43,-68,-37,12
+MK,,,-74,-41,-44,-69,-51,18
+ML,,,-25,-18,-12,-36,0,9
+MM,,,-46,-29,-19,-35,-10,12
+MN,,,-16,5,5,-16,-2,2
+MT,,,-76,-38,-45,-57,-49,19
+MU,,,-89,-86,-88,-89,-69,24
+MU,,Flacq District,-92,-89,-88,,-72,8
+MU,,Grand Port District,-94,-90,-90,-94,-70,8
+MU,,Moka District,-97,-76,,-74,-65,8
+MU,,Pamplemousses District,-81,-82,-91,-81,-67,7
+MU,,Plaines Wilhems District,-91,-88,,-92,-71,37
+MU,,Port Louis District,-88,-89,-85,-87,-65,6
+MU,,Rivière du Rempart District,-93,-93,-100,,-67,8
+MU,,Rivière Noire District,-92,-88,-91,-82,-73,8
+MU,,Rodrigues District,,,-55,,-62,
+MU,,Savanne District,-91,-83,-28,,-69,
+MX,,,-45,-19,-46,-47,-20,11
+MY,,,-81,-58,-68,-83,-52,31
+MZ,,,-26,-13,-22,-29,1,10
+NA,,,-56,-42,-39,-74,-28,16
+NE,,,-23,-15,-19,-25,-1,9
+NG,,,-39,-25,-24,-34,-11,15
+NI,,,-45,-25,-31,-38,-17,11
+NL,,,-65,-29,-30,-68,-35,11
+NL,,Drenthe,-61,-30,-27,-58,-29,9
+NL,,Flevoland,-56,-25,-5,-63,-34,10
+NL,,Friesland,-57,-28,-11,-51,-28,9
+NL,,Gelderland,-66,-28,-29,-62,-33,10
+NL,,Groningen,-65,-31,2,-63,-33,10
+NL,,Limburg,-76,-34,-59,-65,-38,12
+NL,,North Brabant,-68,-28,-33,-71,-34,12
+NL,,North Holland,-66,-31,-35,-78,-40,12
+NL,,Overijssel,-67,-29,-25,-66,-34,11
+NL,,South Holland,-60,-26,-22,-64,-35,11
+NL,,Utrecht,-60,-32,-17,-70,-36,11
+NL,,Zeeland,-69,-40,-46,-57,-31,10
+NO,,,-65,-32,-5,-57,-34,11
+NO,,Agder,-59,-21,-1,-39,-31,9
+NO,,Innlandet,-66,-37,-8,-54,-32,10
+NO,,Møre og Romsdal,-73,-38,-40,-67,-29,10
+NO,,Nordland,-61,-18,24,-71,-24,8
+NO,,Oslo,-68,-26,-7,-64,-45,14
+NO,,Rogaland,-61,-38,4,-58,-35,11
+NO,,Troms Og Finnmark,-74,-46,-24,-71,-32,10
+NO,,Trondelag,-74,-41,-15,-68,-37,13
+NO,,Vestfold Og Telemark,-59,-23,13,-52,-30,10
+NO,,Vestland,-71,-47,-31,-66,-36,12
+NO,,Viken,-56,-21,24,-59,-33,11
+NP,,,-78,-69,-55,-74,-72,28
+NZ,,,-91,-54,-78,-84,-59,22
+NZ,,Auckland,-89,-55,-70,-83,-64,25
+NZ,,Bay Of Plenty,-92,-51,-86,-83,-52,22
+NZ,,Canterbury,-90,-56,-83,-90,-60,22
+NZ,,Gisborne,-100,-48,-88,,-47,
+NZ,,Hawke's Bay,-94,-53,-78,-84,-51,31
+NZ,,Manawatu-Wanganui,-93,-50,-76,-84,-54,33
+NZ,,Marlborough,-92,-60,-83,-91,-25,0
+NZ,,Nelson,-100,-60,-81,,-61,4
+NZ,,Northland,-93,-55,-86,-86,-52,32
+NZ,,Otago,-95,-62,-82,-91,-64,39
+NZ,,Southland,-96,-53,-83,,-48,17
+NZ,,Taranaki,-95,-52,-86,,-51,17
+NZ,,Tasman,-90,-67,-89,,-54,
+NZ,,Waikato,-94,-55,-84,-82,-57,23
+NZ,,Wellington,-93,-54,-63,-84,-62,20
+NZ,,West Coast,-100,-61,-87,,-54,
+OM,,,-52,-35,-41,-64,-34,17
+PA,,,-84,-61,-78,-77,-59,31
+PE,,,-82,-57,-76,-83,-55,29
+PG,,,-20,-9,-12,-46,11,12
+PH,,,-81,-59,-59,-82,-54,26
+PK,,,-70,-55,-45,-62,-41,18
+PL,,,-78,-59,-59,-71,-36,13
+PL,,Greater Poland Voivodeship,-80,-61,-62,-73,-37,13
+PL,,Kuyavian-Pomeranian Voivodeship,-79,-63,-73,-78,-33,12
+PL,,Lesser Poland Voivodeship,-84,-65,-69,-78,-41,14
+PL,,Lower Silesian Voivodeship,-82,-65,-71,-77,-38,13
+PL,,Lublin Voivodeship,-71,-44,-25,-71,-32,12
+PL,,Lubusz Voivodeship,-77,-65,-55,-72,-37,12
+PL,,Masovian Voivodeship,-77,-54,-60,-70,-35,13
+PL,,Opole Voivodeship,-79,-62,-55,-72,-37,12
+PL,,Podkarpackie Voivodeship,-71,-46,-11,-71,-36,13
+PL,,Podlaskie Voivodeship,-75,-47,-17,-60,-32,11
+PL,,Pomeranian Voivodeship,-82,-64,-78,-78,-38,14
+PL,,Silesian Voivodeship,-77,-58,-50,-65,-35,13
+PL,,Swietokrzyskie,-74,-44,-26,-67,-34,12
+PL,,Warmian-Masurian Voivodeship,-77,-60,-63,-73,-35,11
+PL,,West Pomeranian Voivodeship,-80,-66,-76,-69,-39,12
+PL,,Łódź Voivodeship,-74,-55,-49,-66,-29,13
+PR,,,-77,-51,-75,-79,-48,21
+PT,,,-83,-59,-80,-78,-53,22
+PT,,Aveiro District,-83,-61,-84,-83,-53,24
+PT,,Azores,-83,-56,-66,-87,-47,18
+PT,,Beja District,-83,-59,-60,,-40,24
+PT,,Braga,-83,-60,-82,-76,-52,24
+PT,,Bragança District,-85,-66,-57,-78,-52,18
+PT,,Castelo Branco District,-81,-61,-65,-76,-48,31
+PT,,Coimbra District,-83,-61,-80,-77,-48,23
+PT,,Faro District,-83,-60,-78,-82,-54,21
+PT,,Guarda District,-86,-64,-75,-68,-46,28
+PT,,Leiria District,-85,-62,-85,-81,-50,23
+PT,,Lisbon,-84,-58,-82,-79,-56,22
+PT,,Madeira,-89,-63,-86,-77,-60,27
+PT,,Portalegre District,-85,-63,-70,,-42,24
+PT,,Porto District,-84,-59,-82,-79,-54,23
+PT,,Santarém District,-83,-59,-77,-81,-46,20
+PT,,Setubal,-82,-56,-78,-74,-54,20
+PT,,Viana do Castelo District,-85,-68,-76,-76,-51,26
+PT,,Vila Real District,-86,-64,-71,-72,-52,33
+PT,,Viseu District,-82,-60,-65,-61,-48,22
+PT,,Évora District,-83,-59,-78,-77,-48,29
+PY,,,-68,-52,-71,-76,-30,23
+QA,,,-51,-25,-34,-52,-31,22
+RE,,,-96,-88,-92,-82,-53,
+RO,,,-81,-53,-60,-72,-39,15
+RO,,Alba County,-83,-58,-49,-62,-45,12
+RO,,Arad County,-81,-55,-45,-69,-38,15
+RO,,Argeș County,-79,-54,-45,-73,-36,15
+RO,,Bacău County,-80,-55,-47,-77,-38,15
+RO,,Bihor County,-80,-59,-39,-64,-38,14
+RO,,Bistrița-Năsăud County,-82,-64,-64,-64,-43,17
+RO,,Botoșani County,-77,-51,-6,-67,-38,14
+RO,,Brașov County,-85,-61,-79,-79,-43,17
+RO,,Brăila County,-78,-47,-71,-70,-31,15
+RO,,Bucharest,-85,-50,-86,-74,-45,18
+RO,,Buzău County,-76,-56,-50,-59,-29,15
+RO,,Caraș-Severin County,-77,-56,-53,-69,-41,19
+RO,,Cluj County,-85,-62,-66,-77,-45,17
+RO,,Constanța County,-80,-49,-72,-69,-37,16
+RO,,Covasna County,-85,-61,-60,-61,-36,20
+RO,,Călărași County,-65,-50,-53,-60,-24,14
+RO,,Dolj County,-78,-53,-58,-67,-32,14
+RO,,Dâmbovița County,-76,-52,-50,-61,-32,14
+RO,,Galați,-80,-51,-66,-71,-38,16
+RO,,Giurgiu County,-63,-38,-37,-45,-19,14
+RO,,Gorj County,-73,-48,-50,-67,-36,15
+RO,,Harghita County,-79,-65,-60,-60,-40,18
+RO,,Hunedoara County,-82,-53,-66,-67,-44,14
+RO,,Ialomița County,-62,-49,-47,-63,-28,17
+RO,,Iași County,-82,-53,-57,-73,-39,17
+RO,,Ilfov County,-78,-47,-61,-78,-39,16
+RO,,Maramureș County,-81,-58,-44,-67,-44,13
+RO,,Mehedinți County,-78,-48,-51,-64,-33,20
+RO,,Mureș County,-81,-58,-61,-68,-37,14
+RO,,Neamț County,-80,-55,-62,-79,-39,16
+RO,,Olt County,-70,-46,-53,-66,-35,13
+RO,,Prahova,-81,-56,-72,-73,-36,14
+RO,,Satu Mare County,-82,-58,-39,-72,-40,13
+RO,,Sibiu,-83,-63,-70,-73,-42,15
+RO,,Suceava County,-85,-65,-49,-78,-48,17
+RO,,Sălaj,-82,-50,-55,-64,-36,16
+RO,,Teleorman County,-56,-47,-21,-55,-24,13
+RO,,Timiș County,-83,-54,-71,-74,-42,16
+RO,,Tulcea County,-79,-53,-60,-71,-33,16
+RO,,Vaslui County,-76,-53,-28,-68,-37,13
+RO,,Vrancea County,-81,-56,-36,-74,-37,17
+RO,,Vâlcea County,-78,-52,-50,-66,-36,14
+RW,,,-56,-57,-18,-75,-31,22
+SA,,,-54,-24,-49,-75,-45,23
+SE,,,-24,-10,43,-36,-18,5
+SE,,Blekinge County,-6,-5,26,-23,-18,9
+SE,,Dalarna County,-34,-15,1,-30,-17,5
+SE,,Gavleborg County,-27,-10,10,-27,-14,5
+SE,,Gotland County,-12,-6,,-45,-10,7
+SE,,Halland County,-13,-7,74,-25,-14,5
+SE,,Jamtland County,-41,-25,3,-46,-16,8
+SE,,Jonkoping County,-24,-7,30,-29,-23,6
+SE,,Kalmar County,-11,-5,21,-27,-13,5
+SE,,Kronoberg County,-19,-6,-51,-35,-17,8
+SE,,Norrbotten County,-30,-14,60,-38,-15,2
+SE,,Skåne County,-23,-8,23,-43,-16,6
+SE,,Stockholm County,-31,-14,24,-45,-21,7
+SE,,Södermanland County,-18,-7,46,-41,-19,5
+SE,,Uppsala County,-27,-9,35,-36,-18,7
+SE,,Varmland County,-28,-11,0,-25,-13,5
+SE,,Västerbotten County,-27,-10,34,-32,-18,3
+SE,,Västernorrland County,-26,-9,-14,-26,-17,4
+SE,,Västmanland County,-18,-7,-25,-32,-17,5
+SE,,Västra Götaland County,-24,-9,38,-34,-18,6
+SE,,Örebro County,-18,-7,59,-28,-18,5
+SE,,Östergötland County,-18,-12,60,-33,-17,5
+SG,,,-28,-6,-12,-40,-15,15
+SI,,,-88,-92,-43,-54,-45,13
+SI,,Administrative unit Maribor,-90,-95,-53,-69,-45,27
+SI,,Ajdovščina,-86,-41,,-65,-56,
+SI,,Brežice,-91,-55,,,-57,
+SI,,Celje,-88,-94,-58,-52,-39,11
+SI,,Cerknica,-83,,,,-53,
+SI,,Domžale,-89,-89,,-55,-39,22
+SI,,Dravograd,-70,,,,-45,
+SI,,Gornja Radgona,-88,-33,,,-48,
+SI,,Grosuplje,-90,-43,,,-38,2
+SI,,Idrija,-66,-45,,,-55,
+SI,,Ilirska Bistrica,-80,,,,-55,
+SI,,Izola,-84,-33,,,-63,
+SI,,Jesenice,-90,-53,-67,-61,-53,
+SI,,Kamnik,-95,-47,,,-39,2
+SI,,Koper,-92,-85,-63,-73,-47,13
+SI,,Kočevje,-73,-51,,,-52,
+SI,,Kranj,-90,-91,,-75,-52,30
+SI,,Krško,-71,-54,,,-36,
+SI,,Laško,-80,-51,,,-53,
+SI,,Lenart,-89,-41,,,-51,
+SI,,Lendava,-78,-55,,,-48,
+SI,,Litija,-77,-35,,,-53,
+SI,,Ljubljana,-87,-91,-51,-58,-44,15
+SI,,Ljutomer,-88,-48,,,-52,
+SI,,Logatec,-88,-47,,-81,-53,
+SI,,Metlika,,,,,-58,
+SI,,Mozirje,-80,-45,,,-53,
+SI,,Municipality of Hrastnik,,,,,-53,
+SI,,Murska Sobota,-90,-39,,-44,-50,1
+SI,,Nova Gorica,-89,-49,,-60,-52,2
+SI,,Novo Mesto,-90,-45,,,-37,19
+SI,,Ormož,-61,-50,,,-59,
+SI,,Pesnica,-83,,,,-55,
+SI,,Piran,-90,-81,-53,,-61,
+SI,,Postojna,-73,-46,,-51,-51,
+SI,,Ptuj,-95,-92,,-61,-37,18
+SI,,Radlje ob Dravi,-81,-45,,,-49,
+SI,,Radovljica,-94,-50,-62,-61,-61,
+SI,,Ravne na Koroškem,-76,-41,,,-30,
+SI,,Ribnica,,,,,-52,
+SI,,Ruše,-78,,,,-52,
+SI,,Sevnica,-85,-40,,,-51,
+SI,,Sežana,-95,-57,,,-44,
+SI,,Slovenj Gradec,-86,-57,,,-58,
+SI,,Slovenska Bistrica,-100,-49,,,-36,
+SI,,Slovenske Konjice,-91,-36,,,-48,
+SI,,Tolmin,-68,-49,,,-54,
+SI,,Trbovlje,-86,-41,,,-50,
+SI,,Trebnje,-92,-49,,,-57,
+SI,,Tržič,-84,-44,,,-54,
+SI,,Velenje,-93,-58,,-59,-47,0
+SI,,Vrhnika,-88,-42,,,-50,
+SI,,Zagorje ob Savi,-76,-45,,,-59,
+SI,,Črnomelj,-70,-47,,,-47,
+SI,,Šentjur,-74,-44,,,-54,
+SI,,Škofja Loka,-90,-43,,-63,-64,1
+SI,,Šmarje pri Jelšah,-82,-60,2,,-58,
+SI,,Žalec,-100,-42,,,-41,0
+SK,,,-82,-89,-9,-61,-38,10
+SK,,Banská Bystrica Region,-81,-88,5,-59,-36,9
+SK,,Bratislava Region,-83,-91,-3,-64,-40,12
+SK,,Košice Region,-81,-90,67,-60,-34,9
+SK,,Nitra Region,-81,-90,29,-58,-36,9
+SK,,Prešov Region,-82,-90,-55,-71,-41,10
+SK,,Trenčín Region,-78,-88,3,-57,-40,9
+SK,,Trnava Region,-81,-89,45,-62,-38,10
+SK,,Žilina Region,-83,-88,-25,-68,-41,10
+SN,,,-44,-31,-28,-50,-10,12
+SV,,,-81,-62,-72,-73,-50,23
+TG,,,-37,-25,-21,-41,-9,16
+TH,,,-55,-27,-54,-61,-21,16
+TJ,,,-8,-8,4,-17,10,-3
+TR,,,-75,-39,-58,-71,-45,17
+TT,,,-29,10,-40,-70,-17,9
+TW,,,-9,3,17,-24,-1,4
+TZ,,,-16,-8,-7,-11,-9,3
+UG,,,-50,-36,-16,-59,-23,19
+US,,,-47,-22,-19,-51,-38,12
+US,,Alabama,-41,-13,19,-30,-32,9
+US,,Alaska,-48,-27,18,-55,-33,10
+US,,Arizona,-40,-17,-7,-41,-33,10
+US,,Arkansas,-29,-7,81,-22,-27,7
+US,,California,-50,-24,-38,-54,-39,15
+US,,Colorado,-51,-27,-12,-60,-40,13
+US,,Connecticut,-56,-32,-52,-64,-38,15
+US,,Delaware,-47,-28,-6,-57,-37,12
+US,,District of Columbia,-64,-30,-41,-68,-47,14
+US,,Florida,-50,-26,-48,-63,-41,13
+US,,Georgia,-42,-17,-2,-52,-37,11
+US,,Hawaii,-56,-36,-65,-72,-45,16
+US,,Idaho,-42,-18,25,-34,-38,10
+US,,Illinois,-53,-24,-29,-55,-39,13
+US,,Indiana,-48,-25,24,-34,-36,11
+US,,Iowa,-43,-10,41,-28,-29,10
+US,,Kansas,-36,-14,72,-20,-30,9
+US,,Kentucky,-37,-11,68,-34,-34,9
+US,,Louisiana,-45,-16,-18,-49,-35,11
+US,,Maine,-50,-22,-24,-56,-31,10
+US,,Maryland,-45,-25,29,-51,-39,13
+US,,Massachusetts,-59,-36,-56,-73,-42,16
+US,,Michigan,-58,-28,15,-55,-43,12
+US,,Minnesota,-58,-35,-16,-64,-38,14
+US,,Mississippi,-32,-7,27,-29,-30,9
+US,,Missouri,-38,-12,73,-34,-32,9
+US,,Montana,-51,-25,28,-37,-37,10
+US,,Nebraska,-34,-9,109,-18,-24,8
+US,,Nevada,-47,-23,-38,-62,-52,14
+US,,New Hampshire,-58,-35,-63,-63,-38,13
+US,,New Jersey,-59,-33,-36,-70,-44,16
+US,,New Mexico,-44,-18,-12,-31,-34,11
+US,,New York,-62,-32,-47,-68,-46,16
+US,,North Carolina,-40,-15,13,-51,-35,10
+US,,North Dakota,-44,-13,73,-36,-24,9
+US,,Ohio,-43,-19,117,-33,-35,10
+US,,Oklahoma,-36,-12,29,-23,-32,9
+US,,Oregon,-51,-25,-22,-47,-38,12
+US,,Pennsylvania,-50,-27,7,-52,-38,12
+US,,Rhode Island,-55,-30,-50,-67,-37,14
+US,,South Carolina,-38,-11,-4,-34,-34,9
+US,,South Dakota,-35,-3,126,-31,-25,8
+US,,Tennessee,-35,-9,35,-35,-34,8
+US,,Texas,-45,-23,-27,-47,-36,13
+US,,Utah,-41,-14,26,-44,-40,10
+US,,Vermont,-62,-42,-55,-71,-43,13
+US,,Virginia,-39,-16,46,-50,-36,11
+US,,Washington,-48,-26,-11,-56,-41,13
+US,,West Virginia,-38,-16,52,-31,-33,8
+US,,Wisconsin,-55,-30,-12,-50,-34,13
+US,,Wyoming,-37,-13,29,-14,-29,8
+US,Alabama,Autauga County,-42,-8,-14,,-35,16
+US,Alabama,Baldwin County,-47,-19,-27,-24,-32,9
+US,Alabama,Barbour County,-27,-20,,,-23,
+US,Alabama,Bibb County,-25,-10,,,-32,
+US,Alabama,Blount County,-36,-2,,,-29,15
+US,Alabama,Bullock County,-37,-13,,,-24,
+US,Alabama,Butler County,-37,-5,,-45,-30,
+US,Alabama,Calhoun County,-40,-17,-22,,-33,8
+US,Alabama,Chambers County,-34,1,,-12,-28,13
+US,Alabama,Cherokee County,-24,6,,,-29,
+US,Alabama,Chilton County,-41,-11,,-27,-26,14
+US,Alabama,Choctaw County,-13,-16,,,-28,
+US,Alabama,Clarke County,-27,-24,,,-27,
+US,Alabama,Clay County,-33,-14,,,-20,
+US,Alabama,Cleburne County,-22,-3,,-36,-9,
+US,Alabama,Coffee County,-28,-15,,,-26,11
+US,Alabama,Colbert County,-30,-6,-14,-20,-22,12
+US,Alabama,Conecuh County,-49,-10,,-33,-21,
+US,Alabama,Coosa County,,,,,-28,
+US,Alabama,Covington County,-37,-15,,,-23,7
+US,Alabama,Crenshaw County,-57,-17,,,-35,
+US,Alabama,Cullman County,-33,-2,86,-33,-29,8
+US,Alabama,Dale County,-34,-9,,-17,-25,11
+US,Alabama,Dallas County,-27,-2,,,-22,5
+US,Alabama,DeKalb County,-38,-7,9,-33,-23,11
+US,Alabama,Elmore County,-40,-13,50,,-37,8
+US,Alabama,Escambia County,-35,-20,,,-27,7
+US,Alabama,Etowah County,-47,-13,19,-27,-33,9
+US,Alabama,Fayette County,-23,,,,-28,
+US,Alabama,Franklin County,-27,-4,,,-14,5
+US,Alabama,Geneva County,-34,-4,,,-28,-2
+US,Alabama,Greene County,11,-22,,-32,-33,
+US,Alabama,Hale County,-46,-29,,,-14,
+US,Alabama,Henry County,-46,-8,,,-29,
+US,Alabama,Houston County,-46,-18,23,-27,-30,9
+US,Alabama,Jackson County,-31,-4,,,-25,12
+US,Alabama,Jefferson County,-48,-16,7,-43,-36,11
+US,Alabama,Lamar County,0,2,,,-28,
+US,Alabama,Lauderdale County,-43,-14,-15,,-33,9
+US,Alabama,Lawrence County,-27,-6,,,-25,7
+US,Alabama,Lee County,-52,-23,-14,,-36,11
+US,Alabama,Limestone County,-35,-12,38,,-32,9
+US,Alabama,Lowndes County,,,,-29,-34,
+US,Alabama,Macon County,-29,-12,,-42,-37,
+US,Alabama,Madison County,-46,-17,35,-39,-38,10
+US,Alabama,Marengo County,-18,-4,,,-17,
+US,Alabama,Marion County,-31,-4,,,-24,
+US,Alabama,Marshall County,-34,-4,107,,-30,8
+US,Alabama,Mobile County,-39,-11,-21,-30,-29,9
+US,Alabama,Monroe County,-28,-7,,,-27,
+US,Alabama,Montgomery County,-44,-14,-9,-14,-34,11
+US,Alabama,Morgan County,-37,-4,18,-27,-27,8
+US,Alabama,Perry County,-53,4,,,-29,
+US,Alabama,Pickens County,-36,-4,,,-36,
+US,Alabama,Pike County,-39,-36,,,-25,0
+US,Alabama,Randolph County,-29,-14,,,-22,
+US,Alabama,Russell County,-28,-5,,,-27,13
+US,Alabama,Shelby County,-43,-20,44,,-36,12
+US,Alabama,St. Clair County,-30,-15,,-24,-34,9
+US,Alabama,Sumter County,-52,-6,,,-31,
+US,Alabama,Talladega County,-31,-10,17,-12,-33,7
+US,Alabama,Tallapoosa County,-31,-9,,,-25,13
+US,Alabama,Tuscaloosa County,-46,-14,-1,-29,-40,12
+US,Alabama,Walker County,-37,-10,,-32,-24,12
+US,Alabama,Washington County,,-13,,,-25,
+US,Alabama,Wilcox County,-49,-17,,,-31,
+US,Alabama,Winston County,-28,1,,,-21,
+US,Alaska,Anchorage,-49,-25,51,-53,-39,11
+US,Alaska,Bethel,,-26,,,-19,
+US,Alaska,Fairbanks North Star,-48,-34,,-76,-32,12
+US,Alaska,Juneau,-61,-34,-34,-66,-31,-1
+US,Alaska,Kenai Peninsula Borough,-49,-28,,,-24,14
+US,Alaska,Ketchikan Gateway,-48,-38,,,-32,
+US,Alaska,Kodiak Island,-50,,,,-23,
+US,Alaska,Matanuska-Susitna,-48,-33,,,-33,10
+US,Alaska,North Slope,,,,,-7,
+US,Alaska,Sitka,-59,,,,-31,
+US,Alaska,Southeast Fairbanks,,,,,-35,
+US,Alaska,Valdez-Cordova,,,,,-22,
+US,Arizona,Apache County,-38,-13,-35,-8,-27,20
+US,Arizona,Cochise County,-37,-21,-14,-23,-29,8
+US,Arizona,Coconino County,-55,-24,-25,-34,-38,12
+US,Arizona,Gila County,-14,16,95,,-28,11
+US,Arizona,Graham County,-21,14,-63,,-19,11
+US,Arizona,Greenlee County,-37,-10,,,-28,
+US,Arizona,La Paz County,-61,-35,-54,-50,-21,
+US,Arizona,Maricopa County,-40,-18,-6,-44,-33,10
+US,Arizona,Mohave County,-36,-13,-13,-23,-37,9
+US,Arizona,Navajo County,-29,-9,11,-12,-28,10
+US,Arizona,Pima County,-43,-16,-16,-43,-36,10
+US,Arizona,Pinal County,-27,-23,1,-28,-31,8
+US,Arizona,Santa Cruz County,-56,-47,-29,-25,-33,18
+US,Arizona,Yavapai County,-40,-15,6,-27,-38,9
+US,Arizona,Yuma County,-45,-21,-17,-53,-27,10
+US,Arkansas,Arkansas County,-22,-7,,,-11,
+US,Arkansas,Ashley County,-24,-4,,,-27,
+US,Arkansas,Baxter County,-30,-2,,,-26,11
+US,Arkansas,Benton County,-36,-16,56,-65,-34,9
+US,Arkansas,Boone County,-25,-17,,,-32,14
+US,Arkansas,Bradley County,-28,-17,,,-37,
+US,Arkansas,Carroll County,-27,14,,,-27,-1
+US,Arkansas,Chicot County,-19,6,,,-25,
+US,Arkansas,Clark County,-33,2,,-23,-22,
+US,Arkansas,Clay County,-7,-2,,,-21,
+US,Arkansas,Cleburne County,-16,0,,,-37,
+US,Arkansas,Cleveland County,,,,,-33,
+US,Arkansas,Columbia County,-18,-20,,,-20,
+US,Arkansas,Conway County,2,4,,-2,-25,
+US,Arkansas,Craighead County,-32,-3,-59,-5,-24,4
+US,Arkansas,Crawford County,-16,-1,,-11,-21,14
+US,Arkansas,Crittenden County,-15,-11,,-17,-26,15
+US,Arkansas,Cross County,-49,90,,,-7,
+US,Arkansas,Dallas County,-17,,,,-32,
+US,Arkansas,Desha County,-8,0,,,-33,
+US,Arkansas,Drew County,-27,-10,,,-16,
+US,Arkansas,Faulkner County,-32,-15,-21,,-31,8
+US,Arkansas,Franklin County,-8,12,,8,-16,
+US,Arkansas,Fulton County,,,,,-28,
+US,Arkansas,Garland County,-32,-12,17,,-32,7
+US,Arkansas,Grant County,-10,-17,,,-26,
+US,Arkansas,Greene County,-18,-4,,,-20,12
+US,Arkansas,Hempstead County,-19,-13,,,-24,
+US,Arkansas,Hot Spring County,5,9,,-28,-24,10
+US,Arkansas,Howard County,-8,-7,,,-29,
+US,Arkansas,Independence County,-27,9,,,-24,13
+US,Arkansas,Izard County,-24,-15,,,-29,
+US,Arkansas,Jackson County,-10,-12,,,-14,
+US,Arkansas,Jefferson County,-30,4,,-14,-26,11
+US,Arkansas,Johnson County,-24,12,-28,,-14,-2
+US,Arkansas,Lawrence County,-19,-6,,,-30,
+US,Arkansas,Lincoln County,-60,-16,,,-23,
+US,Arkansas,Little River County,-7,5,,,-34,
+US,Arkansas,Logan County,-5,13,,,-18,
+US,Arkansas,Lonoke County,-23,-5,,,-27,15
+US,Arkansas,Madison County,-10,17,,,-11,
+US,Arkansas,Marion County,4,5,,,-26,
+US,Arkansas,Miller County,-33,-10,-35,-24,-32,12
+US,Arkansas,Mississippi County,-11,-1,,-18,-15,10
+US,Arkansas,Monroe County,-26,-8,,,-34,
+US,Arkansas,Montgomery County,,,,,-33,
+US,Arkansas,Nevada County,-61,,,-23,-21,
+US,Arkansas,Newton County,,,,,-38,
+US,Arkansas,Ouachita County,-9,-21,,,-16,
+US,Arkansas,Perry County,,,,,-35,
+US,Arkansas,Phillips County,-1,-6,,,-32,
+US,Arkansas,Pike County,-30,13,,,-33,
+US,Arkansas,Poinsett County,2,-5,,,-15,
+US,Arkansas,Polk County,-17,3,,,-25,
+US,Arkansas,Pope County,-32,-9,,-11,-22,12
+US,Arkansas,Prairie County,,,,,-26,
+US,Arkansas,Pulaski County,-35,-9,73,-38,-30,9
+US,Arkansas,Randolph County,-22,12,,,-23,
+US,Arkansas,Saline County,-26,-13,-52,-10,-33,7
+US,Arkansas,Scott County,-39,,,,-27,
+US,Arkansas,Searcy County,,,,,-39,
+US,Arkansas,Sebastian County,-36,-11,45,-41,-27,7
+US,Arkansas,Sevier County,-24,-11,,,-19,
+US,Arkansas,Sharp County,-17,-7,,,-26,
+US,Arkansas,St. Francis County,-16,10,,-22,-25,
+US,Arkansas,Stone County,-11,-29,,,-26,
+US,Arkansas,Union County,-33,-8,,,-24,8
+US,Arkansas,Van Buren County,-20,,,,-39,
+US,Arkansas,Washington County,-37,-16,37,-10,-34,8
+US,Arkansas,White County,-27,-12,-19,4,-21,9
+US,Arkansas,Yell County,-11,13,16,,-19,
+US,California,Alameda County,-58,-27,-14,-64,-44,17
+US,California,Amador County,-41,-20,-50,,-44,0
+US,California,Butte County,-45,-16,-23,-45,-34,11
+US,California,Calaveras County,-42,-12,-28,,-39,10
+US,California,Colusa County,-37,-1,,-32,-37,
+US,California,Contra Costa County,-48,-21,-15,-49,-41,15
+US,California,Del Norte County,-31,-11,-26,,-29,
+US,California,El Dorado County,-58,-37,-35,-50,-48,13
+US,California,Fresno County,-40,-14,-27,-43,-31,11
+US,California,Glenn County,-23,-14,-11,-20,-36,2
+US,California,Humboldt County,-48,-23,-10,-48,-35,11
+US,California,Imperial County,-53,-31,-65,-62,-32,16
+US,California,Inyo County,-75,-37,-35,,-39,
+US,California,Kern County,-43,-17,-16,-37,-30,11
+US,California,Kings County,-34,-14,-12,-43,-27,10
+US,California,Lake County,-38,-13,-42,-42,-33,16
+US,California,Lassen County,-30,-8,,,-22,
+US,California,Los Angeles County,-51,-27,-48,-54,-41,17
+US,California,Madera County,-39,-25,-20,-30,-30,11
+US,California,Marin County,-61,-30,-59,-61,-42,17
+US,California,Mariposa County,-75,-23,-72,,-45,
+US,California,Mendocino County,-47,-29,-39,-44,-32,17
+US,California,Merced County,-34,-18,-1,-37,-26,11
+US,California,Modoc County,-59,-9,,,-26,
+US,California,Mono County,-100,-60,-57,,-73,
+US,California,Monterey County,-46,-19,-48,-45,-43,14
+US,California,Napa County,-53,-34,-24,-45,-51,18
+US,California,Nevada County,-56,-26,-48,-73,-41,15
+US,California,Orange County,-52,-24,-31,-55,-44,17
+US,California,Placer County,-52,-27,-2,-55,-44,13
+US,California,Plumas County,-30,-8,,,-25,
+US,California,Riverside County,-43,-20,-44,-41,-39,14
+US,California,Sacramento County,-45,-21,-1,-57,-37,13
+US,California,San Benito County,-45,-25,-36,,-32,23
+US,California,San Bernardino County,-45,-23,-36,-42,-34,14
+US,California,San Diego County,-50,-26,-51,-64,-41,15
+US,California,San Francisco County,-75,-37,-55,-66,-53,21
+US,California,San Joaquin County,-41,-16,-16,-31,-30,12
+US,California,San Luis Obispo County,-56,-29,-27,-58,-45,13
+US,California,San Mateo County,-60,-26,-35,-83,-46,19
+US,California,Santa Barbara County,-47,-17,-30,-51,-40,13
+US,California,Santa Clara County,-62,-33,-22,-71,-48,17
+US,California,Santa Cruz County,-55,-27,-40,-57,-41,15
+US,California,Shasta County,-39,-15,-21,-22,-31,9
+US,California,Siskiyou County,-35,-20,-6,9,-25,13
+US,California,Solano County,-45,-21,-18,-37,-34,13
+US,California,Sonoma County,-53,-22,-58,-54,-41,15
+US,California,Stanislaus County,-44,-19,-12,-28,-29,11
+US,California,Sutter County,-41,-18,-28,-43,-34,13
+US,California,Tehama County,-34,-9,-9,-22,-27,15
+US,California,Trinity County,-65,-20,,,-28,
+US,California,Tulare County,-39,-13,-27,-28,-25,11
+US,California,Tuolumne County,-48,-17,-67,,-38,14
+US,California,Ventura County,-46,-24,-24,-40,-39,14
+US,California,Yolo County,-43,-23,2,-34,-37,13
+US,California,Yuba County,-34,-12,24,-34,-38,13
+US,Colorado,Adams County,-49,-25,-12,-30,-36,13
+US,Colorado,Alamosa County,-44,-28,,,-28,
+US,Colorado,Arapahoe County,-52,-30,14,-36,-40,14
+US,Colorado,Archuleta County,-60,-28,,,-44,
+US,Colorado,Boulder County,-59,-32,-7,-44,-47,15
+US,Colorado,Broomfield County,-57,-30,9,-46,-41,30
+US,Colorado,Chaffee County,-56,-31,-36,,-45,
+US,Colorado,Clear Creek County,-88,-55,-42,,-40,
+US,Colorado,Conejos County,,,,,-29,
+US,Colorado,Delta County,-41,-20,-40,,-19,5
+US,Colorado,Denver County,-63,-25,-17,-75,-43,16
+US,Colorado,Douglas County,-56,-36,10,-50,-43,14
+US,Colorado,Eagle County,-75,-47,-46,-67,-74,26
+US,Colorado,El Paso County,-45,-22,-1,-55,-40,12
+US,Colorado,Elbert County,-22,-16,,,-37,0
+US,Colorado,Fremont County,-35,-13,-7,,-29,14
+US,Colorado,Garfield County,-51,-35,4,-34,-45,22
+US,Colorado,Gilpin County,,,,,-67,
+US,Colorado,Grand County,-85,-49,-84,-43,-60,
+US,Colorado,Gunnison County,-73,-43,-50,,-55,
+US,Colorado,Huerfano County,-62,-43,,,-28,
+US,Colorado,Jefferson County,-53,-41,-3,-39,-43,14
+US,Colorado,Kit Carson County,-39,-20,,-18,-13,
+US,Colorado,La Plata County,-58,-28,4,-68,-43,25
+US,Colorado,Lake County,-82,-33,,,-57,
+US,Colorado,Larimer County,-53,-27,1,-38,-38,13
+US,Colorado,Las Animas County,-40,-23,,,-21,
+US,Colorado,Lincoln County,-33,-31,,-31,-30,
+US,Colorado,Logan County,-32,-15,,,-26,
+US,Colorado,Mesa County,-40,-21,11,-35,-35,9
+US,Colorado,Moffat County,-26,-22,,,-36,
+US,Colorado,Montezuma County,-39,-14,,,-31,-1
+US,Colorado,Montrose County,-45,-31,,,-36,17
+US,Colorado,Morgan County,-40,-33,0,-23,-18,14
+US,Colorado,Otero County,-32,-28,,,-25,
+US,Colorado,Ouray County,-28,,,,-56,
+US,Colorado,Park County,-84,-44,3,,-52,
+US,Colorado,Pitkin County,-100,-56,,-85,-75,
+US,Colorado,Prowers County,-32,-25,,-33,-17,
+US,Colorado,Pueblo County,-42,-21,-45,-32,-29,9
+US,Colorado,Rio Blanco County,,,,,-28,
+US,Colorado,Rio Grande County,-38,-24,,,-17,
+US,Colorado,Routt County,-82,-49,-48,-65,-62,-2
+US,Colorado,Saguache County,,,,,-44,
+US,Colorado,San Miguel County,-80,,,,-69,
+US,Colorado,Summit County,-86,-73,-74,-67,-71,5
+US,Colorado,Teller County,-46,-23,,,-45,-1
+US,Colorado,Weld County,-42,-26,-4,-32,-33,12
+US,Colorado,Yuma County,-33,-22,,,-30,
+US,Connecticut,Fairfield County,-61,-35,-60,-72,-44,17
+US,Connecticut,Hartford County,-56,-31,-48,-61,-35,13
+US,Connecticut,Litchfield County,-51,-27,-40,,-33,13
+US,Connecticut,Middlesex County,-58,-28,-49,-60,-38,15
+US,Connecticut,New Haven County,-56,-31,-52,-62,-36,14
+US,Connecticut,New London County,-56,-28,-45,-67,-41,15
+US,Connecticut,Tolland County,-59,-33,-38,-38,-37,14
+US,Connecticut,Windham County,-42,-27,-58,-69,-32,12
+US,Delaware,Kent County,-45,-32,2,-50,-35,11
+US,Delaware,New Castle County,-48,-31,5,-60,-37,13
+US,Delaware,Sussex County,-46,-23,-5,-40,-36,11
+US,Florida,Alachua County,-54,-26,-32,-48,-37,12
+US,Florida,Baker County,-23,-8,,-45,-27,-3
+US,Florida,Bay County,-38,-16,-2,-50,-27,8
+US,Florida,Bradford County,-26,0,,,-26,0
+US,Florida,Brevard County,-44,-22,-26,-37,-38,11
+US,Florida,Broward County,-52,-28,-62,-72,-42,16
+US,Florida,Calhoun County,-38,-5,,,-28,
+US,Florida,Charlotte County,-49,-25,-35,-33,-40,10
+US,Florida,Citrus County,-38,-15,-35,,-36,9
+US,Florida,Clay County,-33,-15,1,,-34,10
+US,Florida,Collier County,-56,-29,-62,-56,-44,14
+US,Florida,Columbia County,-36,-8,-41,-25,-25,8
+US,Florida,DeSoto County,-35,-21,-28,,-26,12
+US,Florida,Dixie County,-30,-4,,,-31,
+US,Florida,Duval County,-36,-13,-26,-40,-33,10
+US,Florida,Escambia County,-38,-10,-11,-47,-32,9
+US,Florida,Flagler County,-44,-16,-34,,-40,10
+US,Florida,Franklin County,-56,-12,-14,,-30,
+US,Florida,Gadsden County,-24,-10,,-36,-31,14
+US,Florida,Gilchrist County,-26,-1,,,-24,
+US,Florida,Glades County,-62,,-65,-39,-30,
+US,Florida,Gulf County,-28,-1,,,-16,
+US,Florida,Hamilton County,-16,-4,,-28,-24,
+US,Florida,Hardee County,-30,-29,-30,,-29,
+US,Florida,Hendry County,-34,-10,-42,,-28,12
+US,Florida,Hernando County,-36,-16,-10,-37,-36,10
+US,Florida,Highlands County,-44,-21,-49,,-36,9
+US,Florida,Hillsborough County,-52,-30,-53,-67,-42,14
+US,Florida,Holmes County,-19,-12,,,-18,
+US,Florida,Indian River County,-46,-29,-30,-47,-38,11
+US,Florida,Jackson County,-29,-11,,-32,-32,12
+US,Florida,Jefferson County,-20,-10,,,-28,
+US,Florida,Lafayette County,,,,,-28,
+US,Florida,Lake County,-42,-24,-24,-57,-41,12
+US,Florida,Lee County,-55,-28,-60,-69,-41,12
+US,Florida,Leon County,-45,-22,0,-50,-36,11
+US,Florida,Levy County,-35,-12,-20,,-31,12
+US,Florida,Liberty County,,-5,,,-28,
+US,Florida,Madison County,-41,-2,,-26,-31,
+US,Florida,Manatee County,-48,-22,-28,-63,-36,11
+US,Florida,Marion County,-41,-21,-40,-31,-34,9
+US,Florida,Martin County,-50,-28,-28,-59,-37,12
+US,Florida,Miami-Dade County,-57,-35,-77,-71,-46,18
+US,Florida,Monroe County,-74,-47,-76,-76,-55,15
+US,Florida,Nassau County,-40,-18,-24,-68,-34,10
+US,Florida,Okaloosa County,-39,-14,-7,-62,-32,9
+US,Florida,Okeechobee County,-37,-10,-23,-84,-33,11
+US,Florida,Orange County,-70,-42,-59,-80,-53,17
+US,Florida,Osceola County,-64,-40,-49,-65,-54,18
+US,Florida,Palm Beach County,-49,-23,-65,-61,-40,15
+US,Florida,Pasco County,-40,-24,-10,-25,-35,11
+US,Florida,Pinellas County,-51,-25,-16,-44,-39,12
+US,Florida,Polk County,-40,-22,-28,-29,-38,11
+US,Florida,Putnam County,-23,-15,-20,,-33,9
+US,Florida,Santa Rosa County,-28,-13,17,,-32,9
+US,Florida,Sarasota County,-52,-28,-59,-28,-41,11
+US,Florida,Seminole County,-48,-21,-19,-74,-42,13
+US,Florida,St. Johns County,-48,-13,-53,-34,-41,11
+US,Florida,St. Lucie County,-40,-14,-22,-52,-34,11
+US,Florida,Sumter County,-50,-21,-31,-36,-45,10
+US,Florida,Suwannee County,-28,-14,0,-42,-27,11
+US,Florida,Taylor County,-34,-7,,,-25,
+US,Florida,Union County,-44,-5,,,-35,
+US,Florida,Volusia County,-42,-19,-10,-39,-38,10
+US,Florida,Wakulla County,-25,-20,20,,-20,16
+US,Florida,Walton County,-46,-23,-29,-21,-31,9
+US,Florida,Washington County,-33,5,,,-31,
+US,Georgia,Appling County,-28,-16,,,-19,
+US,Georgia,Atkinson County,-29,12,,,-26,
+US,Georgia,Bacon County,-26,-15,,,-20,
+US,Georgia,Baldwin County,-34,-20,,,-31,13
+US,Georgia,Banks County,-35,,,,-19,
+US,Georgia,Barrow County,-35,-12,-37,,-34,11
+US,Georgia,Bartow County,-42,-5,40,-25,-33,9
+US,Georgia,Ben Hill County,-28,9,,,-30,
+US,Georgia,Berrien County,-28,5,,,-20,
+US,Georgia,Bibb County,-43,-16,36,-27,-32,10
+US,Georgia,Bleckley County,-31,-8,,,-37,
+US,Georgia,Brantley County,-27,-4,,,-28,
+US,Georgia,Brooks County,-38,-5,,,-23,
+US,Georgia,Bryan County,-45,-19,-9,-29,-36,18
+US,Georgia,Bulloch County,-41,-12,,,-35,9
+US,Georgia,Burke County,-24,-7,-23,,-14,
+US,Georgia,Butts County,-30,-6,,-13,-31,-1
+US,Georgia,Camden County,-35,3,7,-29,-30,16
+US,Georgia,Candler County,-57,-20,,,-24,
+US,Georgia,Carroll County,-38,-18,12,-25,-36,10
+US,Georgia,Catoosa County,-38,-8,14,,-33,16
+US,Georgia,Charlton County,-31,7,,,-25,
+US,Georgia,Chatham County,-50,-24,-32,-48,-41,11
+US,Georgia,Chattahoochee County,-53,-39,,,-36,
+US,Georgia,Chattooga County,-15,-2,,,-42,
+US,Georgia,Cherokee County,-39,-20,59,,-40,12
+US,Georgia,Clarke County,-51,-24,-21,-30,-41,12
+US,Georgia,Clayton County,-30,-18,15,-80,-33,11
+US,Georgia,Clinch County,,-2,,,-25,
+US,Georgia,Cobb County,-49,-22,-47,-38,-41,13
+US,Georgia,Coffee County,-41,-8,,,-23,11
+US,Georgia,Colquitt County,-31,-6,,,-25,13
+US,Georgia,Columbia County,-35,-7,-20,-44,-37,11
+US,Georgia,Cook County,-17,2,,-21,-21,
+US,Georgia,Coweta County,-46,-16,-56,-15,-35,11
+US,Georgia,Crawford County,,,,,-20,
+US,Georgia,Crisp County,-28,-22,,-10,-35,
+US,Georgia,Dade County,-49,-9,,-16,-23,
+US,Georgia,Dawson County,-49,-25,17,,-37,0
+US,Georgia,Decatur County,-24,-10,,,-19,-3
+US,Georgia,DeKalb County,-47,-26,-15,-27,-42,13
+US,Georgia,Dodge County,-26,-5,,,-26,
+US,Georgia,Dooly County,-59,-25,,-28,-21,
+US,Georgia,Dougherty County,-51,-24,-37,-30,-34,11
+US,Georgia,Douglas County,-40,-26,-2,-28,-37,11
+US,Georgia,Early County,-73,-23,,,-27,
+US,Georgia,Effingham County,-28,-7,,,-33,16
+US,Georgia,Elbert County,-13,3,,,-25,
+US,Georgia,Emanuel County,-21,17,,,-9,
+US,Georgia,Evans County,-22,4,,,-23,
+US,Georgia,Fannin County,-45,-21,38,,-38,
+US,Georgia,Fayette County,-40,-29,25,,-43,13
+US,Georgia,Floyd County,-36,-8,28,,-28,9
+US,Georgia,Forsyth County,-45,-32,3,,-42,13
+US,Georgia,Franklin County,-42,-15,-22,-22,-28,
+US,Georgia,Fulton County,-54,-26,-44,-47,-43,13
+US,Georgia,Gilmer County,-45,-31,,,-33,2
+US,Georgia,Glynn County,-45,-22,-32,-39,-40,10
+US,Georgia,Gordon County,-30,-8,,-20,-33,15
+US,Georgia,Grady County,-35,-6,,,-35,-1
+US,Georgia,Greene County,-17,-13,,,-36,
+US,Georgia,Gwinnett County,-50,-24,-9,-42,-46,15
+US,Georgia,Habersham County,-35,-10,,,-27,13
+US,Georgia,Hall County,-39,-19,51,-20,-34,10
+US,Georgia,Hancock County,,6,,,-24,
+US,Georgia,Haralson County,-27,-6,-29,-22,-33,8
+US,Georgia,Harris County,-4,9,,,-41,13
+US,Georgia,Hart County,-18,-6,,,-17,
+US,Georgia,Heard County,,2,,,-31,
+US,Georgia,Henry County,-42,-13,22,,-41,12
+US,Georgia,Houston County,-39,-15,-6,,-36,10
+US,Georgia,Irwin County,,-2,,,-26,
+US,Georgia,Jackson County,-61,-38,,-22,-30,16
+US,Georgia,Jasper County,-39,-2,,,-9,
+US,Georgia,Jeff Davis County,-27,-12,,,-21,
+US,Georgia,Jefferson County,-28,-3,,,-13,
+US,Georgia,Jenkins County,-33,2,,,-25,
+US,Georgia,Johnson County,,-9,,,-26,
+US,Georgia,Jones County,-25,4,,,-38,8
+US,Georgia,Lamar County,-34,-6,,,-36,
+US,Georgia,Lanier County,-43,-6,,,-35,
+US,Georgia,Laurens County,-42,-15,,-27,-31,14
+US,Georgia,Lee County,-45,-21,,,-28,11
+US,Georgia,Liberty County,-32,-17,-17,-22,-27,10
+US,Georgia,Lincoln County,,,,,-27,
+US,Georgia,Long County,,,,,-30,
+US,Georgia,Lowndes County,-45,-17,-13,-21,-29,8
+US,Georgia,Lumpkin County,-35,19,,,-37,6
+US,Georgia,Macon County,-35,-4,,,-22,
+US,Georgia,Madison County,-51,-17,,,-24,8
+US,Georgia,Marion County,,12,,,-27,
+US,Georgia,McDuffie County,-14,4,,-21,-18,
+US,Georgia,McIntosh County,-49,0,,,-39,
+US,Georgia,Meriwether County,-21,-4,,,-26,
+US,Georgia,Miller County,-58,,,,-30,
+US,Georgia,Mitchell County,-21,-25,,,-13,
+US,Georgia,Monroe County,-39,3,11,-35,-32,-2
+US,Georgia,Montgomery County,,-7,,,-26,
+US,Georgia,Morgan County,-33,-14,,-27,-30,
+US,Georgia,Murray County,-18,1,,,-25,13
+US,Georgia,Muscogee County,-44,-8,19,-56,-29,9
+US,Georgia,Newton County,-31,-14,-13,,-36,10
+US,Georgia,Oconee County,-46,-7,,,-37,0
+US,Georgia,Oglethorpe County,,0,,,-41,
+US,Georgia,Paulding County,-34,-25,-55,,-36,11
+US,Georgia,Peach County,-39,-16,,-24,-33,7
+US,Georgia,Pickens County,-27,-16,,,-30,9
+US,Georgia,Pierce County,-48,-14,,,-26,
+US,Georgia,Pike County,-38,3,,,-38,
+US,Georgia,Polk County,-21,-4,,,-31,12
+US,Georgia,Pulaski County,-54,-12,,,-31,
+US,Georgia,Putnam County,-3,2,,-59,-28,
+US,Georgia,Rabun County,-42,-2,37,,-40,
+US,Georgia,Randolph County,-64,,,,-32,
+US,Georgia,Richmond County,-40,-5,26,-51,-31,8
+US,Georgia,Rockdale County,-43,-11,-18,,-39,12
+US,Georgia,Schley County,,,,,-36,
+US,Georgia,Screven County,-37,0,,,-29,
+US,Georgia,Seminole County,-7,-18,,,-22,
+US,Georgia,Spalding County,-27,-13,,,-31,8
+US,Georgia,Stephens County,-24,-9,,,-27,1
+US,Georgia,Sumter County,-29,-25,,,-21,1
+US,Georgia,Talbot County,,,-9,,-29,
+US,Georgia,Tattnall County,-32,3,,,-23,
+US,Georgia,Taylor County,,4,,,-15,
+US,Georgia,Telfair County,-55,0,,,-28,
+US,Georgia,Terrell County,-27,-17,,,-33,
+US,Georgia,Thomas County,-35,-9,,,-28,15
+US,Georgia,Tift County,-40,-26,,-24,-25,14
+US,Georgia,Toombs County,-31,-12,,,-23,-2
+US,Georgia,Towns County,-38,-3,,,-22,
+US,Georgia,Treutlen County,,-4,,,-26,
+US,Georgia,Troup County,-36,-10,,-28,-27,10
+US,Georgia,Turner County,-61,23,,-22,-23,
+US,Georgia,Twiggs County,,,,,-36,
+US,Georgia,Union County,-30,11,22,,-36,
+US,Georgia,Upson County,-25,-8,,,-36,-4
+US,Georgia,Walker County,-20,7,-28,,-28,15
+US,Georgia,Walton County,-28,7,,,-35,9
+US,Georgia,Ware County,-39,-18,,,-23,11
+US,Georgia,Warren County,,,,,-32,
+US,Georgia,Washington County,-12,-31,,,-13,
+US,Georgia,Wayne County,-30,-8,,,-33,-2
+US,Georgia,White County,-43,-2,-16,,-29,9
+US,Georgia,Whitfield County,-34,-7,-45,-23,-25,9
+US,Georgia,Wilcox County,,13,,,-24,
+US,Georgia,Wilkes County,-31,-14,,,-22,
+US,Georgia,Wilkinson County,,0,,,-24,
+US,Georgia,Worth County,-28,-9,,,-28,
+US,Hawaii,Hawaii County,-61,-47,-77,-84,-41,15
+US,Hawaii,Honolulu County,-53,-32,-58,-69,-44,16
+US,Hawaii,Kauai County,-69,-53,-74,-83,-48,26
+US,Hawaii,Maui County,-64,-40,-73,-85,-54,17
+US,Idaho,Ada County,-49,-23,33,-54,-43,11
+US,Idaho,Bannock County,-39,-24,-6,-28,-37,9
+US,Idaho,Bear Lake County,-53,,,,-36,
+US,Idaho,Benewah County,-65,4,,,-35,
+US,Idaho,Bingham County,-21,-13,,,-38,14
+US,Idaho,Blaine County,-83,-48,,-49,-62,
+US,Idaho,Boise County,-62,,-50,,-48,
+US,Idaho,Bonner County,-40,-34,-22,,-38,14
+US,Idaho,Bonneville County,-38,-11,59,-21,-34,9
+US,Idaho,Boundary County,-23,-9,,,-18,
+US,Idaho,Canyon County,-41,-15,35,-15,-37,9
+US,Idaho,Caribou County,-50,-2,,,-27,
+US,Idaho,Cassia County,-7,-10,,,-26,0
+US,Idaho,Clearwater County,-61,0,,,-28,
+US,Idaho,Elmore County,-35,-9,,-25,-29,14
+US,Idaho,Franklin County,-6,-4,,,-27,
+US,Idaho,Fremont County,-36,-5,-33,,-57,
+US,Idaho,Gem County,-20,-25,,,-34,
+US,Idaho,Gooding County,-42,-10,,,-21,
+US,Idaho,Idaho County,-60,-12,,,-46,
+US,Idaho,Jefferson County,-39,-10,-56,,-45,9
+US,Idaho,Jerome County,-8,-44,,-13,-27,6
+US,Idaho,Kootenai County,-42,-20,26,-18,-40,10
+US,Idaho,Latah County,-54,-33,,,-47,20
+US,Idaho,Lemhi County,-26,-20,,,-28,
+US,Idaho,Lincoln County,,,,,-44,
+US,Idaho,Madison County,-29,-19,,,-59,20
+US,Idaho,Minidoka County,-43,10,,-11,-33,1
+US,Idaho,Nez Perce County,-46,-14,-24,-55,-31,18
+US,Idaho,Oneida County,,,,,-42,
+US,Idaho,Owyhee County,-14,13,,,-20,
+US,Idaho,Payette County,-33,-10,,,-26,5
+US,Idaho,Power County,,-7,,,-34,
+US,Idaho,Shoshone County,-31,4,,,-31,
+US,Idaho,Teton County,-73,-20,,,-47,
+US,Idaho,Twin Falls County,-43,-13,-6,,-25,8
+US,Idaho,Valley County,-86,-58,-57,,-60,
+US,Idaho,Washington County,-23,-15,,,-39,
+US,Illinois,Adams County,-42,-15,,-30,-27,16
+US,Illinois,Alexander County,,,,,-30,
+US,Illinois,Bond County,-36,-2,,-5,-21,
+US,Illinois,Boone County,-41,-23,,-65,-38,21
+US,Illinois,Bureau County,-43,-9,,,-25,3
+US,Illinois,Carroll County,-60,-9,,,-32,
+US,Illinois,Cass County,-21,-10,,,-6,
+US,Illinois,Champaign County,-54,-29,44,-48,-40,13
+US,Illinois,Christian County,-31,-30,,,-20,9
+US,Illinois,Clark County,-28,,,-15,-32,
+US,Illinois,Clay County,-25,,,,-27,
+US,Illinois,Clinton County,-28,-4,,,-29,14
+US,Illinois,Coles County,-35,-11,,,-27,18
+US,Illinois,Cook County,-58,-26,-45,-63,-45,15
+US,Illinois,Crawford County,-24,2,,,-27,
+US,Illinois,Cumberland County,-65,,,-23,-33,
+US,Illinois,De Witt County,-65,-29,,,-22,
+US,Illinois,DeKalb County,-52,-20,,,-37,14
+US,Illinois,Douglas County,-53,-3,,,-30,
+US,Illinois,DuPage County,-60,-29,-42,-51,-45,15
+US,Illinois,Edgar County,-25,-20,,,-38,
+US,Illinois,Edwards County,,,,,-39,
+US,Illinois,Effingham County,-42,-2,,-26,-36,12
+US,Illinois,Fayette County,-33,-16,,,-19,
+US,Illinois,Ford County,-59,-18,,,-22,
+US,Illinois,Franklin County,-17,9,,-34,-28,14
+US,Illinois,Fulton County,-37,-19,,,-26,17
+US,Illinois,Greene County,-46,-2,,,-21,
+US,Illinois,Grundy County,-43,-24,,-22,-34,19
+US,Illinois,Hamilton County,-50,,,,-33,
+US,Illinois,Hancock County,-44,-16,,,-24,
+US,Illinois,Henderson County,,,,,-23,
+US,Illinois,Henry County,-44,-18,,-35,-31,18
+US,Illinois,Iroquois County,-38,-2,,-39,-24,3
+US,Illinois,Jackson County,-47,-14,22,,-33,18
+US,Illinois,Jasper County,-41,,,,-27,
+US,Illinois,Jefferson County,-37,-21,,-10,-39,14
+US,Illinois,Jersey County,-39,10,,,-23,
+US,Illinois,Jo Daviess County,-59,-13,,,-38,
+US,Illinois,Johnson County,-22,,-20,,-35,
+US,Illinois,Kane County,-57,-27,-20,-46,-39,14
+US,Illinois,Kankakee County,-48,-20,,-15,-29,11
+US,Illinois,Kendall County,-46,-28,-25,,-38,17
+US,Illinois,Knox County,-50,3,,-31,-32,16
+US,Illinois,Lake County,-57,-25,-36,-58,-41,14
+US,Illinois,LaSalle County,-53,0,-62,-18,-32,11
+US,Illinois,Lawrence County,-17,,,,-17,
+US,Illinois,Lee County,-39,-18,,,-24,13
+US,Illinois,Livingston County,-44,-1,,,-27,17
+US,Illinois,Logan County,-40,-31,,,-25,6
+US,Illinois,Macon County,-43,-14,,-20,-30,10
+US,Illinois,Macoupin County,-40,1,,,-30,17
+US,Illinois,Madison County,-39,-17,58,-24,-34,10
+US,Illinois,Marion County,-39,-5,,,-33,14
+US,Illinois,Marshall County,-72,,,,-39,
+US,Illinois,Mason County,-32,4,,,-27,
+US,Illinois,Massac County,-48,-18,,,-22,
+US,Illinois,McDonough County,-40,-13,,,-28,0
+US,Illinois,McHenry County,-54,-23,-26,-61,-38,13
+US,Illinois,McLean County,-53,-28,1,-37,-41,12
+US,Illinois,Menard County,-62,,,,-42,
+US,Illinois,Mercer County,-63,,,,-33,
+US,Illinois,Monroe County,-37,-12,,,-33,16
+US,Illinois,Montgomery County,-37,-13,,,-28,1
+US,Illinois,Morgan County,-39,-3,,-14,-34,6
+US,Illinois,Moultrie County,-56,,,,-26,
+US,Illinois,Ogle County,-46,-9,,,-27,17
+US,Illinois,Peoria County,-50,-19,-16,-45,-35,11
+US,Illinois,Perry County,-35,-4,,,-28,
+US,Illinois,Piatt County,-55,,,,-26,
+US,Illinois,Pike County,-36,-11,,,-19,
+US,Illinois,Pulaski County,,,,,-33,
+US,Illinois,Putnam County,,,,,-38,
+US,Illinois,Randolph County,-24,9,,,-24,10
+US,Illinois,Richland County,-32,-11,,,-19,
+US,Illinois,Rock Island County,-50,0,-55,-57,-36,10
+US,Illinois,Saline County,-20,1,,,-24,
+US,Illinois,Sangamon County,-47,-18,31,-38,-36,10
+US,Illinois,Schuyler County,-55,,,,-29,
+US,Illinois,Shelby County,-20,,,,-31,
+US,Illinois,St. Clair County,-45,-13,52,-26,-34,10
+US,Illinois,Stark County,,,,,-36,
+US,Illinois,Stephenson County,-44,-27,,,-30,17
+US,Illinois,Tazewell County,-41,-9,-15,,-33,11
+US,Illinois,Union County,-8,-5,,,-23,
+US,Illinois,Vermilion County,-39,-15,,-31,-26,9
+US,Illinois,Wabash County,-33,-17,,,-32,
+US,Illinois,Warren County,-48,0,,,-20,
+US,Illinois,Washington County,-58,0,,,-40,
+US,Illinois,Wayne County,-30,-8,,,-24,
+US,Illinois,White County,-23,-7,,,-23,
+US,Illinois,Whiteside County,-53,-24,,,-30,18
+US,Illinois,Will County,-54,-27,-36,-28,-36,14
+US,Illinois,Williamson County,-33,-15,-45,-16,-32,17
+US,Illinois,Winnebago County,-47,-30,-40,-40,-36,11
+US,Illinois,Woodford County,-61,-5,,,-34,15
+US,Indiana,Adams County,-43,-25,,,-33,8
+US,Indiana,Allen County,-54,-36,13,-44,-39,12
+US,Indiana,Bartholomew County,-49,-30,10,-28,-45,26
+US,Indiana,Benton County,,,,,-42,
+US,Indiana,Blackford County,-51,-17,,,-24,
+US,Indiana,Boone County,-51,-28,,-19,-39,26
+US,Indiana,Brown County,-68,-4,,,-37,
+US,Indiana,Carroll County,-52,-14,,,-38,
+US,Indiana,Cass County,-38,-17,,,-34,18
+US,Indiana,Clark County,-48,-10,64,-14,-36,10
+US,Indiana,Clay County,-33,-35,,-21,-32,-1
+US,Indiana,Clinton County,-36,-30,,,-30,19
+US,Indiana,Crawford County,-58,-16,,-38,-36,
+US,Indiana,Daviess County,-40,-5,,,-25,8
+US,Indiana,Dearborn County,-35,-11,,,-42,22
+US,Indiana,Decatur County,-45,-26,,-35,-43,11
+US,Indiana,DeKalb County,-50,-18,,,-34,22
+US,Indiana,Delaware County,-52,-28,,1,-36,10
+US,Indiana,Dubois County,-40,-19,,,-29,21
+US,Indiana,Elkhart County,-43,-35,18,-19,-35,10
+US,Indiana,Fayette County,-32,-21,,,-35,6
+US,Indiana,Floyd County,-39,-21,,,-38,21
+US,Indiana,Fountain County,-65,-10,,,-36,
+US,Indiana,Franklin County,-38,-28,,,-36,
+US,Indiana,Fulton County,-33,-19,,-54,-31,
+US,Indiana,Gibson County,-35,-19,,-29,-29,11
+US,Indiana,Grant County,-46,-17,,-13,-22,17
+US,Indiana,Greene County,-33,-23,,,-29,5
+US,Indiana,Hamilton County,-58,-31,38,,-47,13
+US,Indiana,Hancock County,-46,9,,-12,-38,24
+US,Indiana,Harrison County,-44,-8,,,-30,20
+US,Indiana,Hendricks County,-47,-26,-13,-19,-39,12
+US,Indiana,Henry County,-32,-19,,-28,-31,21
+US,Indiana,Howard County,-56,-36,,,-47,14
+US,Indiana,Huntington County,-47,-29,,-46,-34,21
+US,Indiana,Jackson County,-24,-55,,-6,-41,22
+US,Indiana,Jasper County,-44,-24,,-22,-33,15
+US,Indiana,Jay County,-40,-35,,,-22,
+US,Indiana,Jefferson County,-37,-1,,,-23,14
+US,Indiana,Jennings County,-26,-11,,,-37,12
+US,Indiana,Johnson County,-51,-22,-5,-24,-37,11
+US,Indiana,Knox County,-44,-15,,,-31,14
+US,Indiana,Kosciusko County,-52,-24,,,-33,23
+US,Indiana,LaGrange County,-70,-25,-46,-32,-36,9
+US,Indiana,Lake County,-52,-27,-18,-25,-38,13
+US,Indiana,LaPorte County,-49,-24,-23,-43,-32,10
+US,Indiana,Lawrence County,-41,-23,,,-34,17
+US,Indiana,Madison County,-44,-12,,-27,-35,10
+US,Indiana,Marion County,-52,-27,17,-49,-38,11
+US,Indiana,Marshall County,-48,-19,,-26,-25,21
+US,Indiana,Martin County,-40,-4,,,-36,
+US,Indiana,Miami County,-43,-27,,,-39,16
+US,Indiana,Monroe County,-53,-33,39,-40,-42,12
+US,Indiana,Montgomery County,-40,-25,,-35,-31,16
+US,Indiana,Morgan County,-39,-12,,,-32,20
+US,Indiana,Newton County,-45,,,,-27,
+US,Indiana,Noble County,-42,-26,,,-42,23
+US,Indiana,Ohio County,,,,,-53,
+US,Indiana,Orange County,-41,-19,,,-45,
+US,Indiana,Owen County,-30,-21,,,-29,
+US,Indiana,Parke County,-44,-2,,,-37,
+US,Indiana,Perry County,-59,-4,,,-45,
+US,Indiana,Pike County,-54,-7,,,-39,
+US,Indiana,Porter County,-54,-28,20,-39,-34,13
+US,Indiana,Posey County,-25,6,,,-22,-1
+US,Indiana,Pulaski County,-33,-23,,,-34,
+US,Indiana,Putnam County,-45,-31,,,-26,11
+US,Indiana,Randolph County,-24,-14,,,-28,8
+US,Indiana,Ripley County,-46,-18,,,-27,0
+US,Indiana,Rush County,-44,-11,,,-35,
+US,Indiana,Scott County,-30,-8,,,-33,3
+US,Indiana,Shelby County,-46,-18,,-43,-32,21
+US,Indiana,Spencer County,-45,15,,,-24,
+US,Indiana,St. Joseph County,-53,-26,-17,-37,-35,11
+US,Indiana,Starke County,-50,-10,,,-25,
+US,Indiana,Steuben County,-49,-32,,-29,-37,19
+US,Indiana,Sullivan County,-38,-17,,,-20,
+US,Indiana,Switzerland County,,-34,,,-44,
+US,Indiana,Tippecanoe County,-57,-37,5,-27,-41,12
+US,Indiana,Tipton County,-46,-22,,,-33,
+US,Indiana,Union County,-55,,,,-39,
+US,Indiana,Vanderburgh County,-41,-16,-16,-53,-29,10
+US,Indiana,Vermillion County,-34,4,,-32,-20,
+US,Indiana,Vigo County,-47,-24,-12,-9,-36,9
+US,Indiana,Wabash County,-50,-36,,,-26,8
+US,Indiana,Warren County,,,,,-32,
+US,Indiana,Warrick County,-23,-1,,,-30,22
+US,Indiana,Washington County,-27,-22,,,-25,11
+US,Indiana,Wayne County,-48,-30,,-18,-32,12
+US,Indiana,Wells County,-35,-12,,,-29,11
+US,Indiana,White County,-38,-12,,-22,-39,6
+US,Indiana,Whitley County,-45,-34,,,-32,22
+US,Iowa,Adair County,-46,-3,,,-33,
+US,Iowa,Allamakee County,-57,-27,,,-22,
+US,Iowa,Appanoose County,-21,26,,,-24,
+US,Iowa,Audubon County,,,,,-28,
+US,Iowa,Benton County,-54,-10,,,-33,8
+US,Iowa,Black Hawk County,-46,-23,11,-14,-30,10
+US,Iowa,Boone County,-32,-21,,,-22,14
+US,Iowa,Bremer County,-36,-24,,,-34,-1
+US,Iowa,Buchanan County,-39,-13,,,-23,
+US,Iowa,Buena Vista County,-28,-6,,,-13,
+US,Iowa,Butler County,,-15,,,-30,
+US,Iowa,Calhoun County,,-12,,,-29,
+US,Iowa,Carroll County,-34,-4,,,-29,
+US,Iowa,Cass County,-23,-6,,,-16,
+US,Iowa,Cedar County,-44,-23,,14,-18,
+US,Iowa,Cerro Gordo County,-46,-13,,-44,-29,17
+US,Iowa,Cherokee County,-75,,,,-20,
+US,Iowa,Chickasaw County,-56,-28,,,-25,
+US,Iowa,Clarke County,-30,,,-29,-17,
+US,Iowa,Clay County,-27,-18,,,-17,
+US,Iowa,Clayton County,-61,-12,,,-19,
+US,Iowa,Clinton County,-41,18,,,-24,16
+US,Iowa,Crawford County,-34,,,,-23,
+US,Iowa,Dallas County,-60,-40,,,-34,25
+US,Iowa,Davis County,-64,,,,-21,
+US,Iowa,Decatur County,,,,,-25,
+US,Iowa,Delaware County,-40,-20,,,-22,
+US,Iowa,Des Moines County,-40,-7,,-32,-24,14
+US,Iowa,Dickinson County,-29,-2,-50,,-20,
+US,Iowa,Dubuque County,-53,-9,-25,-63,-34,15
+US,Iowa,Emmet County,-42,11,,,-32,
+US,Iowa,Fayette County,-36,-11,,,-20,
+US,Iowa,Floyd County,-40,-21,,-9,-16,
+US,Iowa,Franklin County,-47,-16,,,-25,
+US,Iowa,Fremont County,-65,-9,,-16,-15,
+US,Iowa,Greene County,-51,2,,,-31,
+US,Iowa,Grundy County,-70,-33,,,-29,
+US,Iowa,Guthrie County,,,,,-34,
+US,Iowa,Hamilton County,-27,-6,,-39,-6,
+US,Iowa,Hancock County,,-22,,,-34,
+US,Iowa,Hardin County,-52,15,,,-25,
+US,Iowa,Harrison County,-26,0,,,-19,
+US,Iowa,Henry County,-28,-17,,-17,-30,
+US,Iowa,Howard County,-69,-5,,,-21,
+US,Iowa,Humboldt County,-45,-7,,,-32,
+US,Iowa,Ida County,-57,,,,-22,
+US,Iowa,Iowa County,-80,-9,,,-41,
+US,Iowa,Jackson County,-37,-10,,,-24,
+US,Iowa,Jasper County,-40,60,,5,-22,11
+US,Iowa,Jefferson County,-40,,,,-34,
+US,Iowa,Johnson County,-58,-36,-6,-24,-36,13
+US,Iowa,Jones County,-43,4,,,-30,
+US,Iowa,Keokuk County,-66,,,,-21,
+US,Iowa,Kossuth County,-70,47,,,-21,
+US,Iowa,Lee County,-24,-13,,,-14,14
+US,Iowa,Linn County,-52,-7,2,-55,-36,11
+US,Iowa,Louisa County,,,,,-18,
+US,Iowa,Lucas County,-59,6,,,-16,
+US,Iowa,Lyon County,-66,,,,-24,
+US,Iowa,Madison County,-53,33,,,-25,
+US,Iowa,Mahaska County,-31,,,,-22,
+US,Iowa,Marion County,-17,26,,,-19,13
+US,Iowa,Marshall County,-36,-15,,,-29,14
+US,Iowa,Mills County,-6,,,,-20,
+US,Iowa,Mitchell County,-73,,,,-28,
+US,Iowa,Monona County,-35,,,,-30,
+US,Iowa,Monroe County,-51,,,,-26,
+US,Iowa,Montgomery County,-56,2,,,-23,
+US,Iowa,Muscatine County,-42,33,,,-28,16
+US,Iowa,O'Brien County,-22,-6,,,-4,
+US,Iowa,Osceola County,,,,,-25,
+US,Kansas,Allen County,-19,-2,,,-14,
+US,Kansas,Anderson County,-18,,,,-27,
+US,Kansas,Atchison County,-24,,,,-27,
+US,Kansas,Barton County,-12,3,,,-15,-1
+US,Kansas,Bourbon County,-38,-21,,,-29,
+US,Kansas,Brown County,8,0,,,-20,
+US,Kansas,Butler County,-19,-11,-46,,-25,15
+US,Kansas,Cherokee County,5,16,,,-23,-4
+US,Kansas,Clay County,-16,-22,,,-27,
+US,Kansas,Cloud County,-27,,,,-20,
+US,Kansas,Coffey County,-67,-24,,-29,-35,
+US,Kansas,Cowley County,-17,5,,,-28,12
+US,Kansas,Crawford County,-42,-29,,,-22,15
+US,Kansas,Dickinson County,-29,-4,,-9,-24,
+US,Kansas,Doniphan County,,,,,-24,
+US,Kansas,Douglas County,-50,-20,88,-26,-38,11
+US,Kansas,Ellis County,-34,-19,,-17,-14,-1
+US,Kansas,Ellsworth County,,,,,-16,
+US,Kansas,Finney County,-24,2,,-24,-15,12
+US,Kansas,Ford County,-21,-1,,-8,-16,11
+US,Kansas,Franklin County,-30,-27,,-17,-20,15
+US,Kansas,Geary County,-38,-18,,,-33,15
+US,Kansas,Grant County,-20,,,,-14,
+US,Kansas,Greenwood County,,,,,-27,
+US,Kansas,Harper County,-61,,,,,
+US,Kansas,Harvey County,-13,-1,,-38,-31,14
+US,Kansas,Jackson County,-24,-33,,,-35,
+US,Kansas,Jefferson County,-62,13,,,-31,
+US,Kansas,Johnson County,-42,-24,192,-20,-40,12
+US,Kansas,Kingman County,-51,,,,-28,
+US,Kansas,Labette County,-13,0,,,-6,
+US,Kansas,Leavenworth County,-30,-19,,-43,-32,17
+US,Kansas,Linn County,,,,,-17,
+US,Kansas,Lyon County,-41,-27,,-31,-23,15
+US,Kansas,Marion County,-32,,,,-28,
+US,Kansas,Marshall County,-15,,,,-13,
+US,Kansas,McPherson County,-32,-9,,-16,-26,13
+US,Kansas,Miami County,-19,-16,,,-28,16
+US,Kansas,Mitchell County,-73,,,,-24,
+US,Kansas,Montgomery County,-8,13,,,1,9
+US,Kansas,Morris County,,,,,-29,
+US,Kansas,Nemaha County,-40,,,,-15,
+US,Kansas,Neosho County,-11,15,,-22,-18,
+US,Kansas,Osage County,-51,-7,,,-12,
+US,Kansas,Ottawa County,,,,,-24,
+US,Kansas,Pawnee County,-22,2,,,-26,
+US,Kansas,Pottawatomie County,-37,-26,,,-31,2
+US,Kansas,Pratt County,-8,-2,,,-20,
+US,Kansas,Reno County,-28,-11,,-16,-25,10
+US,Kansas,Rice County,-26,10,,,-27,
+US,Kansas,Riley County,-58,-34,-50,,-38,20
+US,Kansas,Russell County,-66,-2,,,-17,
+US,Kansas,Saline County,-27,-16,-7,-11,-21,11
+US,Kansas,Scott County,-53,,,,-19,
+US,Kansas,Sedgwick County,-38,-16,76,-37,-34,9
+US,Kansas,Seward County,-24,-1,,-11,-14,-1
+US,Kansas,Shawnee County,-37,-16,55,13,-30,10
+US,Kansas,Sherman County,-18,,,,,
+US,Kansas,Stevens County,-62,,,,,
+US,Kansas,Sumner County,-26,10,,,-30,1
+US,Kansas,Thomas County,-31,,,-2,-25,
+US,Kansas,Trego County,,-14,,,,
+US,Kansas,Wabaunsee County,,,,,-32,
+US,Kansas,Washington County,,,,,-16,
+US,Kansas,Wilson County,-18,2,,,-26,
+US,Kansas,Wyandotte County,-43,-10,53,-5,-33,9
+US,Kentucky,Adair County,-22,-16,,,-39,
+US,Kentucky,Allen County,-17,0,,,-24,
+US,Kentucky,Anderson County,-26,-5,,,-27,-1
+US,Kentucky,Ballard County,,,,,-24,
+US,Kentucky,Barren County,-31,-9,,,-28,7
+US,Kentucky,Bath County,,-9,,,-34,
+US,Kentucky,Bell County,-28,-12,,,-25,
+US,Kentucky,Boone County,-44,-16,53,-54,-37,9
+US,Kentucky,Bourbon County,-19,-25,,,-29,
+US,Kentucky,Boyd County,-44,-11,,-18,-27,15
+US,Kentucky,Boyle County,-40,-15,,,-38,
+US,Kentucky,Bracken County,,,,,-33,
+US,Kentucky,Breathitt County,-14,,,,-33,
+US,Kentucky,Breckinridge County,-7,7,,,-21,
+US,Kentucky,Bullitt County,-36,-10,,-26,-35,18
+US,Kentucky,Butler County,-39,4,,,-33,
+US,Kentucky,Caldwell County,-20,10,,,-30,
+US,Kentucky,Calloway County,-39,-10,,,-34,10
+US,Kentucky,Campbell County,-42,-4,,,-38,13
+US,Kentucky,Carroll County,-20,-18,,,-9,
+US,Kentucky,Carter County,-26,-6,,-13,-15,
+US,Kentucky,Casey County,0,5,,,-38,
+US,Kentucky,Christian County,-21,-11,,-17,-36,16
+US,Kentucky,Clark County,-27,-8,,,-34,12
+US,Kentucky,Clay County,-2,-12,,,-24,
+US,Kentucky,Clinton County,,,,,-29,
+US,Kentucky,Crittenden County,-37,-2,,,-25,
+US,Kentucky,Daviess County,-43,-16,39,,-28,8
+US,Kentucky,Edmonson County,,,,,-35,
+US,Kentucky,Estill County,-26,-11,,,-34,
+US,Kentucky,Fayette County,-45,-12,57,-46,-39,10
+US,Kentucky,Fleming County,-10,0,,,-39,
+US,Kentucky,Floyd County,-22,-6,,,-25,
+US,Kentucky,Franklin County,-32,-15,,,-36,18
+US,Kentucky,Fulton County,-16,-12,,,-22,
+US,Kentucky,Gallatin County,-6,58,,-89,-34,
+US,Kentucky,Garrard County,-49,9,,,-34,
+US,Kentucky,Grant County,-27,-10,,,-42,1
+US,Kentucky,Graves County,-21,-6,,,-32,10
+US,Kentucky,Grayson County,-13,8,,,-36,
+US,Kentucky,Green County,,,,,-30,
+US,Kentucky,Greenup County,-33,-5,,,-23,1
+US,Kentucky,Hancock County,,,,,-32,
+US,Kentucky,Hardin County,-39,-16,,-34,-38,8
+US,Kentucky,Harlan County,-14,3,,,-4,
+US,Kentucky,Harrison County,86,-49,,,-33,
+US,Kentucky,Hart County,10,3,,-15,-30,
+US,Kentucky,Henderson County,-21,23,,,-30,16
+US,Kentucky,Henry County,-35,1,,-26,-42,
+US,Kentucky,Hopkins County,-35,-18,,-37,-31,15
+US,Kentucky,Jackson County,,,,,-38,
+US,Kentucky,Jefferson County,-44,-10,83,-37,-38,10
+US,Kentucky,Jessamine County,-38,-24,,-7,-39,17
+US,Kentucky,Johnson County,-22,-17,,,-22,
+US,Kentucky,Kenton County,-35,-8,108,-2,-35,10
+US,Kentucky,Knott County,,,,,-35,
+US,Kentucky,Knox County,-20,-15,,,-24,
+US,Kentucky,Larue County,-26,-5,,,-28,
+US,Kentucky,Laurel County,-36,-14,61,-22,-30,14
+US,Kentucky,Lawrence County,-28,-33,,,-20,
+US,Kentucky,Letcher County,-12,-11,,,-32,
+US,Kentucky,Lewis County,,-14,,,-22,
+US,Kentucky,Lincoln County,-12,16,,,-29,
+US,Kentucky,Livingston County,,4,,,-34,
+US,Kentucky,Logan County,-16,-5,,,-23,
+US,Kentucky,Lyon County,-33,,,,-29,
+US,Kentucky,Madison County,-40,-15,,-8,-41,8
+US,Kentucky,Marion County,-12,-4,,,-34,
+US,Kentucky,Marshall County,-24,7,,-16,-30,9
+US,Kentucky,Mason County,-23,,,,-20,
+US,Kentucky,McCracken County,-40,-13,-24,-15,-34,16
+US,Kentucky,McCreary County,-21,5,,,-33,
+US,Kentucky,McLean County,,,,,-27,
+US,Kentucky,Meade County,-26,4,,,-29,8
+US,Kentucky,Menifee County,,,,,-38,
+US,Kentucky,Mercer County,-25,-9,,,-28,
+US,Kentucky,Metcalfe County,,-16,,,-36,
+US,Kentucky,Monroe County,-16,,,,-33,
+US,Kentucky,Montgomery County,-28,-3,,-8,-23,-3
+US,Kentucky,Morgan County,-59,,,,-34,
+US,Kentucky,Muhlenberg County,-26,-2,,,-30,
+US,Kentucky,Nelson County,-29,-15,,,-35,17
+US,Kentucky,Nicholas County,,,,,-43,
+US,Kentucky,Ohio County,-18,8,,-34,-27,
+US,Kentucky,Oldham County,-36,-6,,,-41,24
+US,Kentucky,Owen County,,,,,-41,
+US,Kentucky,Pendleton County,-4,-19,,,-35,
+US,Kentucky,Perry County,-30,-12,,,-18,
+US,Kentucky,Pike County,-35,-12,,,-25,
+US,Kentucky,Powell County,1,-4,,,-37,
+US,Kentucky,Pulaski County,-34,-22,,,-36,15
+US,Kentucky,Rockcastle County,-53,-21,,,-24,
+US,Kentucky,Rowan County,-26,1,,,-28,
+US,Kentucky,Russell County,-22,10,,,-32,
+US,Kentucky,Scott County,-38,-23,,-25,-42,23
+US,Kentucky,Shelby County,-38,-4,,-35,-45,18
+US,Kentucky,Simpson County,-22,-8,,-25,-31,
+US,Kentucky,Spencer County,-25,6,,,-40,
+US,Kentucky,Taylor County,-33,-5,,,-22,
+US,Kentucky,Todd County,-48,0,,,-32,
+US,Kentucky,Trigg County,-27,-2,,,-35,
+US,Kentucky,Trimble County,,,,,-36,
+US,Kentucky,Union County,-19,-10,,,-44,
+US,Kentucky,Warren County,-42,-23,-26,-22,-37,10
+US,Kentucky,Washington County,-33,,,,-44,
+US,Kentucky,Wayne County,-8,-21,,,-29,
+US,Kentucky,Webster County,,-8,,,-25,
+US,Kentucky,Whitley County,-33,3,,-4,-26,-3
+US,Kentucky,Woodford County,-33,-17,,,-30,
+US,Louisiana,Acadia Parish,-24,-5,,-36,-21,15
+US,Louisiana,Allen Parish,-34,-19,,,-33,
+US,Louisiana,Ascension Parish,-45,-21,,,-34,15
+US,Louisiana,Assumption Parish,,-8,,,-36,
+US,Louisiana,Avoyelles Parish,-24,-8,,,-32,-2
+US,Louisiana,Beauregard Parish,-29,-10,,,-31,3
+US,Louisiana,Bienville Parish,-41,-15,,,-32,
+US,Louisiana,Bossier Parish,-49,-19,4,-30,-37,12
+US,Louisiana,Caddo Parish,-36,-9,-14,-31,-32,10
+US,Louisiana,Calcasieu Parish,-40,-19,-6,-38,-34,11
+US,Louisiana,Caldwell Parish,-25,,,,-29,
+US,Louisiana,Cameron Parish,,10,,,-17,
+US,Louisiana,Catahoula Parish,-64,-20,,,-38,
+US,Louisiana,Claiborne Parish,-49,-18,,,-31,
+US,Louisiana,Concordia Parish,-23,-16,,,-20,
+US,Louisiana,De Soto Parish,-13,-16,,-35,-24,
+US,Louisiana,East Baton Rouge Parish,-48,-16,-26,-44,-34,12
+US,Louisiana,East Feliciana Parish,-23,-9,,,-35,
+US,Louisiana,Evangeline Parish,-16,-4,,,-25,
+US,Louisiana,Franklin Parish,-28,-8,,,-22,
+US,Louisiana,Grant Parish,,-13,,,-20,
+US,Louisiana,Iberia Parish,-26,-11,-30,,-23,16
+US,Louisiana,Iberville Parish,-29,-4,,-43,-30,
+US,Louisiana,Jackson Parish,-19,-8,,,-30,
+US,Louisiana,Jefferson Davis Parish,-40,-12,,-47,-33,-1
+US,Louisiana,Jefferson Parish,-49,-20,-1,-84,-44,14
+US,Louisiana,La Salle Parish,-27,-9,,,-31,
+US,Louisiana,Lafayette Parish,-44,-22,15,-42,-31,11
+US,Louisiana,Lafourche Parish,-23,-13,,-36,-25,12
+US,Louisiana,Lincoln Parish,-53,-26,,,-38,9
+US,Louisiana,Livingston Parish,-40,-12,-13,-16,-32,10
+US,Louisiana,Madison Parish,-17,-8,,-37,-20,
+US,Louisiana,Morehouse Parish,-24,-8,,,-23,
+US,Louisiana,Natchitoches Parish,-33,-24,,,-30,6
+US,Louisiana,Orleans Parish,-71,-35,-55,-59,-54,16
+US,Louisiana,Ouachita Parish,-41,-15,-24,-27,-29,9
+US,Louisiana,Plaquemines Parish,-39,-21,-31,,-25,
+US,Louisiana,Pointe Coupee Parish,-15,-12,,,-16,
+US,Louisiana,Rapides Parish,-40,-15,-2,-55,-30,10
+US,Louisiana,Red River Parish,-42,,,,-26,
+US,Louisiana,Richland Parish,-24,-10,,-25,-16,
+US,Louisiana,Sabine Parish,-16,-6,,,-23,
+US,Louisiana,St. Bernard Parish,-31,1,-21,,-35,23
+US,Louisiana,St. Charles Parish,-39,-13,,-18,-35,22
+US,Louisiana,St. Helena Parish,,-20,,,-35,
+US,Louisiana,St. James Parish,-46,-11,,,-17,
+US,Louisiana,St. John the Baptist Parish,-34,-3,-67,-51,-37,22
+US,Louisiana,St. Landry Parish,-28,-16,,-40,-28,14
+US,Louisiana,St. Martin Parish,-34,-14,-10,-45,-29,19
+US,Louisiana,St. Mary Parish,-31,-11,,-43,-33,15
+US,Louisiana,St. Tammany Parish,-45,-19,3,-21,-35,11
+US,Louisiana,Tangipahoa Parish,-35,-6,-20,-17,-32,10
+US,Louisiana,Terrebonne Parish,-43,-12,25,-42,-32,9
+US,Louisiana,Union Parish,-22,6,,,-31,
+US,Louisiana,Vermilion Parish,-21,-3,,,-29,16
+US,Louisiana,Vernon Parish,-32,-21,,,-34,19
+US,Louisiana,Washington Parish,-21,-1,,,-20,2
+US,Louisiana,Webster Parish,-27,-19,,-19,-31,13
+US,Louisiana,West Baton Rouge Parish,-42,1,,-37,-36,
+US,Louisiana,West Carroll Parish,-23,-29,,,-22,
+US,Louisiana,West Feliciana Parish,-54,-19,,,-45,
+US,Louisiana,Winn Parish,-25,0,,,-23,
+US,Maine,Androscoggin County,-49,-21,-26,,-30,10
+US,Maine,Aroostook County,-28,9,-4,,-18,16
+US,Maine,Cumberland County,-60,-36,-38,-67,-37,13
+US,Maine,Franklin County,-53,-21,,,-32,0
+US,Maine,Hancock County,-35,-1,15,,-22,17
+US,Maine,Kennebec County,-42,-19,-37,-53,-28,10
+US,Maine,Knox County,-35,-24,,,-30,11
+US,Maine,Lincoln County,-54,-15,,,-30,6
+US,Maine,Oxford County,-53,-27,-55,,-38,18
+US,Maine,Penobscot County,-45,-14,4,-29,-31,9
+US,Maine,Piscataquis County,-62,-8,,,-14,
+US,Maine,Sagadahoc County,-48,-11,,,-34,13
+US,Maine,Somerset County,-29,-15,-9,,-22,17
+US,Maine,Waldo County,-44,-20,,,-27,13
+US,Maine,Washington County,-42,-8,,,-24,
+US,Maine,York County,-55,-23,-48,-64,-36,12
+US,Maryland,Allegany County,-39,-17,-8,-32,-31,16
+US,Maryland,Anne Arundel County,-49,-31,33,-76,-42,13
+US,Maryland,Baltimore County,-46,-21,10,-39,-36,13
+US,Maryland,Baltimore,-44,-18,12,-34,-37,12
+US,Maryland,Calvert County,-37,-33,33,,-39,23
+US,Maryland,Caroline County,-28,-21,,,-28,15
+US,Maryland,Carroll County,-43,-35,10,-50,-34,12
+US,Maryland,Cecil County,-34,-32,-34,-57,-30,10
+US,Maryland,Charles County,-41,-18,-42,-28,-39,13
+US,Maryland,Dorchester County,-29,-6,,,-28,12
+US,Maryland,Frederick County,-49,-30,19,-35,-38,13
+US,Maryland,Garrett County,-37,-20,,-17,-37,-1
+US,Maryland,Harford County,-43,-30,50,-62,-32,12
+US,Maryland,Howard County,-57,-45,7,-30,-47,16
+US,Maryland,Kent County,-43,-14,,,-33,
+US,Maryland,Montgomery County,-51,-30,44,-50,-45,16
+US,Maryland,Prince George's County,-40,-26,37,-50,-40,14
+US,Maryland,Queen Anne's County,-57,-33,-36,,-40,21
+US,Maryland,Somerset County,-41,-7,,,-36,
+US,Maryland,St. Mary's County,-40,-19,32,,-34,14
+US,Maryland,Talbot County,-42,-23,,,-38,8
+US,Maryland,Washington County,-42,-20,28,-22,-32,10
+US,Maryland,Wicomico County,-46,-23,,-58,-34,10
+US,Maryland,Worcester County,-47,-21,-24,,-39,16
+US,Massachusetts,Barnstable County,-57,-28,-38,-67,-41,13
+US,Massachusetts,Berkshire County,-49,-31,-36,-68,-35,12
+US,Massachusetts,Bristol County,-54,-32,-44,-54,-35,13
+US,Massachusetts,Dukes County,-79,-41,,-53,-51,
+US,Massachusetts,Essex County,-58,-39,-53,-60,-44,16
+US,Massachusetts,Franklin County,-58,-40,-37,-39,-37,22
+US,Massachusetts,Hampden County,-54,-28,-46,-56,-37,12
+US,Massachusetts,Hampshire County,-60,-39,-45,-65,-43,15
+US,Massachusetts,Middlesex County,-64,-41,-62,-73,-46,18
+US,Massachusetts,Nantucket County,-70,-38,,,-54,
+US,Massachusetts,Norfolk County,-63,-37,-57,-61,-44,17
+US,Massachusetts,Plymouth County,-57,-32,-34,-54,-37,14
+US,Massachusetts,Suffolk County,-71,-41,-68,-79,-51,18
+US,Massachusetts,Worcester County,-55,-36,-60,-66,-38,14
+US,Michigan,Alcona County,1,,,,-45,
+US,Michigan,Alger County,-79,-57,-54,,-56,
+US,Michigan,Allegan County,-49,-17,-21,-36,-39,12
+US,Michigan,Alpena County,-43,-17,,,-31,3
+US,Michigan,Antrim County,-75,-20,,,-43,
+US,Michigan,Arenac County,-41,-9,,,-36,
+US,Michigan,Baraga County,,-44,,,-57,
+US,Michigan,Barry County,-55,-9,,,-40,25
+US,Michigan,Bay County,-55,-25,-23,,-37,11
+US,Michigan,Benzie County,-44,-7,,,-39,
+US,Michigan,Berrien County,-50,-22,31,-37,-38,11
+US,Michigan,Branch County,-52,-36,,,-28,22
+US,Michigan,Calhoun County,-53,-24,-13,-30,-42,11
+US,Michigan,Cass County,-55,-15,,,-38,22
+US,Michigan,Charlevoix County,-54,-20,-34,,-40,
+US,Michigan,Cheboygan County,-45,-14,,,-37,
+US,Michigan,Chippewa County,-63,-3,-47,,-44,2
+US,Michigan,Clare County,-61,-17,,,-35,9
+US,Michigan,Clinton County,-59,-36,,-54,-38,28
+US,Michigan,Crawford County,-55,-40,,,-39,
+US,Michigan,Delta County,-47,-24,,,-29,9
+US,Michigan,Dickinson County,-38,-13,,,-27,0
+US,Michigan,Eaton County,-59,-35,,,-38,12
+US,Michigan,Emmet County,-60,-32,,,-49,1
+US,Michigan,Genesee County,-55,-25,6,-48,-45,12
+US,Michigan,Gladwin County,-77,-6,,,-41,0
+US,Michigan,Gogebic County,-53,-35,,,-45,
+US,Michigan,Grand Traverse County,-60,-30,-8,-69,-43,15
+US,Michigan,Gratiot County,-50,-31,,,-32,21
+US,Michigan,Hillsdale County,-48,-22,,,-38,24
+US,Michigan,Houghton County,-61,-27,-59,,-44,3
+US,Michigan,Huron County,-42,-5,,,-29,0
+US,Michigan,Ingham County,-64,-31,13,-63,-41,14
+US,Michigan,Ionia County,-52,-24,,-47,-39,24
+US,Michigan,Iosco County,-42,-5,,,-39,
+US,Michigan,Iron County,-58,-14,,,-39,
+US,Michigan,Isabella County,-62,-36,,,-47,24
+US,Michigan,Jackson County,-54,-23,-7,-41,-42,11
+US,Michigan,Kalamazoo County,-61,-34,15,-56,-40,12
+US,Michigan,Kalkaska County,-73,-11,,,-42,
+US,Michigan,Kent County,-65,-31,-26,-68,-44,13
+US,Michigan,Lake County,-56,5,,,-47,
+US,Michigan,Lapeer County,-52,-30,-38,,-46,27
+US,Michigan,Leelanau County,-67,-12,,,-49,
+US,Michigan,Lenawee County,-55,-23,,,-42,11
+US,Michigan,Livingston County,-65,-29,11,,-46,12
+US,Michigan,Luce County,-67,,,,,
+US,Michigan,Mackinac County,-71,-39,,,-52,
+US,Michigan,Macomb County,-59,-30,106,-33,-48,13
+US,Michigan,Manistee County,-71,-17,,,-40,
+US,Michigan,Marquette County,-61,-39,-40,,-37,21
+US,Michigan,Mason County,-48,-24,,,-43,7
+US,Michigan,Mecosta County,-46,-18,,,-37,20
+US,Michigan,Menominee County,-47,-35,,,-23,
+US,Michigan,Midland County,-55,-27,-15,,-40,27
+US,Michigan,Missaukee County,-44,,,,-39,
+US,Michigan,Monroe County,-54,-30,52,-21,-34,11
+US,Michigan,Montcalm County,-46,-17,,,-29,22
+US,Michigan,Montmorency County,-54,-14,,,-40,
+US,Michigan,Muskegon County,-52,-22,15,,-40,11
+US,Michigan,Newaygo County,-49,-13,40,,-34,23
+US,Michigan,Oakland County,-65,-35,31,-50,-50,14
+US,Michigan,Oceana County,-69,-5,-26,,-35,-1
+US,Michigan,Ogemaw County,-47,-14,,,-45,
+US,Michigan,Ontonagon County,-46,,,,,
+US,Michigan,Osceola County,-66,-5,,,-42,
+US,Michigan,Oscoda County,-74,-12,,,-43,
+US,Michigan,Otsego County,-58,-36,,,-41,-1
+US,Michigan,Ottawa County,-57,-32,33,-20,-48,13
+US,Michigan,Presque Isle County,-63,-19,,,-38,
+US,Michigan,Roscommon County,-45,-9,-38,,-43,
+US,Michigan,Saginaw County,-60,-24,-10,-61,-43,12
+US,Michigan,Sanilac County,-38,-8,,,-39,12
+US,Michigan,Schoolcraft County,-80,-37,-51,,-44,
+US,Michigan,Shiawassee County,-51,-25,,,-34,24
+US,Michigan,St. Clair County,-50,-30,38,-32,-37,11
+US,Michigan,St. Joseph County,-44,-31,,,-39,23
+US,Michigan,Tuscola County,-47,-19,,,-37,23
+US,Michigan,Van Buren County,-43,-24,-9,,-30,23
+US,Michigan,Washtenaw County,-65,-48,53,-49,-53,15
+US,Michigan,Wayne County,-57,-25,24,-61,-45,13
+US,Michigan,Wexford County,-52,-21,,,-37,12
+US,Minnesota,Aitkin County,-63,-46,-65,,-41,
+US,Minnesota,Anoka County,-55,-34,12,-45,-39,15
+US,Minnesota,Becker County,-51,-21,,,-35,16
+US,Minnesota,Beltrami County,-52,-29,4,,-36,18
+US,Minnesota,Benton County,-58,-33,,,-31,18
+US,Minnesota,Big Stone County,,,,,-35,
+US,Minnesota,Blue Earth County,-65,-38,-40,,-35,20
+US,Minnesota,Brown County,-31,-39,,,-19,9
+US,Minnesota,Carlton County,-57,-45,,,-26,11
+US,Minnesota,Carver County,-53,-39,-41,,-46,24
+US,Minnesota,Cass County,-67,-22,-18,,-45,0
+US,Minnesota,Chippewa County,-31,,,,-25,
+US,Minnesota,Chisago County,-72,-41,-33,,-35,20
+US,Minnesota,Clay County,-44,-25,,,-34,20
+US,Minnesota,Clearwater County,-35,-34,,,-38,
+US,Minnesota,Cook County,-78,-47,,,-46,
+US,Minnesota,Cottonwood County,-74,,,,-24,
+US,Minnesota,Crow Wing County,-55,-31,-33,,-37,16
+US,Minnesota,Dakota County,-57,-37,-16,-43,-41,15
+US,Minnesota,Dodge County,-71,-35,,,-30,4
+US,Minnesota,Douglas County,-56,-38,-47,-20,-35,17
+US,Minnesota,Faribault County,-59,-31,,,-18,
+US,Minnesota,Fillmore County,-74,-25,,,-28,
+US,Minnesota,Freeborn County,-47,-29,,-20,-32,15
+US,Minnesota,Goodhue County,-49,-38,-20,,-39,18
+US,Minnesota,Grant County,,,,,-23,
+US,Minnesota,Hennepin County,-64,-37,-17,-74,-44,16
+US,Minnesota,Houston County,-85,-30,,,-28,
+US,Minnesota,Hubbard County,-45,-32,,,-44,
+US,Minnesota,Isanti County,-53,-40,-36,,-32,17
+US,Minnesota,Itasca County,-54,-29,,,-26,17
+US,Minnesota,Jackson County,-77,,,,-27,
+US,Minnesota,Kanabec County,-59,-39,,,-38,
+US,Minnesota,Kandiyohi County,-51,-25,,,-29,16
+US,Minnesota,Koochiching County,-44,-32,,,-29,
+US,Minnesota,Lac qui Parle County,,,,,-20,
+US,Minnesota,Lake County,-81,-48,-50,,-31,
+US,Minnesota,Lake of the Woods County,-71,,,,,
+US,Minnesota,Le Sueur County,-22,-22,,,-33,17
+US,Minnesota,Lincoln County,,,,,-26,
+US,Minnesota,Lyon County,-51,-33,,,-25,4
+US,Minnesota,Mahnomen County,,,,,-52,
+US,Minnesota,Marshall County,,,,,-29,
+US,Minnesota,Martin County,-55,-27,,,-26,
+US,Minnesota,McLeod County,-49,-31,,,-25,16
+US,Minnesota,Meeker County,-40,-49,,,-32,3
+US,Minnesota,Mille Lacs County,-49,-30,,,-39,11
+US,Minnesota,Morrison County,-49,-37,-61,,-27,13
+US,Minnesota,Mower County,-48,-37,,,-25,18
+US,Minnesota,Murray County,-35,,,,-22,
+US,Minnesota,Nicollet County,-64,-43,,,-33,20
+US,Minnesota,Nobles County,-49,-20,,-45,-22,
+US,Minnesota,Norman County,,,,,-23,
+US,Minnesota,Olmsted County,-62,-35,-13,-57,-40,15
+US,Minnesota,Otter Tail County,-45,-15,-2,,-30,15
+US,Minnesota,Pennington County,-39,-21,,,-40,
+US,Minnesota,Pine County,-56,-58,-47,,-53,10
+US,Minnesota,Pipestone County,-64,-20,,,-26,
+US,Minnesota,Polk County,-55,-28,,,-29,15
+US,Minnesota,Pope County,-83,,,,-33,
+US,Minnesota,Ramsey County,-64,-34,-29,-43,-42,15
+US,Minnesota,Redwood County,-49,-2,,,-38,
+US,Minnesota,Renville County,-50,,,,-22,
+US,Minnesota,Rice County,-51,-28,-48,-43,-39,18
+US,Minnesota,Rock County,-65,,,,-26,
+US,Minnesota,Roseau County,-73,-26,,,-49,
+US,Minnesota,Scott County,-55,-41,-19,,-42,15
+US,Minnesota,Sherburne County,-50,-37,-42,,-38,20
+US,Minnesota,Sibley County,-32,,,,-18,
+US,Minnesota,St. Louis County,-64,-41,-35,-56,-37,14
+US,Minnesota,Stearns County,-61,-37,-53,-62,-36,14
+US,Minnesota,Steele County,-53,-27,-60,-44,-33,19
+US,Minnesota,Stevens County,-63,-26,,,-28,
+US,Minnesota,Swift County,-29,-27,,,-23,
+US,Minnesota,Todd County,-46,-20,,,-28,3
+US,Minnesota,Wabasha County,-75,-25,,,-28,
+US,Minnesota,Wadena County,-46,-27,,,-28,
+US,Minnesota,Waseca County,-40,-45,,,-21,
+US,Minnesota,Washington County,-55,-39,-8,-38,-40,16
+US,Minnesota,Watonwan County,-57,,,,-7,
+US,Minnesota,Wilkin County,,,,,-28,
+US,Minnesota,Winona County,-52,-35,,-49,-23,20
+US,Minnesota,Wright County,-55,-37,-25,,-35,15
+US,Minnesota,Yellow Medicine County,-23,,,,-26,
+US,Mississippi,Adams County,-33,-10,,,-34,
+US,Mississippi,Alcorn County,-32,-9,,,-28,1
+US,Mississippi,Amite County,-34,-13,,,-33,
+US,Mississippi,Attala County,-10,11,,,-20,
+US,Mississippi,Benton County,,,,,-23,
+US,Mississippi,Bolivar County,-15,1,,,-24,
+US,Mississippi,Calhoun County,-30,2,,,-32,
+US,Mississippi,Carroll County,,,,,-33,
+US,Mississippi,Chickasaw County,-18,-16,,,-35,
+US,Mississippi,Claiborne County,-22,,,,-9,
+US,Mississippi,Clarke County,-31,-10,,,-25,
+US,Mississippi,Clay County,-24,8,,-34,-33,
+US,Mississippi,Coahoma County,-19,18,,,-43,
+US,Mississippi,Copiah County,-19,-2,,,-15,
+US,Mississippi,Covington County,-32,-7,,,-29,
+US,Mississippi,DeSoto County,-37,-7,50,-25,-34,10
+US,Mississippi,Forrest County,-32,-8,,-27,-30,13
+US,Mississippi,George County,-28,9,,,-28,
+US,Mississippi,Greene County,,-10,,,-23,
+US,Mississippi,Grenada County,-14,10,,,-15,
+US,Mississippi,Hancock County,-22,-7,,,-40,16
+US,Mississippi,Harrison County,-39,-13,51,-41,-44,10
+US,Mississippi,Hinds County,-28,0,10,-9,-29,9
+US,Mississippi,Holmes County,2,13,,,-30,
+US,Mississippi,Humphreys County,,-9,,,-30,
+US,Mississippi,Itawamba County,-33,14,,,-28,
+US,Mississippi,Jackson County,-28,-9,19,-38,-38,10
+US,Mississippi,Jasper County,-22,-3,,,-18,
+US,Mississippi,Jefferson Davis County,,6,,,-34,
+US,Mississippi,Jones County,-24,1,,,-28,11
+US,Mississippi,Kemper County,,,,,-26,
+US,Mississippi,Lafayette County,-46,-21,,,-35,10
+US,Mississippi,Lamar County,-52,-11,,-44,-25,14
+US,Mississippi,Lauderdale County,-38,-14,8,-29,-35,14
+US,Mississippi,Lawrence County,,4,,,-30,
+US,Mississippi,Leake County,-21,-23,,,-26,
+US,Mississippi,Lee County,-46,-12,,-26,-33,19
+US,Mississippi,Leflore County,-7,6,,,-15,
+US,Mississippi,Lincoln County,-22,-13,,,-25,
+US,Mississippi,Lowndes County,-33,8,,-39,-28,13
+US,Mississippi,Madison County,-33,-11,45,-45,-37,21
+US,Mississippi,Marion County,-17,-7,,,-15,
+US,Mississippi,Marshall County,-14,4,,,-22,5
+US,Mississippi,Monroe County,-46,-7,,,-31,0
+US,Mississippi,Montgomery County,-50,-23,,-22,-17,
+US,Mississippi,Neshoba County,-23,-7,,,-27,
+US,Mississippi,Newton County,-19,-7,,,-16,
+US,Mississippi,Noxubee County,-5,10,,,-19,
+US,Mississippi,Oktibbeha County,-44,-20,,,-32,2
+US,Mississippi,Panola County,-8,7,,-28,-22,-3
+US,Mississippi,Pearl River County,-18,0,,-24,-28,14
+US,Mississippi,Perry County,,-4,-22,,-27,
+US,Mississippi,Pike County,-27,-9,,-28,-19,-2
+US,Mississippi,Pontotoc County,-28,-3,,,-29,-1
+US,Mississippi,Prentiss County,-23,-3,,,-25,
+US,Mississippi,Quitman County,,,,,-32,
+US,Mississippi,Rankin County,-42,-12,-9,-42,-27,10
+US,Mississippi,Scott County,-27,-1,,-9,-17,
+US,Mississippi,Simpson County,-25,-3,,-40,-20,
+US,Mississippi,Smith County,,7,,,-21,
+US,Mississippi,Stone County,-18,-22,,,-28,
+US,Mississippi,Sunflower County,-9,25,,-20,-10,
+US,Mississippi,Tallahatchie County,,-6,,,-31,
+US,Mississippi,Tate County,-24,-1,,-8,-28,
+US,Mississippi,Tippah County,-26,-17,,,-25,
+US,Mississippi,Tishomingo County,-2,8,,,-22,
+US,Mississippi,Tunica County,-50,16,,,-44,
+US,Mississippi,Union County,-25,-8,,-20,-32,
+US,Mississippi,Walthall County,-47,2,,,-28,
+US,Mississippi,Warren County,-26,-11,-20,,-28,15
+US,Mississippi,Washington County,-22,5,,,-18,11
+US,Mississippi,Wayne County,-25,11,,,-21,
+US,Mississippi,Webster County,-41,-9,,,-33,
+US,Mississippi,Wilkinson County,,-8,,,-28,
+US,Mississippi,Winston County,-6,-6,,,-23,
+US,Mississippi,Yalobusha County,,-2,,,-28,
+US,Mississippi,Yazoo County,-19,11,,,-20,
+US,Missouri,Adair County,-40,55,,,-20,-1
+US,Missouri,Andrew County,-63,5,,,-32,
+US,Missouri,Audrain County,-29,-9,,,-20,6
+US,Missouri,Barry County,-18,19,,,-26,9
+US,Missouri,Barton County,-18,,,,-25,
+US,Missouri,Bates County,-20,15,,,-18,
+US,Missouri,Benton County,-32,128,,,-24,
+US,Missouri,Bollinger County,-50,-18,,,-35,
+US,Missouri,Boone County,-55,-18,65,-58,-36,10
+US,Missouri,Buchanan County,-29,2,,-5,-22,7
+US,Missouri,Butler County,-23,-5,,,-20,10
+US,Missouri,Caldwell County,,,,,-20,
+US,Missouri,Callaway County,-36,-1,,,-20,18
+US,Missouri,Camden County,-28,16,,,-36,13
+US,Missouri,Cape Girardeau County,-43,-20,0,,-33,12
+US,Missouri,Carroll County,-28,,,,-19,
+US,Missouri,Cass County,-26,-17,29,-14,-33,9
+US,Missouri,Cedar County,-15,-5,,,-28,
+US,Missouri,Chariton County,,,,,-30,
+US,Missouri,Christian County,-30,-10,-19,,-33,13
+US,Missouri,Clark County,,-10,,-46,-4,
+US,Missouri,Clay County,-32,-17,214,-30,-38,10
+US,Missouri,Clinton County,-76,-8,,,-31,
+US,Missouri,Cole County,-44,-23,,,-29,19
+US,Missouri,Cooper County,-27,-19,,-15,-20,
+US,Missouri,Crawford County,-20,-7,,-7,-17,
+US,Missouri,Dade County,,,,,-13,
+US,Missouri,Dallas County,-11,8,,,-16,
+US,Missouri,Daviess County,,,,,-13,
+US,Missouri,DeKalb County,-7,3,,,-18,
+US,Missouri,Dent County,0,,,,-5,
+US,Missouri,Douglas County,-5,-14,,,-21,
+US,Missouri,Dunklin County,-15,10,,,-23,
+US,Missouri,Franklin County,-33,2,61,-12,-25,8
+US,Missouri,Gasconade County,-22,,,,-25,
+US,Missouri,Gentry County,,,,,-34,
+US,Missouri,Greene County,-45,-30,43,-34,-36,10
+US,Missouri,Grundy County,-16,-7,,,-10,
+US,Missouri,Harrison County,-25,-20,,-15,-20,
+US,Missouri,Henry County,-9,2,,,-20,-1
+US,Missouri,Hickory County,,,,,-2,
+US,Missouri,Howard County,,,,,-23,
+US,Missouri,Howell County,-36,-16,,-24,-28,12
+US,Missouri,Iron County,-18,4,104,,-9,
+US,Missouri,Jackson County,-43,-14,28,-13,-36,10
+US,Missouri,Jasper County,-26,-10,42,-11,-22,7
+US,Missouri,Jefferson County,-36,-16,94,6,-33,9
+US,Missouri,Johnson County,-28,-5,,,-20,16
+US,Missouri,Laclede County,-21,-2,,,-22,13
+US,Missouri,Lafayette County,-24,-8,,-19,-24,13
+US,Missouri,Lawrence County,-5,-2,,-17,-25,11
+US,Missouri,Lewis County,-14,,,,-13,
+US,Missouri,Lincoln County,-40,-14,,,-32,18
+US,Missouri,Linn County,-19,-7,,,-7,
+US,Missouri,Livingston County,-15,-6,,,-25,
+US,Missouri,Macon County,-29,-19,,-30,-19,
+US,Missouri,Madison County,-5,,,,-22,
+US,Missouri,Maries County,,,,,-21,
+US,Missouri,Marion County,-38,1,,-46,-26,13
+US,Missouri,McDonald County,-9,9,,,-25,-4
+US,Missouri,Miller County,-15,3,-32,,-24,-3
+US,Missouri,Mississippi County,-38,,,-13,-16,
+US,Missouri,Moniteau County,-18,14,,,-25,
+US,Missouri,Monroe County,-54,,,,-24,
+US,Missouri,Montgomery County,-54,-8,,,-18,
+US,Missouri,Morgan County,-17,23,,,-33,
+US,Missouri,New Madrid County,-22,-4,,-12,-23,
+US,Missouri,Newton County,-27,-7,7,-19,-26,13
+US,Missouri,Nodaway County,-30,-10,,,-16,
+US,Missouri,Oregon County,-2,4,,,-19,
+US,Missouri,Osage County,-47,-6,,,-26,
+US,Missouri,Ozark County,,,,,-17,
+US,Missouri,Pemiscot County,-37,5,,-27,-26,
+US,Missouri,Perry County,-33,-13,,,-33,
+US,Missouri,Pettis County,-27,7,,,-22,15
+US,Missouri,Phelps County,-37,-17,,-18,-27,16
+US,Missouri,Pike County,-28,-2,,,-26,
+US,Missouri,Platte County,-46,15,-19,-80,-40,15
+US,Missouri,Polk County,-24,-13,-46,,-23,10
+US,Missouri,Pulaski County,-32,-9,,-45,-19,13
+US,Missouri,Putnam County,,,,,-28,
+US,Missouri,Ralls County,-54,,,-9,-22,
+US,Missouri,Randolph County,-31,-17,,,-18,1
+US,Missouri,Ray County,-14,1,,,-22,7
+US,Missouri,Ripley County,-5,-2,,,-28,
+US,Missouri,Saline County,-26,0,,,3,0
+US,Missouri,Scott County,-34,0,,-19,-21,11
+US,Missouri,Shannon County,,,,,-29,
+US,Missouri,Shelby County,,,,,-28,
+US,Missouri,St. Charles County,-45,-13,63,-16,-37,11
+US,Missouri,St. Clair County,-27,-4,,,-17,
+US,Missouri,St. Francois County,-26,3,-29,,-15,13
+US,Missouri,St. Louis County,-45,-21,87,-59,-38,11
+US,Missouri,St. Louis,-52,-7,34,-35,-36,11
+US,Missouri,Ste. Genevieve County,-30,,,-3,-17,
+US,Missouri,Stoddard County,-19,-5,,,-18,-2
+US,Missouri,Stone County,-16,19,,,-39,9
+US,Missouri,Sullivan County,,,,,-7,
+US,Missouri,Taney County,-47,-7,41,,-49,13
+US,Missouri,Texas County,-21,13,,,-23,
+US,Missouri,Vernon County,-21,13,,-24,-14,
+US,Missouri,Warren County,-25,-5,,-4,-26,16
+US,Missouri,Washington County,-9,-9,,,-14,
+US,Missouri,Wayne County,-21,6,,,-29,
+US,Missouri,Webster County,-1,-13,,-38,-31,16
+US,Missouri,Wright County,-27,2,,,-19,
+US,Montana,Beaverhead County,-31,-11,,,-31,
+US,Montana,Big Horn County,-51,-7,,-13,-28,
+US,Montana,Blaine County,,,,,-41,
+US,Montana,Broadwater County,-62,-3,,,-33,
+US,Montana,Carbon County,-63,-30,,,-45,
+US,Montana,Cascade County,-48,-26,-22,-70,-32,12
+US,Montana,Custer County,-48,,,,-28,
+US,Montana,Dawson County,-60,-7,,,-23,
+US,Montana,Deer Lodge County,-57,-26,,,-31,
+US,Montana,Fergus County,-45,-31,,,-32,
+US,Montana,Flathead County,-53,-29,-35,-50,-42,10
+US,Montana,Gallatin County,-63,-39,61,-66,-51,12
+US,Montana,Glacier County,-71,-28,,,-45,
+US,Montana,Hill County,-42,-4,,,-24,
+US,Montana,Jefferson County,-69,,,,-36,
+US,Montana,Lake County,-41,-22,,,-31,1
+US,Montana,Lewis and Clark County,-51,-34,19,,-37,18
+US,Montana,Lincoln County,-79,-29,,,-38,
+US,Montana,Madison County,-100,,-42,,-44,
+US,Montana,Mineral County,,-54,,,-38,
+US,Montana,Missoula County,-55,-30,31,-28,-36,11
+US,Montana,Park County,-54,-29,,,-44,
+US,Montana,Pondera County,-53,,,,,
+US,Montana,Powell County,,,,,-30,
+US,Montana,Ravalli County,-49,-20,,,-39,11
+US,Montana,Richland County,-36,-22,,,-41,
+US,Montana,Roosevelt County,-25,-20,,,-42,
+US,Montana,Rosebud County,,,,,-30,
+US,Montana,Sanders County,-62,-27,,,-36,
+US,Montana,Silver Bow County,-45,-15,,-20,-37,13
+US,Montana,Stillwater County,-47,,,-4,-33,
+US,Montana,Teton County,,,,,-38,
+US,Montana,Valley County,-64,,,,-28,
+US,Montana,Yellowstone County,-49,-21,114,-45,-32,8
+US,Nebraska,Adams County,-24,-14,,,-18,13
+US,Nebraska,Box Butte County,-20,-7,,,-14,
+US,Nebraska,Buffalo County,-39,-16,,-3,-28,17
+US,Nebraska,Burt County,-58,,,,-18,
+US,Nebraska,Butler County,-53,,,,-19,
+US,Nebraska,Cass County,-33,,-63,,-28,12
+US,Nebraska,Cedar County,,,,,-19,
+US,Nebraska,Cherry County,-70,,,,-34,
+US,Nebraska,Cheyenne County,-21,-20,,-1,-26,
+US,Nebraska,Clay County,,,,,-28,
+US,Nebraska,Colfax County,-52,-10,,,-6,
+US,Nebraska,Cuming County,-29,,,,-24,
+US,Nebraska,Custer County,-33,-14,,,-14,
+US,Nebraska,Dakota County,-10,7,,,-23,1
+US,Nebraska,Dawes County,-26,,,,-30,
+US,Nebraska,Dawson County,-19,3,,,-12,-2
+US,Nebraska,Deuel County,,,,-5,,
+US,Nebraska,Dixon County,,,,,-25,
+US,Nebraska,Dodge County,-21,-5,,-2,-22,13
+US,Nebraska,Douglas County,-41,-7,55,-38,-30,9
+US,Nebraska,Fillmore County,,,,,-20,
+US,Nebraska,Gage County,-22,6,,,-21,1
+US,Nebraska,Hall County,-35,-20,,-15,-26,12
+US,Nebraska,Hamilton County,-58,,,-6,-22,
+US,Nebraska,Holt County,-20,6,,,-9,
+US,Nebraska,Howard County,,,,,-21,
+US,Nebraska,Jefferson County,-13,,,,-22,
+US,Nebraska,Kearney County,,,,,-29,
+US,Nebraska,Keith County,-31,-20,,14,-26,
+US,Nebraska,Kimball County,,,,,-41,
+US,Nebraska,Knox County,,,,,-25,
+US,Nebraska,Lancaster County,-39,-19,156,-18,-26,8
+US,Nebraska,Lincoln County,-29,-4,,-8,-14,14
+US,Nebraska,Madison County,-38,-7,,,-17,14
+US,Nebraska,Merrick County,-55,,,,-24,
+US,Nebraska,Morrill County,,,,,-22,
+US,Nebraska,Nemaha County,-56,,,,-27,
+US,Nebraska,Otoe County,-8,3,,,-16,
+US,Nebraska,Phelps County,-20,-8,,,-30,
+US,Nebraska,Pierce County,,,,,-24,
+US,Nebraska,Platte County,-34,-2,,-16,-17,15
+US,Nebraska,Polk County,,,,,-22,
+US,Nebraska,Red Willow County,-16,,,,-18,
+US,Nebraska,Richardson County,-24,-2,,,-13,
+US,Nebraska,Saline County,-17,-10,,,-24,
+US,Nebraska,Sarpy County,-36,-15,191,23,-30,9
+US,Nebraska,Saunders County,-29,18,,,-27,
+US,Nebraska,Scotts Bluff County,-25,-3,,,-18,14
+US,Nebraska,Seward County,-29,,,,-32,
+US,Nebraska,Stanton County,,,,,-20,
+US,Nebraska,Thayer County,,,,,-19,
+US,Nebraska,Thurston County,,,,,-30,
+US,Nebraska,Washington County,-18,-9,,,-23,
+US,Nebraska,Wayne County,-53,,,,-26,
+US,Nebraska,York County,-39,,,-12,-31,
+US,Nevada,Carson City,-36,-13,-3,,-35,18
+US,Nevada,Churchill County,-27,-11,,,-28,5
+US,Nevada,Clark County,-48,-26,-47,-66,-56,15
+US,Nevada,Douglas County,-58,-35,-35,,-47,18
+US,Nevada,Elko County,-40,10,7,-11,-35,17
+US,Nevada,Humboldt County,-46,-1,,-40,-20,
+US,Nevada,Lander County,-59,-12,,,-41,
+US,Nevada,Lyon County,-14,-5,,-10,-27,15
+US,Nevada,Mineral County,,,,-29,,
+US,Nevada,Nye County,-26,-15,-52,-20,-40,13
+US,Nevada,Pershing County,,,,6,-32,
+US,Nevada,Storey County,-73,,,,-38,
+US,Nevada,Washoe County,-44,-21,6,-64,-42,12
+US,Nevada,White Pine County,-65,-4,,-4,-23,
+US,New Hampshire,Belknap County,-52,-28,-53,,-35,18
+US,New Hampshire,Carroll County,-69,-30,-66,,-51,19
+US,New Hampshire,Cheshire County,-51,-36,-46,,-34,18
+US,New Hampshire,Coos County,-52,-21,-68,,-37,10
+US,New Hampshire,Grafton County,-62,-37,-71,-45,-44,20
+US,New Hampshire,Hillsborough County,-62,-37,-55,-57,-38,14
+US,New Hampshire,Merrimack County,-58,-31,-59,-76,-37,13
+US,New Hampshire,Rockingham County,-59,-36,-63,-60,-39,14
+US,New Hampshire,Strafford County,-51,-38,-53,-39,-38,13
+US,New Hampshire,Sullivan County,-45,-22,,,-28,16
+US,New Jersey,Atlantic County,-56,-30,11,-72,-55,16
+US,New Jersey,Bergen County,-66,-37,-64,-64,-50,19
+US,New Jersey,Burlington County,-53,-39,7,-53,-38,14
+US,New Jersey,Camden County,-50,-30,-29,-59,-37,13
+US,New Jersey,Cape May County,-49,-27,-14,-59,-41,19
+US,New Jersey,Cumberland County,-36,-19,-35,-28,-25,10
+US,New Jersey,Essex County,-60,-27,-50,-78,-43,17
+US,New Jersey,Gloucester County,-54,-30,-3,-15,-36,13
+US,New Jersey,Hudson County,-62,-38,-69,-72,-51,18
+US,New Jersey,Hunterdon County,-64,-35,21,-31,-42,28
+US,New Jersey,Mercer County,-55,-25,-27,-74,-43,15
+US,New Jersey,Middlesex County,-64,-41,-31,-77,-44,17
+US,New Jersey,Monmouth County,-62,-34,-32,-67,-44,17
+US,New Jersey,Morris County,-63,-39,-43,-64,-47,18
+US,New Jersey,Ocean County,-55,-31,-25,-58,-42,15
+US,New Jersey,Passaic County,-66,-34,-53,-55,-46,16
+US,New Jersey,Salem County,-39,-21,-22,-61,-28,18
+US,New Jersey,Somerset County,-61,-36,-31,-60,-47,17
+US,New Jersey,Sussex County,-57,-27,-39,-53,-39,15
+US,New Jersey,Union County,-62,-32,-40,-61,-44,17
+US,New Jersey,Warren County,-47,-37,-35,-40,-35,14
+US,New Mexico,Bernalillo County,-46,-22,8,-43,-37,11
+US,New Mexico,Chaves County,-46,-26,-41,-49,-26,12
+US,New Mexico,Cibola County,-27,-7,,-16,-30,
+US,New Mexico,Colfax County,-62,-29,,-26,-40,
+US,New Mexico,Curry County,-38,-17,-32,-38,-25,16
+US,New Mexico,Doña Ana County,-41,-19,-15,-34,-33,12
+US,New Mexico,Eddy County,-38,-20,-39,-35,-20,12
+US,New Mexico,Grant County,-35,-9,,,-25,2
+US,New Mexico,Guadalupe County,-39,-30,,-9,,
+US,New Mexico,Hidalgo County,-57,,,-31,,
+US,New Mexico,Lea County,-44,-9,-24,-34,-26,13
+US,New Mexico,Lincoln County,-71,-41,-72,,-48,
+US,New Mexico,Los Alamos County,-70,-33,,,-53,
+US,New Mexico,Luna County,-41,-16,-45,-22,-22,
+US,New Mexico,McKinley County,-41,1,,-13,-20,22
+US,New Mexico,Otero County,-39,-25,-58,,-36,19
+US,New Mexico,Quay County,-10,-4,,-7,-25,
+US,New Mexico,Rio Arriba County,-30,-20,,,-37,12
+US,New Mexico,Roosevelt County,-31,-23,,,-22,
+US,New Mexico,San Juan County,-42,-15,2,-38,-26,10
+US,New Mexico,San Miguel County,-29,-22,,-41,-29,-1
+US,New Mexico,Sandoval County,-34,-13,3,-28,-42,11
+US,New Mexico,Santa Fe County,-52,-23,-23,-51,-44,12
+US,New Mexico,Sierra County,-44,-4,,,-24,
+US,New Mexico,Socorro County,-42,-8,,,-36,
+US,New Mexico,Taos County,-59,-29,-36,,-52,1
+US,New Mexico,Torrance County,-24,-7,,-8,-25,
+US,New Mexico,Union County,,,,-34,,
+US,New Mexico,Valencia County,-38,-8,-10,-21,-33,13
+US,New York,Albany County,-59,-30,-15,-64,-36,13
+US,New York,Allegany County,-40,-15,,,-33,18
+US,New York,Bronx County,-64,-30,-51,-55,-50,16
+US,New York,Broome County,-51,-27,5,-43,-34,11
+US,New York,Cattaraugus County,-40,-15,-37,,-32,18
+US,New York,Cayuga County,-39,-15,,-49,-29,20
+US,New York,Chautauqua County,-33,-8,-22,,-26,8
+US,New York,Chemung County,-48,-14,,-58,-29,14
+US,New York,Chenango County,-38,-12,,,-23,20
+US,New York,Clinton County,-52,-18,,-67,-29,18
+US,New York,Columbia County,-51,-40,,-36,-35,19
+US,New York,Cortland County,-42,-9,,,-31,22
+US,New York,Delaware County,-48,-23,,,-29,10
+US,New York,Dutchess County,-54,-28,-34,-72,-38,14
+US,New York,Erie County,-52,-23,64,-49,-37,10
+US,New York,Essex County,-68,-35,-70,,-48,3
+US,New York,Franklin County,-44,-18,,,-34,17
+US,New York,Fulton County,-38,-25,,,-23,15
+US,New York,Genesee County,-25,-22,,-56,-27,20
+US,New York,Greene County,-46,-30,-48,,-36,17
+US,New York,Herkimer County,-45,-19,,-70,-34,18
+US,New York,Jefferson County,-48,-24,,,-27,9
+US,New York,Kings County,-68,-33,-55,-63,-51,18
+US,New York,Lewis County,-49,-17,,,-29,
+US,New York,Livingston County,-36,-7,,-37,-30,21
+US,New York,Madison County,-40,-18,,-62,-36,22
+US,New York,Monroe County,-48,-27,115,-41,-36,11
+US,New York,Montgomery County,-40,-20,,2,-23,17
+US,New York,Nassau County,-66,-34,-60,-69,-47,19
+US,New York,New York County,-86,-51,-79,-78,-57,19
+US,New York,Niagara County,-40,-15,14,-59,-33,10
+US,New York,Oneida County,-45,-25,-6,-50,-33,10
+US,New York,Onondaga County,-53,-29,38,-55,-36,11
+US,New York,Ontario County,-55,-21,-26,-62,-35,9
+US,New York,Orange County,-58,-38,-24,-61,-40,15
+US,New York,Orleans County,-22,-7,,,-27,19
+US,New York,Oswego County,-39,-14,15,,-26,10
+US,New York,Otsego County,-49,-29,,,-36,19
+US,New York,Putnam County,-54,-31,-36,-69,-40,28
+US,New York,Queens County,-69,-37,-52,-75,-58,20
+US,New York,Rensselaer County,-50,-23,-25,-54,-36,12
+US,New York,Richmond County,-59,-31,-48,-60,-42,17
+US,New York,Rockland County,-67,-35,-49,-68,-47,20
+US,New York,Saratoga County,-60,-29,-48,-52,-35,13
+US,New York,Schenectady County,-46,-24,-20,-48,-31,12
+US,New York,Schoharie County,-38,-22,,,-19,3
+US,New York,Schuyler County,-35,-4,,,-29,
+US,New York,Seneca County,-42,31,,-67,-34,15
+US,New York,St. Lawrence County,-45,-22,-47,,-30,11
+US,New York,Steuben County,-39,-23,-12,-22,-29,10
+US,New York,Suffolk County,-58,-31,-42,-70,-41,16
+US,New York,Sullivan County,-40,-8,,,-34,18
+US,New York,Tioga County,-63,-15,,,-35,19
+US,New York,Tompkins County,-59,-34,28,-50,-48,28
+US,New York,Ulster County,-53,-30,-41,-69,-35,14
+US,New York,Warren County,-56,-21,-46,-43,-36,18
+US,New York,Washington County,-48,-19,,,-24,17
+US,New York,Wayne County,-31,-8,,,-30,13
+US,New York,Westchester County,-64,-37,-47,-66,-47,18
+US,New York,Wyoming County,-26,-4,,,-21,19
+US,New York,Yates County,-34,-13,,,-31,
+US,North Carolina,Alamance County,-39,-7,34,-18,-33,9
+US,North Carolina,Alexander County,-24,10,,,-23,12
+US,North Carolina,Alleghany County,-31,-11,,,-22,
+US,North Carolina,Anson County,-43,2,,,-21,
+US,North Carolina,Ashe County,-5,1,,,-29,
+US,North Carolina,Avery County,-50,-18,,,-28,
+US,North Carolina,Beaufort County,-22,-7,58,,-25,13
+US,North Carolina,Bertie County,105,-3,,,-20,
+US,North Carolina,Bladen County,-14,5,-27,,-21,12
+US,North Carolina,Brunswick County,-27,-11,26,-33,-33,8
+US,North Carolina,Buncombe County,-60,-30,-9,-70,-45,13
+US,North Carolina,Burke County,-26,-3,30,,-24,7
+US,North Carolina,Cabarrus County,-50,-26,6,-33,-41,12
+US,North Carolina,Caldwell County,-20,-8,-2,,-29,7
+US,North Carolina,Camden County,-41,,,,-30,
+US,North Carolina,Carteret County,-25,-13,-2,,-33,8
+US,North Carolina,Caswell County,-25,38,,,-32,
+US,North Carolina,Catawba County,-41,-8,49,-11,-29,8
+US,North Carolina,Chatham County,-21,-20,0,,-35,17
+US,North Carolina,Cherokee County,-33,-14,,,-43,1
+US,North Carolina,Chowan County,-11,-1,,,-12,
+US,North Carolina,Clay County,-26,-14,,,-32,
+US,North Carolina,Cleveland County,-33,-5,8,,-27,7
+US,North Carolina,Columbus County,-19,3,,,-23,10
+US,North Carolina,Craven County,-30,-2,35,-25,-32,7
+US,North Carolina,Cumberland County,-31,-11,18,-32,-34,8
+US,North Carolina,Currituck County,-14,-7,,,-27,8
+US,North Carolina,Dare County,-45,-27,3,,-31,12
+US,North Carolina,Davidson County,-32,-12,60,-18,-31,9
+US,North Carolina,Davie County,-28,-9,,-27,-30,14
+US,North Carolina,Duplin County,-34,-3,,-20,-25,11
+US,North Carolina,Durham County,-50,-28,-7,-36,-43,13
+US,North Carolina,Edgecombe County,-9,12,,,-26,12
+US,North Carolina,Forsyth County,-45,-28,57,-17,-39,11
+US,North Carolina,Franklin County,-21,-8,,,-39,16
+US,North Carolina,Gaston County,-38,-26,-7,,-33,10
+US,North Carolina,Gates County,,,,,-28,
+US,North Carolina,Graham County,,,,,-30,
+US,North Carolina,Granville County,-18,-14,,,-32,16
+US,North Carolina,Greene County,-37,-6,-14,,-31,
+US,North Carolina,Guilford County,-47,-29,20,-42,-39,12
+US,North Carolina,Halifax County,-23,-8,,,-20,11
+US,North Carolina,Harnett County,-23,-3,0,-9,-32,8
+US,North Carolina,Haywood County,-40,-21,24,-19,-35,9
+US,North Carolina,Henderson County,-49,-26,25,-46,-38,11
+US,North Carolina,Hertford County,-46,9,,,-25,
+US,North Carolina,Hoke County,-14,3,,,-29,14
+US,North Carolina,Iredell County,-35,-7,38,-15,-31,8
+US,North Carolina,Jackson County,-40,-25,17,,-51,15
+US,North Carolina,Johnston County,-36,-14,21,-14,-33,9
+US,North Carolina,Jones County,,-8,,,-22,
+US,North Carolina,Lee County,-25,1,,,-27,14
+US,North Carolina,Lenoir County,-30,-4,,,-25,12
+US,North Carolina,Lincoln County,-16,-2,-31,,-32,7
+US,North Carolina,Macon County,-33,-8,-7,,-38,13
+US,North Carolina,Madison County,-38,-20,,,-28,
+US,North Carolina,Martin County,-21,0,,,-28,
+US,North Carolina,McDowell County,-20,-2,35,-23,-18,12
+US,North Carolina,Mecklenburg County,-53,-23,1,-70,-43,13
+US,North Carolina,Mitchell County,-26,-10,,,-24,
+US,North Carolina,Montgomery County,-21,24,9,-19,-24,-1
+US,North Carolina,Moore County,-40,-11,21,,-39,9
+US,North Carolina,Nash County,-32,-1,-39,-16,-29,7
+US,North Carolina,New Hanover County,-43,-17,12,-63,-34,9
+US,North Carolina,Northampton County,-62,22,,,-18,
+US,North Carolina,Onslow County,-30,-5,25,-61,-29,7
+US,North Carolina,Orange County,-56,-39,-20,-50,-44,14
+US,North Carolina,Pamlico County,-15,15,,,-29,
+US,North Carolina,Pasquotank County,-24,-9,,-49,-31,14
+US,North Carolina,Pender County,-17,-2,,,-27,14
+US,North Carolina,Perquimans County,-47,-10,,,-24,
+US,North Carolina,Person County,-21,15,,,-31,15
+US,North Carolina,Pitt County,-47,-20,6,-38,-32,9
+US,North Carolina,Polk County,-43,-14,,,-34,
+US,North Carolina,Randolph County,-38,-6,-13,,-25,8
+US,North Carolina,Richmond County,-31,-2,,,-26,10
+US,North Carolina,Robeson County,-27,-3,,-21,-26,6
+US,North Carolina,Rockingham County,-20,-3,-12,-8,-30,8
+US,North Carolina,Rowan County,-38,-6,66,-28,-30,8
+US,North Carolina,Rutherford County,-34,-8,-10,,-29,9
+US,North Carolina,Sampson County,-14,4,,,-24,11
+US,North Carolina,Scotland County,-25,-4,,,-30,11
+US,North Carolina,Stanly County,-18,-13,,,-32,12
+US,North Carolina,Stokes County,-33,-6,-25,,-26,12
+US,North Carolina,Surry County,-24,-3,-20,-9,-29,12
+US,North Carolina,Swain County,-77,9,-31,,-52,
+US,North Carolina,Transylvania County,-28,-11,14,,-37,6
+US,North Carolina,Union County,-33,-18,4,-17,-38,11
+US,North Carolina,Vance County,-24,0,,,-28,13
+US,North Carolina,Wake County,-51,-31,-1,-74,-43,13
+US,North Carolina,Warren County,-4,18,,,-20,
+US,North Carolina,Washington County,-29,8,,,-15,
+US,North Carolina,Watauga County,-55,-38,56,,-49,17
+US,North Carolina,Wayne County,-30,-5,22,-30,-24,7
+US,North Carolina,Wilkes County,-26,3,-49,,-25,10
+US,North Carolina,Wilson County,-27,-7,-11,,-26,7
+US,North Carolina,Yadkin County,-47,-7,,,-31,11
+US,North Carolina,Yancey County,-31,-7,,,-31,
+US,North Dakota,Barnes County,-22,,,,-25,
+US,North Dakota,Bottineau County,-39,,,,-35,
+US,North Dakota,Burleigh County,-44,-14,26,-56,-25,11
+US,North Dakota,Cass County,-54,-26,69,-34,-30,12
+US,North Dakota,Dunn County,-56,-18,-26,,,
+US,North Dakota,Grand Forks County,-46,-20,-48,-38,-28,20
+US,North Dakota,McKenzie County,-40,-15,,-25,-14,
+US,North Dakota,McLean County,-63,,,,-26,
+US,North Dakota,Mercer County,,10,,,-27,
+US,North Dakota,Morton County,-33,2,,-12,-24,17
+US,North Dakota,Mountrail County,-35,-14,,,-27,
+US,North Dakota,Pembina County,,,,,-22,
+US,North Dakota,Ramsey County,-39,-27,,,-29,
+US,North Dakota,Ransom County,,,,,-13,
+US,North Dakota,Richland County,-42,-4,,,-23,
+US,North Dakota,Rolette County,-33,,,,-37,
+US,North Dakota,Stark County,-29,18,,,-10,14
+US,North Dakota,Stutsman County,-25,-15,,,-15,
+US,North Dakota,Traill County,,,,,-31,
+US,North Dakota,Walsh County,-26,,,,-22,
+US,North Dakota,Ward County,-38,-12,,-35,-23,18
+US,North Dakota,Williams County,-30,-6,,-25,-21,14
+US,Ohio,Adams County,-25,-4,,,-22,-2
+US,Ohio,Allen County,-48,-25,13,-31,-29,10
+US,Ohio,Ashland County,-38,-12,,,-28,19
+US,Ohio,Ashtabula County,-28,-11,-1,-23,-22,8
+US,Ohio,Athens County,-50,-20,,,-44,20
+US,Ohio,Auglaize County,-49,-19,,,-27,23
+US,Ohio,Belmont County,-37,-7,,-28,-27,18
+US,Ohio,Brown County,-30,-17,,,-25,19
+US,Ohio,Butler County,-45,-20,136,-6,-35,10
+US,Ohio,Carroll County,-32,-14,,,-32,0
+US,Ohio,Champaign County,-34,-15,,,-33,22
+US,Ohio,Clark County,-33,-20,,-19,-34,9
+US,Ohio,Clermont County,-40,-22,126,,-37,10
+US,Ohio,Clinton County,-40,-11,,30,-34,22
+US,Ohio,Columbiana County,-29,-6,,,-31,8
+US,Ohio,Coshocton County,-26,-5,,,-27,15
+US,Ohio,Crawford County,-32,-20,,,-38,19
+US,Ohio,Cuyahoga County,-48,-20,137,-47,-36,10
+US,Ohio,Darke County,-30,-11,,,-28,20
+US,Ohio,Defiance County,-47,-31,,,-33,23
+US,Ohio,Delaware County,-59,-33,171,-32,-43,12
+US,Ohio,Erie County,-47,-22,2,,-44,15
+US,Ohio,Fairfield County,-44,-18,61,,-36,10
+US,Ohio,Fayette County,-40,-25,,-20,-26,9
+US,Ohio,Franklin County,-46,-22,106,-47,-40,11
+US,Ohio,Fulton County,-42,-20,,-38,-34,24
+US,Ohio,Gallia County,-25,-17,,2,-22,
+US,Ohio,Geauga County,-37,-23,10,,-36,23
+US,Ohio,Greene County,-48,-21,113,,-42,11
+US,Ohio,Guernsey County,-31,-25,,-20,-25,15
+US,Ohio,Hamilton County,-45,-18,139,-16,-37,10
+US,Ohio,Hancock County,-51,-30,,-28,-45,25
+US,Ohio,Hardin County,-26,-10,,,-32,13
+US,Ohio,Harrison County,-28,2,,,-22,
+US,Ohio,Henry County,-38,-18,,-26,-29,13
+US,Ohio,Highland County,-15,-9,,,-30,19
+US,Ohio,Hocking County,-30,3,25,,-31,-3
+US,Ohio,Holmes County,-26,-18,,,-24,-1
+US,Ohio,Huron County,-41,-16,,,-36,19
+US,Ohio,Jackson County,-22,-9,,-22,-22,-1
+US,Ohio,Jefferson County,-26,-18,,-15,-27,15
+US,Ohio,Knox County,-28,-15,,,-33,20
+US,Ohio,Lake County,-47,-22,146,-43,-32,10
+US,Ohio,Lawrence County,-26,-14,,,-25,16
+US,Ohio,Licking County,-35,-18,39,-24,-32,9
+US,Ohio,Logan County,-32,4,,,-41,26
+US,Ohio,Lorain County,-42,-15,-8,-60,-35,10
+US,Ohio,Lucas County,-52,-25,78,-21,-35,10
+US,Ohio,Madison County,-28,-12,,-16,-38,22
+US,Ohio,Mahoning County,-42,-17,-25,-24,-36,9
+US,Ohio,Marion County,-39,-19,,,-35,19
+US,Ohio,Medina County,-45,-19,,-26,-37,11
+US,Ohio,Meigs County,-31,,,,-24,
+US,Ohio,Mercer County,-44,-16,,,-30,24
+US,Ohio,Miami County,-39,-20,-7,,-32,10
+US,Ohio,Monroe County,-46,-17,,,-38,
+US,Ohio,Montgomery County,-44,-16,104,-32,-36,10
+US,Ohio,Morgan County,-42,0,,,-39,
+US,Ohio,Morrow County,-36,-13,,-35,-29,20
+US,Ohio,Muskingum County,-37,-22,,-22,-26,7
+US,Ohio,Noble County,-55,-15,,-24,-33,
+US,Ohio,Ottawa County,-30,-2,,,-27,21
+US,Ohio,Paulding County,-51,-7,,,-26,
+US,Ohio,Perry County,-10,-5,,,-20,10
+US,Ohio,Pickaway County,-27,-12,,-8,-28,20
+US,Ohio,Pike County,-31,-15,,,-32,
+US,Ohio,Portage County,-41,-14,26,-43,-35,10
+US,Ohio,Preble County,-30,-22,,-18,-32,22
+US,Ohio,Putnam County,-41,-8,,,-34,16
+US,Ohio,Richland County,-50,-23,,-25,-33,9
+US,Ohio,Ross County,-37,-10,-28,-7,-28,17
+US,Ohio,Sandusky County,-43,-16,,-47,-30,22
+US,Ohio,Scioto County,-29,-18,,,-20,15
+US,Ohio,Seneca County,-35,-19,,,-37,23
+US,Ohio,Shelby County,-27,-29,,-22,-31,23
+US,Ohio,Stark County,-40,-18,167,10,-32,9
+US,Ohio,Summit County,-42,-17,139,-24,-36,10
+US,Ohio,Trumbull County,-36,-9,80,-12,-30,8
+US,Ohio,Tuscarawas County,-31,-12,,,-31,8
+US,Ohio,Union County,-46,-22,,,-35,30
+US,Ohio,Van Wert County,-39,-25,,,-27,19
+US,Ohio,Vinton County,-56,2,,,-35,
+US,Ohio,Warren County,-47,-17,23,-21,-40,11
+US,Ohio,Washington County,-41,-18,,,-34,19
+US,Ohio,Wayne County,-43,-18,,-33,-32,10
+US,Ohio,Williams County,-38,-20,,-42,-38,23
+US,Ohio,Wood County,-51,-37,-7,-23,-36,11
+US,Ohio,Wyandot County,-41,-5,,-21,-45,6
+US,Oklahoma,Adair County,-3,8,,,-23,
+US,Oklahoma,Atoka County,-19,-19,,-26,-27,
+US,Oklahoma,Beckham County,-20,-9,,-10,-13,
+US,Oklahoma,Blaine County,-12,-1,,,-23,
+US,Oklahoma,Bryan County,-30,-25,,-21,-34,15
+US,Oklahoma,Caddo County,-17,-1,,-10,-35,
+US,Oklahoma,Canadian County,-33,-20,85,-9,-37,10
+US,Oklahoma,Carter County,-27,1,,-16,-29,14
+US,Oklahoma,Cherokee County,-26,-5,-38,,-33,17
+US,Oklahoma,Choctaw County,-22,-6,,,-21,
+US,Oklahoma,Cleveland County,-46,-22,26,,-39,11
+US,Oklahoma,Coal County,,,,,-28,
+US,Oklahoma,Comanche County,-38,-9,66,5,-38,9
+US,Oklahoma,Cotton County,,-23,,-43,-33,
+US,Oklahoma,Craig County,-14,-21,,8,-24,
+US,Oklahoma,Creek County,-22,-7,-18,,-31,10
+US,Oklahoma,Custer County,-32,-7,,-6,-28,
+US,Oklahoma,Delaware County,-16,20,,-13,-20,12
+US,Oklahoma,Garfield County,-38,-19,-36,-20,-23,13
+US,Oklahoma,Garvin County,-18,-3,-27,-16,-19,-4
+US,Oklahoma,Grady County,-37,2,,,-37,16
+US,Oklahoma,Greer County,,,,,-38,
+US,Oklahoma,Haskell County,-17,14,,,-30,
+US,Oklahoma,Hughes County,-19,8,,,-29,
+US,Oklahoma,Jackson County,-29,0,,,-25,9
+US,Oklahoma,Jefferson County,,5,,,-41,
+US,Oklahoma,Johnston County,-47,0,,,-26,
+US,Oklahoma,Kay County,-22,11,,-25,-32,13
+US,Oklahoma,Kingfisher County,-8,,,,-33,
+US,Oklahoma,Kiowa County,-15,-4,,,-20,
+US,Oklahoma,Latimer County,-19,-10,,,-32,
+US,Oklahoma,Le Flore County,-18,-5,,,-23,10
+US,Oklahoma,Lincoln County,-29,4,,,-31,12
+US,Oklahoma,Logan County,-18,-3,,-16,-26,17
+US,Oklahoma,Love County,-37,-9,,,-44,
+US,Oklahoma,Major County,,,,,-24,
+US,Oklahoma,Marshall County,-13,6,,,-27,
+US,Oklahoma,Mayes County,-22,-3,,-17,-25,14
+US,Oklahoma,McClain County,-30,-13,,-42,-38,17
+US,Oklahoma,McCurtain County,-23,-2,-11,-18,-18,9
+US,Oklahoma,McIntosh County,-15,25,,8,-22,
+US,Oklahoma,Murray County,-16,7,-22,,-30,
+US,Oklahoma,Muskogee County,-30,-10,1,-8,-24,14
+US,Oklahoma,Noble County,-42,-9,,-50,-33,
+US,Oklahoma,Nowata County,-8,-2,,-62,-29,
+US,Oklahoma,Okfuskee County,-32,-4,,-20,-31,
+US,Oklahoma,Oklahoma County,-43,-16,24,-37,-35,10
+US,Oklahoma,Okmulgee County,-21,-6,,-17,-25,13
+US,Oklahoma,Osage County,-25,7,-38,,-39,15
+US,Oklahoma,Ottawa County,-21,-3,,,-35,8
+US,Oklahoma,Pawnee County,-29,-25,,,-28,
+US,Oklahoma,Payne County,-44,-19,22,,-41,18
+US,Oklahoma,Pittsburg County,-40,-2,,-42,-24,12
+US,Oklahoma,Pontotoc County,-31,-15,,,-34,16
+US,Oklahoma,Pottawatomie County,-36,-7,-35,,-35,11
+US,Oklahoma,Pushmataha County,-18,-1,,,-17,
+US,Oklahoma,Rogers County,-29,-3,-10,,-32,11
+US,Oklahoma,Seminole County,-22,-1,,-30,-22,
+US,Oklahoma,Sequoyah County,-26,11,,-11,-32,14
+US,Oklahoma,Stephens County,-35,-12,,,-29,13
+US,Oklahoma,Texas County,-30,-4,,-13,-24,
+US,Oklahoma,Tillman County,-12,-8,,,-30,
+US,Oklahoma,Tulsa County,-42,-18,-22,-22,-36,10
+US,Oklahoma,Wagoner County,-21,7,,,-35,10
+US,Oklahoma,Washington County,-30,-7,,,-26,15
+US,Oklahoma,Washita County,,-17,,,-28,
+US,Oklahoma,Woods County,-12,,24,,-38,
+US,Oklahoma,Woodward County,-25,-7,,,-25,
+US,Oregon,Baker County,-44,-14,,-12,-31,
+US,Oregon,Benton County,-60,-35,-5,-51,-46,25
+US,Oregon,Clackamas County,-51,-23,-15,-44,-38,13
+US,Oregon,Clatsop County,-60,-34,-58,-61,-44,17
+US,Oregon,Columbia County,-44,-22,2,,-34,19
+US,Oregon,Coos County,-45,-24,-48,,-38,15
+US,Oregon,Crook County,-30,-15,,,-29,-1
+US,Oregon,Curry County,-48,-26,-24,,-35,
+US,Oregon,Deschutes County,-50,-24,-10,-66,-42,11
+US,Oregon,Douglas County,-38,-18,-10,-13,-33,9
+US,Oregon,Grant County,-72,-19,,,-30,
+US,Oregon,Harney County,-38,11,,,-20,
+US,Oregon,Hood River County,-56,-11,-12,,-51,
+US,Oregon,Jackson County,-46,-19,12,-49,-34,9
+US,Oregon,Jefferson County,-38,-13,,-32,-36,0
+US,Oregon,Josephine County,-40,-19,27,-33,-30,9
+US,Oregon,Klamath County,-37,-11,21,-14,-33,8
+US,Oregon,Lake County,-67,,,,-26,
+US,Oregon,Lane County,-52,-28,-29,-65,-40,12
+US,Oregon,Lincoln County,-62,-29,-53,,-52,17
+US,Oregon,Linn County,-44,-25,-9,-29,-32,11
+US,Oregon,Malheur County,-33,-15,,2,-23,7
+US,Oregon,Marion County,-48,-23,-26,-33,-34,12
+US,Oregon,Morrow County,-51,,,-7,-19,
+US,Oregon,Multnomah County,-61,-29,-23,-58,-41,14
+US,Oregon,Polk County,-42,-23,-5,,-39,13
+US,Oregon,Sherman County,,,,-37,,
+US,Oregon,Tillamook County,-61,-27,-50,,-37,-1
+US,Oregon,Umatilla County,-30,-6,-13,-23,-28,8
+US,Oregon,Union County,-39,-35,,-17,-29,0
+US,Oregon,Wallowa County,-63,-14,,,-30,
+US,Oregon,Wasco County,-45,-22,-9,,-41,7
+US,Oregon,Washington County,-53,-31,-6,-47,-41,14
+US,Oregon,Yamhill County,-42,-24,11,-63,-39,12
+US,Pennsylvania,Adams County,-58,-29,0,,-41,16
+US,Pennsylvania,Allegheny County,-51,-21,83,-56,-41,11
+US,Pennsylvania,Armstrong County,-27,-17,,,-26,18
+US,Pennsylvania,Beaver County,-42,-20,-59,-44,-37,10
+US,Pennsylvania,Bedford County,-41,-9,,-77,-26,17
+US,Pennsylvania,Berks County,-53,-32,-21,-24,-37,13
+US,Pennsylvania,Blair County,-50,-16,-36,-25,-31,9
+US,Pennsylvania,Bradford County,-37,-14,,,-19,17
+US,Pennsylvania,Bucks County,-52,-36,-8,-51,-40,14
+US,Pennsylvania,Butler County,-49,-51,-4,-14,-40,11
+US,Pennsylvania,Cambria County,-38,-14,,,-28,7
+US,Pennsylvania,Carbon County,-47,-7,-31,,-35,19
+US,Pennsylvania,Centre County,-71,-45,-24,-44,-54,16
+US,Pennsylvania,Chester County,-54,-38,-44,-72,-41,14
+US,Pennsylvania,Clarion County,-43,-18,,,-27,10
+US,Pennsylvania,Clearfield County,-33,-18,-34,-21,-23,13
+US,Pennsylvania,Clinton County,-34,-12,,-29,-20,18
+US,Pennsylvania,Columbia County,-44,-20,,-26,-28,20
+US,Pennsylvania,Crawford County,-33,-7,,,-31,18
+US,Pennsylvania,Cumberland County,-53,-25,-15,-25,-37,13
+US,Pennsylvania,Dauphin County,-55,-32,-18,-57,-35,12
+US,Pennsylvania,Delaware County,-50,-28,13,-43,-40,14
+US,Pennsylvania,Elk County,-26,-18,,,-33,8
+US,Pennsylvania,Erie County,-45,-13,127,-30,-32,9
+US,Pennsylvania,Fayette County,-35,-7,-34,,-31,8
+US,Pennsylvania,Franklin County,-41,-19,-40,-21,-30,10
+US,Pennsylvania,Fulton County,-59,-27,,-70,-33,
+US,Pennsylvania,Greene County,-31,-7,,,-24,3
+US,Pennsylvania,Huntingdon County,-34,-7,,,-26,16
+US,Pennsylvania,Indiana County,-37,-19,,,-33,19
+US,Pennsylvania,Jefferson County,-32,-7,,-14,-20,17
+US,Pennsylvania,Juniata County,-70,-31,,,-40,
+US,Pennsylvania,Lackawanna County,-56,-28,-9,-45,-34,12
+US,Pennsylvania,Lancaster County,-59,-38,-11,-67,-39,14
+US,Pennsylvania,Lawrence County,-28,-16,-50,,-29,18
+US,Pennsylvania,Lebanon County,-43,-23,-42,-28,-32,12
+US,Pennsylvania,Lehigh County,-58,-32,-28,-49,-37,13
+US,Pennsylvania,Luzerne County,-54,-25,-5,-30,-32,12
+US,Pennsylvania,Lycoming County,-49,-21,-44,-44,-32,10
+US,Pennsylvania,McKean County,-32,-11,,,-26,17
+US,Pennsylvania,Mercer County,-44,-34,,,-30,8
+US,Pennsylvania,Mifflin County,-35,-12,,,-24,18
+US,Pennsylvania,Monroe County,-59,-34,-49,-74,-45,13
+US,Pennsylvania,Montgomery County,-58,-36,-4,-54,-44,15
+US,Pennsylvania,Montour County,-63,-31,,,-13,
+US,Pennsylvania,Northampton County,-56,-32,-6,-61,-39,14
+US,Pennsylvania,Northumberland County,-42,-11,,-25,-22,9
+US,Pennsylvania,Perry County,-38,-13,,,-25,21
+US,Pennsylvania,Philadelphia County,-57,-27,-47,-57,-42,14
+US,Pennsylvania,Pike County,-48,-16,,,-39,22
+US,Pennsylvania,Potter County,-52,-6,,,-28,
+US,Pennsylvania,Schuylkill County,-39,-16,-43,-6,-28,10
+US,Pennsylvania,Snyder County,-55,-28,,,-33,12
+US,Pennsylvania,Somerset County,-36,-14,-20,-55,-26,19
+US,Pennsylvania,Sullivan County,,,,,-42,
+US,Pennsylvania,Susquehanna County,-42,-17,,-25,-30,15
+US,Pennsylvania,Tioga County,-45,-15,,,-27,16
+US,Pennsylvania,Union County,-55,-30,,,-35,14
+US,Pennsylvania,Venango County,-25,-15,,-70,-28,16
+US,Pennsylvania,Warren County,-28,5,-38,,-27,17
+US,Pennsylvania,Washington County,-45,-17,45,-16,-35,10
+US,Pennsylvania,Wayne County,-49,-19,,,-41,17
+US,Pennsylvania,Westmoreland County,-44,-28,103,-36,-35,10
+US,Pennsylvania,Wyoming County,-36,-8,,,-35,-1
+US,Pennsylvania,York County,-52,-34,-11,-46,-37,13
+US,Rhode Island,Bristol County,-61,-45,,,-37,22
+US,Rhode Island,Kent County,-57,-26,-44,-72,-36,13
+US,Rhode Island,Newport County,-57,-32,-60,-24,-39,21
+US,Rhode Island,Providence County,-57,-29,-50,-65,-36,14
+US,Rhode Island,Washington County,-53,-34,-59,-8,-40,13
+US,South Carolina,Abbeville County,-35,7,,,-30,
+US,South Carolina,Aiken County,-31,-11,-1,0,-33,8
+US,South Carolina,Allendale County,,-12,,,-16,
+US,South Carolina,Anderson County,-40,-3,-1,-20,-34,8
+US,South Carolina,Bamberg County,-28,2,,,-26,
+US,South Carolina,Barnwell County,-23,11,,,-24,
+US,South Carolina,Beaufort County,-38,-16,1,-32,-39,10
+US,South Carolina,Berkeley County,-32,-10,47,-53,-32,9
+US,South Carolina,Calhoun County,-9,13,,-47,-32,
+US,South Carolina,Charleston County,-48,-25,-35,-62,-42,11
+US,South Carolina,Cherokee County,-37,-3,-7,-20,-24,11
+US,South Carolina,Chester County,-29,4,,-25,-25,14
+US,South Carolina,Chesterfield County,-34,3,,,-26,13
+US,South Carolina,Clarendon County,-23,-2,,-12,-28,
+US,South Carolina,Colleton County,-32,-13,,-27,-31,12
+US,South Carolina,Darlington County,-20,-2,-36,,-22,13
+US,South Carolina,Dillon County,-21,3,-41,-21,-19,-2
+US,South Carolina,Dorchester County,-32,-12,1,-38,-36,9
+US,South Carolina,Edgefield County,-46,8,,,-32,
+US,South Carolina,Fairfield County,0,1,,-27,-33,
+US,South Carolina,Florence County,-38,-11,-30,-24,-30,8
+US,South Carolina,Georgetown County,-41,-6,58,,-30,11
+US,South Carolina,Greenville County,-42,-12,-35,-38,-39,10
+US,South Carolina,Greenwood County,-30,-4,,,-27,11
+US,South Carolina,Hampton County,-44,-10,,-26,-23,
+US,South Carolina,Horry County,-43,-13,17,-58,-39,8
+US,South Carolina,Jasper County,-32,-21,-25,-8,-39,8
+US,South Carolina,Kershaw County,-38,-7,,-36,-30,14
+US,South Carolina,Lancaster County,-30,-13,,,-35,9
+US,South Carolina,Laurens County,-23,2,,-27,-26,6
+US,South Carolina,Lee County,-51,6,,-28,-20,
+US,South Carolina,Lexington County,-42,-15,24,-33,-35,10
+US,South Carolina,Marion County,-26,-7,,,-25,2
+US,South Carolina,Marlboro County,-20,4,,,-22,
+US,South Carolina,McCormick County,-36,30,,,-30,
+US,South Carolina,Newberry County,-22,1,,-31,-25,10
+US,South Carolina,Oconee County,-26,-6,2,,-28,8
+US,South Carolina,Orangeburg County,-34,-5,,-31,-24,8
+US,South Carolina,Pickens County,-35,-10,3,,-35,9
+US,South Carolina,Richland County,-43,-19,-37,-21,-35,11
+US,South Carolina,Saluda County,-36,-1,,,-26,
+US,South Carolina,Spartanburg County,-34,-11,10,-57,-34,9
+US,South Carolina,Sumter County,-33,-6,,-32,-31,8
+US,South Carolina,Union County,-24,1,,,-23,4
+US,South Carolina,Williamsburg County,-21,-2,,,-19,
+US,South Carolina,York County,-33,-16,31,-34,-35,10
+US,South Dakota,Beadle County,-35,-22,,,-26,
+US,South Dakota,Bon Homme County,,,,,-27,
+US,South Dakota,Brookings County,-44,-21,,,-30,21
+US,South Dakota,Brown County,-30,-10,,,-23,17
+US,South Dakota,Brule County,-51,,,,-32,
+US,South Dakota,Butte County,-8,,,,-17,
+US,South Dakota,Charles Mix County,-59,,,,-18,
+US,South Dakota,Clay County,-32,,,,-28,
+US,South Dakota,Codington County,-35,-14,,-29,-24,15
+US,South Dakota,Custer County,,,,,-23,
+US,South Dakota,Davison County,-36,-7,,,-19,
+US,South Dakota,Dewey County,,,,,-42,
+US,South Dakota,Fall River County,-35,-12,,,-23,
+US,South Dakota,Grant County,-52,,,,-21,
+US,South Dakota,Hamlin County,,,,,-32,
+US,South Dakota,Hughes County,-20,6,,,-16,
+US,South Dakota,Hutchinson County,,,,,-17,
+US,South Dakota,Kingsbury County,,,,,-27,
+US,South Dakota,Lake County,-13,-13,,,-27,
+US,South Dakota,Lawrence County,-42,-14,-41,,-46,0
+US,South Dakota,Lincoln County,-13,13,,,-24,22
+US,South Dakota,McCook County,,,,,-24,
+US,South Dakota,Meade County,-38,-10,,,-32,12
+US,South Dakota,Minnehaha County,-38,-5,141,-41,-23,8
+US,South Dakota,Moody County,,,,,-27,
+US,South Dakota,Pennington County,-42,-6,90,-24,-30,8
+US,South Dakota,Roberts County,-37,4,,-33,-29,
+US,South Dakota,Shannon County,-50,-11,,,-30,
+US,South Dakota,Spink County,,,,,-28,
+US,South Dakota,Todd County,,-26,,,-43,
+US,South Dakota,Tripp County,-36,,,,,
+US,South Dakota,Turner County,,,,,-21,
+US,South Dakota,Union County,-30,-15,,-18,-17,
+US,South Dakota,Walworth County,-19,,,,-37,
+US,South Dakota,Yankton County,-23,-3,,,-22,8
+US,Tennessee,Anderson County,-30,-5,65,,-31,8
+US,Tennessee,Bedford County,-17,-2,,,-33,14
+US,Tennessee,Benton County,-28,16,,-25,-30,
+US,Tennessee,Bledsoe County,-23,18,,,-29,
+US,Tennessee,Blount County,-35,-4,35,-79,-39,9
+US,Tennessee,Bradley County,-34,-6,,-18,-24,9
+US,Tennessee,Campbell County,-16,-1,30,-12,-29,10
+US,Tennessee,Cannon County,34,15,,,-24,
+US,Tennessee,Carroll County,-33,-2,,,-26,4
+US,Tennessee,Carter County,-15,1,16,,-21,11
+US,Tennessee,Cheatham County,-9,23,,-36,-32,16
+US,Tennessee,Chester County,-13,-3,,,-28,
+US,Tennessee,Claiborne County,-28,29,,,-26,-2
+US,Tennessee,Clay County,,,,,-28,
+US,Tennessee,Cocke County,-24,-11,-3,-20,-36,11
+US,Tennessee,Coffee County,-29,-6,,-35,-33,14
+US,Tennessee,Crockett County,-9,3,,,-11,
+US,Tennessee,Cumberland County,-22,-13,,-25,-32,11
+US,Tennessee,Davidson County,-44,-17,-6,-64,-44,11
+US,Tennessee,Decatur County,-10,8,,,-28,
+US,Tennessee,DeKalb County,-1,26,,,-34,
+US,Tennessee,Dickson County,-30,-13,,-19,-34,15
+US,Tennessee,Dyer County,-21,-5,,-9,-21,11
+US,Tennessee,Fayette County,-15,46,,-30,-35,9
+US,Tennessee,Fentress County,-19,0,,,-19,
+US,Tennessee,Franklin County,-15,3,,,-35,12
+US,Tennessee,Gibson County,-18,4,,,-25,12
+US,Tennessee,Giles County,-14,2,,-25,-24,8
+US,Tennessee,Grainger County,-46,-1,,,-20,
+US,Tennessee,Greene County,-26,-8,,-8,-19,4
+US,Tennessee,Grundy County,-52,4,,,-33,
+US,Tennessee,Hamblen County,-29,-12,,,-28,12
+US,Tennessee,Hamilton County,-46,-15,17,-39,-36,10
+US,Tennessee,Hancock County,,,,,-39,
+US,Tennessee,Hardeman County,-11,-4,,,-28,
+US,Tennessee,Hardin County,-24,-3,,,-29,
+US,Tennessee,Hawkins County,-14,-5,,,-25,12
+US,Tennessee,Haywood County,-11,4,,,-24,
+US,Tennessee,Henderson County,-21,11,,,-33,-1
+US,Tennessee,Henry County,-15,8,,,-30,11
+US,Tennessee,Hickman County,-28,3,,,-26,-3
+US,Tennessee,Houston County,-37,-17,,,-27,
+US,Tennessee,Humphreys County,-12,2,,,-26,
+US,Tennessee,Jackson County,,2,,,-31,
+US,Tennessee,Jefferson County,-14,-10,,-17,-37,13
+US,Tennessee,Johnson County,-26,3,,,-20,
+US,Tennessee,Knox County,-41,-16,35,-28,-40,10
+US,Tennessee,Lauderdale County,-7,21,,,-21,
+US,Tennessee,Lawrence County,-22,2,,,-28,12
+US,Tennessee,Lewis County,-7,-4,,,-39,
+US,Tennessee,Lincoln County,-23,5,,,-21,7
+US,Tennessee,Loudon County,-27,1,,-22,-40,13
+US,Tennessee,Macon County,-16,-5,,,-33,
+US,Tennessee,Madison County,-37,-15,-14,-32,-33,8
+US,Tennessee,Marion County,-27,-26,29,-16,-28,0
+US,Tennessee,Marshall County,-9,11,,-34,-29,14
+US,Tennessee,Maury County,-30,-15,-33,-15,-33,9
+US,Tennessee,McMinn County,-29,-13,,-23,-29,12
+US,Tennessee,McNairy County,-17,-1,,-20,-17,
+US,Tennessee,Meigs County,-12,14,,,-28,
+US,Tennessee,Monroe County,-22,-7,,,-37,14
+US,Tennessee,Montgomery County,-33,-9,91,-13,-32,8
+US,Tennessee,Moore County,,,,,-29,
+US,Tennessee,Morgan County,-5,2,,,-11,
+US,Tennessee,Obion County,-28,14,,,-24,6
+US,Tennessee,Overton County,-11,6,,,-30,
+US,Tennessee,Perry County,-61,,,,-30,
+US,Tennessee,Polk County,-29,9,,,-29,
+US,Tennessee,Putnam County,-25,-14,,-11,-30,6
+US,Tennessee,Rhea County,-7,-1,,,-26,11
+US,Tennessee,Roane County,-16,-6,-19,,-27,13
+US,Tennessee,Robertson County,-25,6,,-25,-36,15
+US,Tennessee,Rutherford County,-35,-12,74,-16,-35,10
+US,Tennessee,Scott County,-19,3,,,-20,
+US,Tennessee,Sequatchie County,-20,11,,,-25,
+US,Tennessee,Sevier County,-64,-29,-55,,-53,12
+US,Tennessee,Shelby County,-36,-9,0,-25,-32,10
+US,Tennessee,Smith County,-17,15,,-10,-13,
+US,Tennessee,Stewart County,-23,11,,,-23,
+US,Tennessee,Sullivan County,-33,-10,-22,-44,-30,8
+US,Tennessee,Sumner County,-35,-13,112,,-36,10
+US,Tennessee,Tipton County,-19,1,,,-29,16
+US,Tennessee,Trousdale County,-20,11,,,-33,
+US,Tennessee,Unicoi County,-22,3,,,-23,
+US,Tennessee,Union County,-24,6,,,-17,
+US,Tennessee,Van Buren County,,,,,-32,
+US,Tennessee,Warren County,0,40,,,-33,13
+US,Tennessee,Washington County,-45,-15,-25,-8,-33,8
+US,Tennessee,Wayne County,-20,3,,,-28,
+US,Tennessee,Weakley County,-27,-1,,,-23,7
+US,Tennessee,White County,-35,-16,,,-44,-1
+US,Tennessee,Williamson County,-46,-20,76,-19,-45,12
+US,Tennessee,Wilson County,-34,-4,51,-6,-38,10
+US,Texas,Anderson County,-23,1,,-17,-22,11
+US,Texas,Andrews County,-28,-22,,32,-33,
+US,Texas,Angelina County,-38,-9,-45,-25,-25,12
+US,Texas,Aransas County,-48,-31,-67,,-29,10
+US,Texas,Archer County,,,,,-27,
+US,Texas,Atascosa County,-23,-24,,-65,-24,17
+US,Texas,Austin County,-32,-6,,,-24,1
+US,Texas,Bailey County,-29,-14,,,-31,
+US,Texas,Bandera County,-25,15,-36,,-35,
+US,Texas,Bastrop County,-32,-24,-14,,-34,12
+US,Texas,Bee County,-46,-35,,,-27,-1
+US,Texas,Bell County,-37,-24,8,-34,-33,10
+US,Texas,Bexar County,-47,-23,-46,-46,-38,13
+US,Texas,Blanco County,-41,-10,-50,,-39,
+US,Texas,Bosque County,-26,0,,,-17,
+US,Texas,Bowie County,-44,-20,-11,-18,-32,10
+US,Texas,Brazoria County,-39,-21,9,-24,-30,13
+US,Texas,Brazos County,-50,-28,-37,-60,-39,14
+US,Texas,Brewster County,-52,-37,,,-28,
+US,Texas,Brooks County,-53,-14,,-43,-31,
+US,Texas,Brown County,-34,-18,,,-21,12
+US,Texas,Burleson County,-26,0,,,-24,
+US,Texas,Burnet County,-27,-15,8,,-36,15
+US,Texas,Caldwell County,-35,-36,,-35,-36,17
+US,Texas,Calhoun County,-35,-20,,,-20,
+US,Texas,Callahan County,-26,-5,,-18,-8,
+US,Texas,Cameron County,-61,-41,-70,-62,-37,17
+US,Texas,Camp County,-11,-4,,,-13,
+US,Texas,Carson County,,-28,,-20,-30,
+US,Texas,Cass County,-28,4,,-20,-23,6
+US,Texas,Castro County,,-14,,,-20,
+US,Texas,Chambers County,-42,-19,,-39,-27,20
+US,Texas,Cherokee County,-22,-5,,,-22,12
+US,Texas,Childress County,-25,-31,,-11,-32,
+US,Texas,Clay County,-53,,,-10,-24,
+US,Texas,Coke County,,-21,,,,
+US,Texas,Coleman County,-18,-16,,,-20,
+US,Texas,Collin County,-50,-33,-11,-37,-45,14
+US,Texas,Colorado County,-36,-8,,-31,-18,
+US,Texas,Comal County,-47,-33,-30,-10,-36,12
+US,Texas,Comanche County,-9,-22,,,-25,
+US,Texas,Cooke County,-28,-3,-8,-33,-32,16
+US,Texas,Coryell County,-29,-18,35,,-27,11
+US,Texas,Crane County,-39,-27,,,-37,
+US,Texas,Crockett County,,-27,,,,
+US,Texas,Crosby County,,-15,,,-35,
+US,Texas,Culberson County,-46,,,-30,,
+US,Texas,Dallam County,-34,-12,,,-10,
+US,Texas,Dallas County,-45,-21,-24,-45,-38,14
+US,Texas,Dawson County,-36,-10,,,-26,
+US,Texas,Deaf Smith County,-24,-12,,-13,-18,
+US,Texas,Delta County,,,,,-37,
+US,Texas,Denton County,-47,-27,1,-30,-42,14
+US,Texas,DeWitt County,-30,-22,,,-19,
+US,Texas,Dimmit County,-19,-17,,-34,-30,
+US,Texas,Donley County,,,,9,,
+US,Texas,Duval County,-46,-28,,,-36,
+US,Texas,Eastland County,-31,-15,,-27,-28,
+US,Texas,Ector County,-32,-5,,-8,-24,10
+US,Texas,El Paso County,-50,-25,-65,-40,-37,15
+US,Texas,Ellis County,-35,-18,4,-33,-34,13
+US,Texas,Erath County,-47,-32,,,-25,10
+US,Texas,Falls County,-19,-13,,,-10,
+US,Texas,Fannin County,-11,-2,,,-25,11
+US,Texas,Fayette County,-35,-25,,-33,-17,
+US,Texas,Floyd County,,,,,-28,
+US,Texas,Fort Bend County,-49,-26,-2,-26,-41,15
+US,Texas,Franklin County,-33,4,,-23,-24,
+US,Texas,Freestone County,-52,-4,,-41,-22,
+US,Texas,Frio County,-21,-22,,-27,-19,
+US,Texas,Gaines County,-28,-8,,,-20,
+US,Texas,Galveston County,-42,-15,-29,-57,-35,12
+US,Texas,Garza County,-31,-13,,,,
+US,Texas,Gillespie County,-46,-25,-38,,-36,
+US,Texas,Goliad County,-54,-38,,,-32,
+US,Texas,Gonzales County,-30,-13,-19,,-20,
+US,Texas,Gray County,-33,-10,,,-26,
+US,Texas,Grayson County,-33,-9,47,,-29,9
+US,Texas,Gregg County,-43,-21,2,,-31,11
+US,Texas,Grimes County,-17,-3,,,-21,0
+US,Texas,Guadalupe County,-34,-24,-1,-23,-37,12
+US,Texas,Hale County,-29,-13,,,-27,11
+US,Texas,Hall County,,,,-13,,
+US,Texas,Hamilton County,-41,-32,,,-22,
+US,Texas,Hardeman County,,-24,,-16,,
+US,Texas,Hardin County,-45,-13,,,-32,16
+US,Texas,Harris County,-46,-23,-22,-58,-38,14
+US,Texas,Harrison County,-28,-7,-16,,-31,15
+US,Texas,Hartley County,,-4,,,,
+US,Texas,Haskell County,-16,-22,,,,
+US,Texas,Hays County,-46,-22,-23,-19,-36,13
+US,Texas,Henderson County,-30,-3,-22,,-28,9
+US,Texas,Hidalgo County,-63,-43,-74,-64,-43,18
+US,Texas,Hill County,-35,-8,,-41,-25,13
+US,Texas,Hockley County,-23,-15,,,-17,-3
+US,Texas,Hood County,-34,-7,-36,,-35,16
+US,Texas,Hopkins County,-31,4,,-22,-27,11
+US,Texas,Houston County,-22,5,,,-21,
+US,Texas,Howard County,-35,-19,,-32,-24,14
+US,Texas,Hunt County,-33,-15,-5,-23,-33,10
+US,Texas,Hutchinson County,-19,-13,,,-11,
+US,Texas,Jack County,-9,,,,-26,
+US,Texas,Jackson County,-21,-19,,-44,-21,
+US,Texas,Jasper County,-36,-24,25,,-30,6
+US,Texas,Jefferson County,-49,-22,4,-35,-33,12
+US,Texas,Jim Hogg County,,-29,,,,
+US,Texas,Jim Wells County,-38,-22,,,-28,14
+US,Texas,Johnson County,-33,-18,19,,-31,11
+US,Texas,Jones County,-36,-8,,,-18,
+US,Texas,Karnes County,-31,-24,,-46,-19,
+US,Texas,Kaufman County,-46,-22,-26,-18,-38,12
+US,Texas,Kendall County,-38,-25,-61,-31,-38,14
+US,Texas,Kerr County,-32,-18,19,,-30,14
+US,Texas,Kimble County,-35,,,-24,,
+US,Texas,Kleberg County,-42,-36,-71,-56,-28,16
+US,Texas,La Salle County,-54,-23,,-40,,
+US,Texas,Lamar County,-24,-6,,-20,-13,12
+US,Texas,Lamb County,-40,-17,,,-22,
+US,Texas,Lampasas County,-30,-27,,,-38,
+US,Texas,Lavaca County,133,-11,,,-18,
+US,Texas,Lee County,-33,-37,,,-22,
+US,Texas,Leon County,-51,-23,,-26,-32,
+US,Texas,Liberty County,-38,-2,,-14,-28,11
+US,Texas,Limestone County,-26,-15,,,-24,
+US,Texas,Live Oak County,-68,-35,,-52,-39,
+US,Texas,Llano County,-26,-3,10,,-32,
+US,Texas,Loving County,,-58,,,,
+US,Texas,Lubbock County,-37,-14,17,-36,-28,10
+US,Texas,Lynn County,,,,,-24,
+US,Texas,Madison County,-36,-63,,,-29,
+US,Texas,Marion County,-30,-12,,,-26,
+US,Texas,Martin County,-12,-13,,,-32,
+US,Texas,Matagorda County,-34,-16,,,-9,13
+US,Texas,Maverick County,-56,-36,-82,-62,-36,19
+US,Texas,McCulloch County,-27,-10,,,-14,
+US,Texas,McLennan County,-43,-22,-12,-34,-34,10
+US,Texas,McMullen County,,,,-50,,
+US,Texas,Medina County,-24,-8,-54,-30,-30,19
+US,Texas,Midland County,-41,-19,-45,-24,-25,12
+US,Texas,Milam County,-35,-20,,,-27,
+US,Texas,Mitchell County,-35,-14,-70,,-26,
+US,Texas,Montague County,-21,-18,,,-30,
+US,Texas,Montgomery County,-47,-24,0,-26,-38,13
+US,Texas,Moore County,-27,-12,,-7,-15,-1
+US,Texas,Morris County,-15,-9,,,-30,
+US,Texas,Nacogdoches County,-36,-3,-17,-43,-24,15
+US,Texas,Navarro County,-40,-18,-7,-40,-32,16
+US,Texas,Newton County,,0,,,-35,
+US,Texas,Nolan County,-36,-10,,-31,-18,
+US,Texas,Nueces County,-46,-25,-40,-45,-34,13
+US,Texas,Ochiltree County,-44,-14,,,-26,
+US,Texas,Oldham County,,,,-5,,
+US,Texas,Orange County,-35,-18,-38,-37,-32,11
+US,Texas,Palo Pinto County,-19,-1,,-34,-29,8
+US,Texas,Panola County,-21,0,,-22,-28,
+US,Texas,Parker County,-35,-15,2,-32,-35,10
+US,Texas,Parmer County,,-10,,,-23,
+US,Texas,Pecos County,-33,-17,,-22,-20,
+US,Texas,Polk County,-36,-14,-7,-41,-36,10
+US,Texas,Potter County,-41,-13,2,-17,-26,9
+US,Texas,Presidio County,-69,-38,,,-35,
+US,Texas,Rains County,-22,-8,,,-20,
+US,Texas,Randall County,-34,-17,-24,,-30,9
+US,Texas,Reagan County,,-2,,-15,,
+US,Texas,Red River County,-2,16,,,-23,
+US,Texas,Reeves County,-39,-19,,-8,-12,
+US,Texas,Refugio County,-67,-43,,-43,-31,
+US,Texas,Robertson County,-38,-16,,-32,-16,
+US,Texas,Rockwall County,-45,-25,,-21,-40,25
+US,Texas,Runnels County,-23,-5,,,-22,
+US,Texas,Rusk County,-24,-7,,,-26,13
+US,Texas,Sabine County,-17,13,,,-34,
+US,Texas,San Augustine County,-62,-9,,,-34,
+US,Texas,San Jacinto County,-31,7,-42,,-29,5
+US,Texas,San Patricio County,-38,-23,-30,-33,-24,12
+US,Texas,San Saba County,-12,,,,,
+US,Texas,Scurry County,-32,-21,,,-18,
+US,Texas,Shelby County,-29,-3,,,-27,
+US,Texas,Sherman County,,,,0,,
+US,Texas,Smith County,-52,-28,-21,-36,-34,13
+US,Texas,Somervell County,-37,-6,,,-34,
+US,Texas,Starr County,-54,-31,-57,,-29,25
+US,Texas,Stephens County,-32,,,,-19,
+US,Texas,Sutton County,-53,-29,,,,
+US,Texas,Swisher County,,-4,,,-29,
+US,Texas,Tarrant County,-48,-20,-16,-71,-36,13
+US,Texas,Taylor County,-34,-14,,-7,-25,9
+US,Texas,Terry County,-18,-19,,,-14,
+US,Texas,Titus County,-28,2,,,-21,11
+US,Texas,Tom Green County,-46,-18,18,,-26,10
+US,Texas,Travis County,-54,-29,-19,-72,-44,15
+US,Texas,Trinity County,-42,9,,,-26,
+US,Texas,Tyler County,-45,11,,,-32,
+US,Texas,Upshur County,-24,2,,,-31,15
+US,Texas,Upton County,,-21,,,,
+US,Texas,Uvalde County,-43,-31,,,-28,
+US,Texas,Val Verde County,-55,-35,-53,,-32,21
+US,Texas,Van Zandt County,-33,-16,7,-18,-25,13
+US,Texas,Victoria County,-41,-23,-39,-49,-27,10
+US,Texas,Walker County,-42,-17,-1,-42,-27,15
+US,Texas,Waller County,-30,-22,,-22,-33,20
+US,Texas,Ward County,-34,-16,,35,-15,
+US,Texas,Washington County,-25,-14,,,-27,-2
+US,Texas,Webb County,-55,-38,-78,-43,-35,16
+US,Texas,Wharton County,-25,-36,,-36,-20,15
+US,Texas,Wheeler County,-41,,,,,
+US,Texas,Wichita County,-50,-30,-11,-24,-32,11
+US,Texas,Wilbarger County,-20,-12,,-17,-9,
+US,Texas,Willacy County,-51,-36,,,-34,
+US,Texas,Williamson County,-49,-29,-14,-41,-43,14
+US,Texas,Wilson County,-33,-55,-20,,-32,19
+US,Texas,Winkler County,-29,-23,,75,-14,
+US,Texas,Wise County,-27,-11,8,-16,-31,15
+US,Texas,Wood County,-21,7,,,-28,12
+US,Texas,Yoakum County,-39,-12,,,-30,
+US,Texas,Young County,-18,-4,,,-28,
+US,Texas,Zapata County,-42,-19,,,-44,
+US,Texas,Zavala County,-49,-25,,,-31,
+US,Utah,Beaver County,-58,,,-26,-23,
+US,Utah,Box Elder County,-28,-24,13,-5,-36,15
+US,Utah,Cache County,-33,-3,66,-7,-39,10
+US,Utah,Carbon County,-22,2,,,-30,
+US,Utah,Davis County,-39,-1,48,-15,-41,10
+US,Utah,Duchesne County,-25,1,,,-11,
+US,Utah,Emery County,-45,6,,,-16,
+US,Utah,Garfield County,,,13,,,
+US,Utah,Grand County,-48,-1,-18,,-22,
+US,Utah,Iron County,-43,-49,,-16,-38,16
+US,Utah,Juab County,-32,-15,,-13,-23,
+US,Utah,Kane County,-25,-6,21,,-33,
+US,Utah,Millard County,-23,72,,,-14,
+US,Utah,Morgan County,-31,-13,,,-42,
+US,Utah,Salt Lake County,-46,-16,16,-62,-38,11
+US,Utah,San Juan County,-21,60,-7,,-33,
+US,Utah,Sanpete County,-4,0,,,-36,
+US,Utah,Sevier County,-19,2,,-9,-25,
+US,Utah,Summit County,-84,-65,-47,-59,-76,6
+US,Utah,Tooele County,-22,-11,,-18,-30,11
+US,Utah,Uintah County,-18,-4,-20,,-37,5
+US,Utah,Utah County,-36,-11,54,13,-50,11
+US,Utah,Wasatch County,-48,-30,-6,,-60,4
+US,Utah,Washington County,-38,-10,-2,-22,-39,9
+US,Utah,Weber County,-32,-17,76,-8,-31,8
+US,Vermont,Addison County,-55,-38,,,-35,6
+US,Vermont,Bennington County,-62,-29,-23,,-40,8
+US,Vermont,Caledonia County,-67,-44,,,-30,2
+US,Vermont,Chittenden County,-61,-53,-50,-57,-46,14
+US,Vermont,Essex County,,,,,-37,
+US,Vermont,Franklin County,-52,-27,,,-28,22
+US,Vermont,Grand Isle County,,,,-60,-49,
+US,Vermont,Lamoille County,-79,-45,,-40,-58,
+US,Vermont,Orange County,-73,-33,,-66,-31,1
+US,Vermont,Orleans County,-52,-31,-46,,-32,0
+US,Vermont,Rutland County,-59,-33,,-77,-47,21
+US,Vermont,Washington County,-65,-45,,,-41,23
+US,Vermont,Windham County,-76,-43,-38,,-47,15
+US,Vermont,Windsor County,-67,-50,-63,-60,-49,22
+US,Virginia,Accomack County,-30,-18,,,-26,13
+US,Virginia,Albemarle County,-50,-30,36,-55,-47,23
+US,Virginia,Alexandria,-54,-22,49,-58,-44,16
+US,Virginia,Alleghany County,-32,,,-12,-23,
+US,Virginia,Amelia County,-31,-18,,,-35,
+US,Virginia,Amherst County,-9,-7,,,-23,8
+US,Virginia,Appomattox County,-20,2,,,-30,
+US,Virginia,Arlington County,-62,-32,8,-82,-50,16
+US,Virginia,Augusta County,-39,-16,-22,52,-22,8
+US,Virginia,Bath County,,,-70,,,
+US,Virginia,Bedford County,-27,-8,,,-34,14
+US,Virginia,Bland County,,,,-19,-32,
+US,Virginia,Botetourt County,-59,-11,,-20,-44,14
+US,Virginia,Bristol,-20,-12,,,-32,
+US,Virginia,Brunswick County,-37,,,-50,-11,
+US,Virginia,Buchanan County,-18,6,,,-29,
+US,Virginia,Buckingham County,-7,-3,,,-22,
+US,Virginia,Buena Vista,-31,-14,,,-38,
+US,Virginia,Campbell County,-26,-13,,,-33,13
+US,Virginia,Caroline County,-42,-20,-70,-37,-26,17
+US,Virginia,Carroll County,-15,12,,-16,-19,4
+US,Virginia,Charles City County,,,,,-34,
+US,Virginia,Charlotte County,-20,20,,,-28,
+US,Virginia,Charlottesville,-68,-30,-39,-58,-49,15
+US,Virginia,Chesapeake,-35,-18,35,-18,-36,9
+US,Virginia,Chesterfield County,-40,-21,27,-19,-39,10
+US,Virginia,Clarke County,-43,-19,,,-36,
+US,Virginia,Colonial Heights,-46,-26,,,-34,
+US,Virginia,Covington,-27,-9,,,-26,
+US,Virginia,Craig County,,,,,-24,
+US,Virginia,Culpeper County,-33,-12,,,-28,16
+US,Virginia,Cumberland County,-62,-24,,,-28,
+US,Virginia,Danville,-35,-9,,-14,-35,11
+US,Virginia,Dickenson County,-14,-11,,,-29,
+US,Virginia,Dinwiddie County,35,-29,,,-24,14
+US,Virginia,Emporia,-41,-6,,-20,-16,
+US,Virginia,Essex County,-18,10,,,-28,
+US,Virginia,Fairfax County,-49,-24,15,-46,-46,15
+US,Virginia,Fairfax,-65,-40,-26,,-51,3
+US,Virginia,Falls Church,-70,-39,,,-74,
+US,Virginia,Fauquier County,-29,-34,,,-32,20
+US,Virginia,Floyd County,-32,9,,,-29,
+US,Virginia,Fluvanna County,-79,-31,,,-34,-1
+US,Virginia,Franklin County,-16,-7,,,-28,13
+US,Virginia,Franklin,-11,22,,-14,-25,
+US,Virginia,Frederick County,-37,-26,-7,-33,-29,13
+US,Virginia,Fredericksburg,-51,-29,10,-67,-39,0
+US,Virginia,Galax,-26,15,,,-32,
+US,Virginia,Giles County,-19,0,,,-16,
+US,Virginia,Gloucester County,-27,12,,,-26,15
+US,Virginia,Goochland County,-43,-22,,,-38,
+US,Virginia,Grayson County,,,,,-18,
+US,Virginia,Greene County,-18,-15,,,-33,
+US,Virginia,Greensville County,,,,-24,-18,
+US,Virginia,Halifax County,-24,-11,,,-28,12
+US,Virginia,Hampton,-34,-6,117,-8,-32,10
+US,Virginia,Hanover County,-37,-23,,-25,-38,20
+US,Virginia,Harrisonburg,-51,-20,,-24,-36,16
+US,Virginia,Henrico County,-42,-22,28,-71,-36,11
+US,Virginia,Henry County,-17,-9,,,-28,11
+US,Virginia,Hopewell,-31,-4,,,-29,11
+US,Virginia,Isle of Wight County,-26,-11,,,-33,18
+US,Virginia,James City County,-59,-2,-2,,-47,19
+US,Virginia,King and Queen County,,,,,-29,
+US,Virginia,King George County,-31,-37,,-28,-31,0
+US,Virginia,King William County,-13,-7,,,-20,
+US,Virginia,Lancaster County,-9,-2,,,-25,
+US,Virginia,Lee County,-18,10,,,-13,
+US,Virginia,Lexington,-61,-14,,,,
+US,Virginia,Loudoun County,-50,-24,-11,-80,-44,15
+US,Virginia,Louisa County,-22,-13,,,-32,17
+US,Virginia,Lunenburg County,,-2,,,-29,
+US,Virginia,Lynchburg,-45,-18,,-9,-35,9
+US,Virginia,Madison County,-53,-34,,,-36,
+US,Virginia,Manassas Park,-49,-6,,,-33,
+US,Virginia,Manassas,-35,-16,,-41,-34,19
+US,Virginia,Martinsville,-36,1,,,-35,
+US,Virginia,Mathews County,-64,-2,,,-33,
+US,Virginia,Mecklenburg County,-23,1,2,-26,-16,5
+US,Virginia,Middlesex County,-44,12,,,-31,
+US,Virginia,Montgomery County,-53,-18,,-26,-35,9
+US,Virginia,Nelson County,-42,1,,,-38,
+US,Virginia,New Kent County,-22,-5,,-40,-41,
+US,Virginia,Newport News,-37,-10,55,-32,-31,9
+US,Virginia,Norfolk,-36,-8,37,-56,-31,9
+US,Virginia,Northampton County,-32,-22,,,-14,
+US,Virginia,Northumberland County,-31,-18,,,-24,
+US,Virginia,Norton,-29,,,,,
+US,Virginia,Nottoway County,-30,38,,,-11,
+US,Virginia,Orange County,-25,-15,,,-23,11
+US,Virginia,Page County,-14,3,-17,,-33,
+US,Virginia,Patrick County,-18,25,,,-17,
+US,Virginia,Petersburg,-23,-9,,-20,-25,13
+US,Virginia,Pittsylvania County,-15,-9,,,-31,12
+US,Virginia,Poquoson,-16,-9,,,-44,
+US,Virginia,Portsmouth,-20,-10,53,3,-34,9
+US,Virginia,Powhatan County,-26,-28,,,-37,8
+US,Virginia,Prince Edward County,-35,-19,,,-32,
+US,Virginia,Prince George County,-29,-31,,-32,-28,17
+US,Virginia,Prince William County,-45,-22,30,-27,-40,13
+US,Virginia,Pulaski County,-13,1,,,-31,13
+US,Virginia,Radford,-59,-11,,,-33,
+US,Virginia,Rappahannock County,,,,,-28,
+US,Virginia,Richmond County,-34,-25,,,-19,
+US,Virginia,Richmond,-47,-11,83,-19,-37,10
+US,Virginia,Roanoke County,-29,-15,,,-40,10
+US,Virginia,Roanoke,-44,-7,49,-43,-33,8
+US,Virginia,Rockbridge County,-28,,,-20,-27,
+US,Virginia,Rockingham County,-29,-10,-7,-22,-27,9
+US,Virginia,Russell County,-22,-14,,,-15,
+US,Virginia,Salem,-33,-5,,,-30,-1
+US,Virginia,Scott County,-18,-2,,,-26,
+US,Virginia,Shenandoah County,-27,-10,,-22,-32,16
+US,Virginia,Smyth County,-21,2,,,-14,4
+US,Virginia,Southampton County,-27,4,,,-29,
+US,Virginia,Spotsylvania County,-42,-17,,,-40,10
+US,Virginia,Stafford County,-32,-29,99,,-40,12
+US,Virginia,Staunton,-33,-15,,,-32,0
+US,Virginia,Suffolk,-32,-7,-16,-9,-29,9
+US,Virginia,Surry County,,,,,-36,
+US,Virginia,Sussex County,-38,18,,-48,-17,
+US,Virginia,Tazewell County,-22,6,,,-30,10
+US,Virginia,Virginia Beach,-37,-13,38,-3,-36,9
+US,Virginia,Warren County,-23,-11,,,-32,18
+US,Virginia,Washington County,-42,-11,,-26,-24,11
+US,Virginia,Waynesboro,-32,-12,,,-21,-1
+US,Virginia,Westmoreland County,-32,20,,,-31,
+US,Virginia,Williamsburg,-63,-41,,,-48,
+US,Virginia,Winchester,-51,-16,-37,,-33,9
+US,Virginia,Wise County,-11,4,,,-20,6
+US,Virginia,Wythe County,-39,-17,,-4,-26,-2
+US,Virginia,York County,-31,-20,31,,-43,23
+US,Washington,Adams County,-31,4,,-31,-27,
+US,Washington,Asotin County,-33,,,,-31,7
+US,Washington,Benton County,-47,-23,3,-12,-39,10
+US,Washington,Chelan County,-43,-20,-15,-27,-43,18
+US,Washington,Clallam County,-42,-27,-20,-29,-35,18
+US,Washington,Clark County,-46,-28,-3,-38,-41,13
+US,Washington,Cowlitz County,-40,-20,-23,-34,-35,11
+US,Washington,Douglas County,-53,-19,,-39,-40,17
+US,Washington,Ferry County,,,,,-40,
+US,Washington,Franklin County,-35,-15,-16,-59,-33,12
+US,Washington,Grant County,-36,-8,10,-46,-29,8
+US,Washington,Grays Harbor County,-40,-18,-16,-26,-37,14
+US,Washington,Island County,-34,-25,-12,-53,-42,21
+US,Washington,Jefferson County,-62,-31,-9,-58,-40,2
+US,Washington,King County,-57,-30,0,-66,-47,15
+US,Washington,Kitsap County,-45,-27,12,-62,-43,12
+US,Washington,Kittitas County,-56,-32,-43,-22,-45,19
+US,Washington,Klickitat County,-56,-3,,,-36,
+US,Washington,Lewis County,-49,-21,-37,-32,-34,11
+US,Washington,Lincoln County,,,,,-37,
+US,Washington,Mason County,-28,-25,1,,-38,20
+US,Washington,Okanogan County,-29,2,,,-37,9
+US,Washington,Pacific County,-56,-24,-27,,-41,
+US,Washington,Pend Oreille County,-67,-6,,,-41,
+US,Washington,Pierce County,-46,-22,-17,-31,-39,12
+US,Washington,San Juan County,-61,-32,,-43,-45,
+US,Washington,Skagit County,-47,-25,0,-51,-42,12
+US,Washington,Skamania County,-65,,-57,,-40,
+US,Washington,Snohomish County,-47,-30,-2,-48,-45,14
+US,Washington,Spokane County,-44,-20,9,-45,-38,11
+US,Washington,Stevens County,-30,-7,0,,-33,16
+US,Washington,Thurston County,-47,-28,-32,-36,-38,12
+US,Washington,Walla Walla County,-42,-21,,-47,-40,18
+US,Washington,Whatcom County,-57,-34,-11,-69,-44,13
+US,Washington,Whitman County,-46,-25,,,-47,23
+US,Washington,Yakima County,-36,-13,0,-21,-33,9
+US,West Virginia,Barbour County,-47,-9,,,-16,
+US,West Virginia,Berkeley County,-35,-20,-9,-55,-32,9
+US,West Virginia,Boone County,-40,-13,,,-20,
+US,West Virginia,Braxton County,-31,,,-30,-38,
+US,West Virginia,Brooke County,-31,-10,,,-24,
+US,West Virginia,Cabell County,-47,-20,,-37,-34,9
+US,West Virginia,Fayette County,-21,-9,,,-26,7
+US,West Virginia,Grant County,-51,9,,,-25,
+US,West Virginia,Greenbrier County,-40,-16,,,-41,0
+US,West Virginia,Hampshire County,-26,-1,,,-20,
+US,West Virginia,Hancock County,-37,-1,,,-32,10
+US,West Virginia,Hardy County,-29,-13,,,-23,
+US,West Virginia,Harrison County,-43,-18,-24,-47,-31,19
+US,West Virginia,Jackson County,-33,-32,,-11,-33,
+US,West Virginia,Jefferson County,-39,-39,17,,-43,20
+US,West Virginia,Kanawha County,-44,-14,-2,-43,-33,8
+US,West Virginia,Lewis County,-33,-7,,,-40,
+US,West Virginia,Lincoln County,,,,,-39,
+US,West Virginia,Logan County,-32,-16,,,-24,
+US,West Virginia,Marion County,-38,-21,,,-34,20
+US,West Virginia,Marshall County,-29,-18,,,-27,1
+US,West Virginia,Mason County,-36,-8,,,-28,
+US,West Virginia,McDowell County,,-13,,,-18,
+US,West Virginia,Mercer County,-44,-16,-36,-30,-35,15
+US,West Virginia,Mineral County,-28,-4,,,-24,-2
+US,West Virginia,Mingo County,-63,,,,-37,
+US,West Virginia,Monongalia County,-48,-23,60,-35,-44,25
+US,West Virginia,Monroe County,,,,,-32,
+US,West Virginia,Morgan County,-38,-19,,,-34,
+US,West Virginia,Nicholas County,-28,-12,,,-30,
+US,West Virginia,Ohio County,-40,11,-34,-19,-38,16
+US,West Virginia,Pleasants County,-50,,,,-40,
+US,West Virginia,Pocahontas County,-74,,4,,-55,
+US,West Virginia,Preston County,-36,-5,,,-25,
+US,West Virginia,Putnam County,-33,-16,,-9,-41,21
+US,West Virginia,Raleigh County,-42,-24,,-35,-37,15
+US,West Virginia,Randolph County,-27,-9,,,-17,
+US,West Virginia,Ritchie County,-49,,,,-45,
+US,West Virginia,Roane County,-25,,,,-42,
+US,West Virginia,Summers County,4,,,,-39,
+US,West Virginia,Taylor County,-13,-32,,,-41,
+US,West Virginia,Tucker County,,-14,,,-37,
+US,West Virginia,Tyler County,,,,,-29,
+US,West Virginia,Upshur County,-28,-24,,,-25,
+US,West Virginia,Wayne County,-1,-10,,,-28,0
+US,West Virginia,Webster County,,,,,-38,
+US,West Virginia,Wetzel County,-39,-15,,,-31,
+US,West Virginia,Wood County,-40,-12,-21,,-31,9
+US,West Virginia,Wyoming County,-66,,,,-32,
+US,Wisconsin,Adams County,-62,-16,,,-36,
+US,Wisconsin,Ashland County,-54,-44,,,-37,
+US,Wisconsin,Barron County,-47,-38,,,-31,17
+US,Wisconsin,Bayfield County,-69,-33,,,-37,
+US,Wisconsin,Brown County,-56,-31,-26,-77,-31,13
+US,Wisconsin,Buffalo County,-74,-12,,,-26,
+US,Wisconsin,Burnett County,-62,-24,,,-34,
+US,Wisconsin,Calumet County,-71,-29,193,,-33,25
+US,Wisconsin,Chippewa County,-52,-34,,,-28,19
+US,Wisconsin,Clark County,-79,-29,,,-25,16
+US,Wisconsin,Columbia County,-54,-29,,-37,-31,21
+US,Wisconsin,Crawford County,-44,-26,,,-19,
+US,Wisconsin,Dane County,-68,-38,-25,-67,-43,15
+US,Wisconsin,Dodge County,-48,-32,-9,,-21,13
+US,Wisconsin,Door County,-54,-28,,,-33,-2
+US,Wisconsin,Douglas County,-54,-40,,,-33,20
+US,Wisconsin,Dunn County,-49,-35,,-14,-32,19
+US,Wisconsin,Eau Claire County,-59,-35,-22,-36,-32,14
+US,Wisconsin,Florence County,-73,,,,,
+US,Wisconsin,Fond du Lac County,-54,-36,-13,-21,-31,12
+US,Wisconsin,Forest County,-84,,,,-40,
+US,Wisconsin,Grant County,-47,-24,,,-27,19
+US,Wisconsin,Green County,-53,-22,,,-31,22
+US,Wisconsin,Green Lake County,-36,-22,,,-25,
+US,Wisconsin,Iowa County,-54,-44,,,-35,2
+US,Wisconsin,Iron County,-86,,,,-42,
+US,Wisconsin,Jackson County,-50,-19,,-12,-38,
+US,Wisconsin,Jefferson County,-52,-28,-11,-62,-30,14
+US,Wisconsin,Juneau County,-64,-33,,-29,-32,13
+US,Wisconsin,Kenosha County,-61,-33,-23,-56,-34,12
+US,Wisconsin,Kewaunee County,-57,-17,,,-23,
+US,Wisconsin,La Crosse County,-56,-28,-4,-38,-35,13
+US,Wisconsin,Lafayette County,-85,-7,,,-22,
+US,Wisconsin,Langlade County,-46,-30,,,-24,
+US,Wisconsin,Lincoln County,-50,-36,,,-32,13
+US,Wisconsin,Manitowoc County,-51,-19,11,,-21,15
+US,Wisconsin,Marathon County,-54,-32,-50,,-32,13
+US,Wisconsin,Marinette County,-49,-25,-15,,-25,15
+US,Wisconsin,Marquette County,-65,-25,,,-27,
+US,Wisconsin,Milwaukee County,-55,-28,-9,-57,-38,13
+US,Wisconsin,Monroe County,-46,-33,,-17,-26,19
+US,Wisconsin,Oconto County,-69,-22,-58,,-25,16
+US,Wisconsin,Oneida County,-54,-47,-50,,-32,17
+US,Wisconsin,Outagamie County,-61,-35,-41,-62,-33,13
+US,Wisconsin,Ozaukee County,-59,-35,11,,-37,27
+US,Wisconsin,Pepin County,-64,,,,-29,
+US,Wisconsin,Pierce County,-73,-21,,,-35,23
+US,Wisconsin,Polk County,-43,-26,-33,,-33,21
+US,Wisconsin,Portage County,-52,-34,-18,,-38,22
+US,Wisconsin,Price County,-67,-31,,,-33,
+US,Wisconsin,Racine County,-52,-28,-11,-37,-32,12
+US,Wisconsin,Richland County,-44,,,,-25,
+US,Wisconsin,Rock County,-52,-30,-15,-36,-34,11
+US,Wisconsin,Rusk County,-49,-39,,,-25,
+US,Wisconsin,Sauk County,-66,-29,-30,-50,-48,22
+US,Wisconsin,Sawyer County,-45,-37,,,-43,
+US,Wisconsin,Shawano County,-48,-35,,,-33,19
+US,Wisconsin,Sheboygan County,-47,-28,4,-23,-26,11
+US,Wisconsin,St. Croix County,-53,-35,-21,-39,-34,24
+US,Wisconsin,Taylor County,-50,-21,,,-2,
+US,Wisconsin,Trempealeau County,-59,-28,,,-26,15
+US,Wisconsin,Vernon County,-54,-28,,,-35,4
+US,Wisconsin,Vilas County,-83,-28,-46,,-51,
+US,Wisconsin,Walworth County,-49,-28,-33,,-39,12
+US,Wisconsin,Washburn County,-37,-59,,,-39,
+US,Wisconsin,Washington County,-49,-29,-22,-31,-36,13
+US,Wisconsin,Waukesha County,-58,-35,-23,-44,-40,14
+US,Wisconsin,Waupaca County,-50,-26,-25,,-24,19
+US,Wisconsin,Waushara County,-56,-1,,,-35,4
+US,Wisconsin,Winnebago County,-54,-32,-11,-41,-32,13
+US,Wisconsin,Wood County,-43,-31,,,-31,15
+US,Wyoming,Albany County,-42,-27,-4,1,-29,16
+US,Wyoming,Big Horn County,-35,-7,,,-29,
+US,Wyoming,Campbell County,-32,-2,,-7,-22,17
+US,Wyoming,Carbon County,-30,-14,,-15,-35,
+US,Wyoming,Converse County,-42,-3,,-35,-22,
+US,Wyoming,Crook County,,,,,-38,
+US,Wyoming,Fremont County,-31,-17,,,-27,15
+US,Wyoming,Goshen County,-24,-17,,,-26,
+US,Wyoming,Hot Springs County,-67,-22,-56,,,
+US,Wyoming,Johnson County,-38,-2,,,-30,
+US,Wyoming,Laramie County,-39,-20,26,-16,-28,10
+US,Wyoming,Lincoln County,-30,-5,,,-35,
+US,Wyoming,Natrona County,-36,-8,64,-29,-29,9
+US,Wyoming,Park County,-35,10,,,-31,5
+US,Wyoming,Platte County,-35,-5,,-43,-31,
+US,Wyoming,Sheridan County,-34,7,,,-26,13
+US,Wyoming,Sublette County,-70,-24,,,-36,
+US,Wyoming,Sweetwater County,-33,-9,,6,-22,15
+US,Wyoming,Teton County,-83,-50,-57,-80,-70,
+US,Wyoming,Uinta County,-29,2,,1,-18,
+US,Wyoming,Washakie County,-17,-7,,,-32,
+US,Wyoming,Weston County,-57,-24,,,-34,
+UY,,,-75,-45,-79,-71,-35,22
+UY,,Artigas Department,-60,-45,-71,-77,-24,-3
+UY,,Canelones Department,-74,-49,-77,-75,-31,20
+UY,,Cerro Largo Department,-74,-43,-76,-73,-28,13
+UY,,Colonia Department,-78,-51,-84,-90,-38,21
+UY,,Durazno Department,-68,-39,-68,-79,-21,-2
+UY,,Flores Department,-83,-38,-72,,-20,
+UY,,Florida Department,-63,-37,-78,-70,-23,13
+UY,,Lavalleja Department,-53,-35,-76,-69,-22,-2
+UY,,Maldonado Department,-87,-65,-88,-86,-56,24
+UY,,Montevideo Department,-73,-37,-72,-58,-37,23
+UY,,Paysandú Department,-68,-22,-75,-78,-23,18
+UY,,Rivera Department,-71,-33,-76,-67,-33,12
+UY,,Rocha Department,-89,-75,-89,-90,-41,9
+UY,,Río Negro Department,-72,-49,-82,-64,-27,-3
+UY,,Salto Department,-71,-49,-74,-68,-30,17
+UY,,San José Department,-60,-40,-78,-61,-23,19
+UY,,Soriano Department,-67,-52,-78,,-28,13
+UY,,Tacuarembó Department,-67,-43,-77,-76,-25,15
+UY,,Treinta y Tres Department,-60,-24,-75,-55,-20,
+VE,,,-62,-44,-57,-62,-25,16
+VN,,,-52,-29,-33,-49,-20,16
+YE,,,-8,-1,-9,-9,-5,5
+ZA,,,-79,-60,-55,-80,-49,24
+ZM,,,-21,-8,-6,-24,0,10
+ZW,,,-2,24,-4,-6,14,13
